@@ -97,26 +97,26 @@ Current value comes from the game's saved settings; *changed* marks binds that d
 | units | unit orders | energy_on |  |  |
 | units | unit orders | energy_off |  |  |
 | units | unit orders | toggle_energy_orders | k |  *changed* |
-| units | unit capture groups | capture_group_1 | ctrl+1 | alt+1 *changed* |
-| units | unit capture groups | capture_group_2 | ctrl+2 | alt+2 *changed* |
-| units | unit capture groups | capture_group_3 | ctrl+3 | alt+3 *changed* |
-| units | unit capture groups | capture_group_4 | ctrl+4 | alt+q *changed* |
-| units | unit capture groups | capture_group_5 | ctrl+5 | alt+w *changed* |
-| units | unit capture groups | capture_group_6 | ctrl+6 | alt+e *changed* |
-| units | unit capture groups | capture_group_7 | ctrl+7 | alt+a *changed* |
-| units | unit capture groups | capture_group_8 | ctrl+8 | alt+s *changed* |
-| units | unit capture groups | capture_group_9 | ctrl+9 | alt+d *changed* |
-| units | unit capture groups | capture_group_0 | ctrl+0 |  *changed* |
-| units | unit recall groups | recall_group_1 | 1 | 1 |
-| units | unit recall groups | recall_group_2 | 2 | 2 |
-| units | unit recall groups | recall_group_3 | 3 | 3 |
-| units | unit recall groups | recall_group_4 | 4 | q *changed* |
-| units | unit recall groups | recall_group_5 | 5 | w *changed* |
-| units | unit recall groups | recall_group_6 | 6 | e *changed* |
-| units | unit recall groups | recall_group_7 | 7 | a *changed* |
-| units | unit recall groups | recall_group_8 | 8 | s *changed* |
-| units | unit recall groups | recall_group_9 | 9 | d *changed* |
-| units | unit recall groups | recall_group_0 | 0 |  *changed* |
+| units | unit capture groups | capture_group_1 | ctrl+1 | alt+2 *changed* |
+| units | unit capture groups | capture_group_2 | ctrl+2 | alt+3 *changed* |
+| units | unit capture groups | capture_group_3 | ctrl+3 | alt+q *changed* |
+| units | unit capture groups | capture_group_4 | ctrl+4 | alt+w *changed* |
+| units | unit capture groups | capture_group_5 | ctrl+5 | alt+e *changed* |
+| units | unit capture groups | capture_group_6 | ctrl+6 | alt+a *changed* |
+| units | unit capture groups | capture_group_7 | ctrl+7 | alt+s *changed* |
+| units | unit capture groups | capture_group_8 | ctrl+8 | alt+d *changed* |
+| units | unit capture groups | capture_group_9 | ctrl+9 |  *changed* |
+| units | unit capture groups | capture_group_0 | ctrl+0 | alt+1 *changed* |
+| units | unit recall groups | recall_group_1 | 1 | 2 *changed* |
+| units | unit recall groups | recall_group_2 | 2 | 3 *changed* |
+| units | unit recall groups | recall_group_3 | 3 | q *changed* |
+| units | unit recall groups | recall_group_4 | 4 | w *changed* |
+| units | unit recall groups | recall_group_5 | 5 | e *changed* |
+| units | unit recall groups | recall_group_6 | 6 | a *changed* |
+| units | unit recall groups | recall_group_7 | 7 | s *changed* |
+| units | unit recall groups | recall_group_8 | 8 | d *changed* |
+| units | unit recall groups | recall_group_9 | 9 |  *changed* |
+| units | unit recall groups | recall_group_0 | 0 | 1 *changed* |
 | build | build bar groups | start_build_vehicle | z |  *changed* |
 | build | build bar groups | start_build_bot | x |  *changed* |
 | build | build bar groups | start_build_air | c |  *changed* |
@@ -192,26 +192,26 @@ Current value comes from the game's saved settings; *changed* marks binds that d
 | camera | free movement | free_yaw_right | l |  *changed* |
 | camera | free movement | free_zoom_in | q |  *changed* |
 | camera | free movement | free_zoom_out | e |  *changed* |
-| camera | capture anchor | capture_anchor_1 | shift+1 | alt+shift+1 *changed* |
-| camera | capture anchor | capture_anchor_2 | shift+2 | alt+shift+2 *changed* |
-| camera | capture anchor | capture_anchor_3 | shift+3 | alt+shift+3 *changed* |
-| camera | capture anchor | capture_anchor_4 | shift+4 | alt+shift+q *changed* |
-| camera | capture anchor | capture_anchor_5 | shift+5 | alt+shift+w *changed* |
-| camera | capture anchor | capture_anchor_6 | shift+6 | alt+shift+e *changed* |
-| camera | capture anchor | capture_anchor_7 | shift+7 | alt+shift+a *changed* |
-| camera | capture anchor | capture_anchor_8 | shift+8 | alt+shift+s *changed* |
-| camera | capture anchor | capture_anchor_9 | shift+9 | alt+shift+d *changed* |
-| camera | capture anchor | capture_anchor_0 | shift+0 |  *changed* |
-| camera | recall anchor | recall_anchor_1 | alt+1 | shift+1 *changed* |
-| camera | recall anchor | recall_anchor_2 | alt+2 | shift+2 *changed* |
-| camera | recall anchor | recall_anchor_3 | alt+3 | shift+3 *changed* |
-| camera | recall anchor | recall_anchor_4 | alt+4 | shift+q *changed* |
-| camera | recall anchor | recall_anchor_5 | alt+5 | shift+w *changed* |
-| camera | recall anchor | recall_anchor_6 | alt+6 | shift+e *changed* |
-| camera | recall anchor | recall_anchor_7 | alt+7 | shift+a *changed* |
-| camera | recall anchor | recall_anchor_8 | alt+8 | shift+s *changed* |
-| camera | recall anchor | recall_anchor_9 | alt+9 | shift+d *changed* |
-| camera | recall anchor | recall_anchor_0 | alt+0 |  *changed* |
+| camera | capture anchor | capture_anchor_1 | shift+1 | alt+shift+2 *changed* |
+| camera | capture anchor | capture_anchor_2 | shift+2 | alt+shift+3 *changed* |
+| camera | capture anchor | capture_anchor_3 | shift+3 | alt+shift+q *changed* |
+| camera | capture anchor | capture_anchor_4 | shift+4 | alt+shift+w *changed* |
+| camera | capture anchor | capture_anchor_5 | shift+5 | alt+shift+e *changed* |
+| camera | capture anchor | capture_anchor_6 | shift+6 | alt+shift+a *changed* |
+| camera | capture anchor | capture_anchor_7 | shift+7 | alt+shift+s *changed* |
+| camera | capture anchor | capture_anchor_8 | shift+8 | alt+shift+d *changed* |
+| camera | capture anchor | capture_anchor_9 | shift+9 |  *changed* |
+| camera | capture anchor | capture_anchor_0 | shift+0 | alt+shift+1 *changed* |
+| camera | recall anchor | recall_anchor_1 | alt+1 | shift+2 *changed* |
+| camera | recall anchor | recall_anchor_2 | alt+2 | shift+3 *changed* |
+| camera | recall anchor | recall_anchor_3 | alt+3 | shift+q *changed* |
+| camera | recall anchor | recall_anchor_4 | alt+4 | shift+w *changed* |
+| camera | recall anchor | recall_anchor_5 | alt+5 | shift+e *changed* |
+| camera | recall anchor | recall_anchor_6 | alt+6 | shift+a *changed* |
+| camera | recall anchor | recall_anchor_7 | alt+7 | shift+s *changed* |
+| camera | recall anchor | recall_anchor_8 | alt+8 | shift+d *changed* |
+| camera | recall anchor | recall_anchor_9 | alt+9 |  *changed* |
+| camera | recall anchor | recall_anchor_0 | alt+0 | shift+1 *changed* |
 | camera | recall anchor | history_back | backspace | backspace |
 | camera | recall anchor | history_forward | shift+backspace | shift+backspace |
 | camera | tuning | increase_camera_pan_speed |  |  |

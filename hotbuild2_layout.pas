@@ -536,83 +536,83 @@
   },
   {
    "key": "capture_group_1",
-   "value": "alt+1"
-  },
-  {
-   "key": "capture_group_2",
    "value": "alt+2"
   },
   {
-   "key": "capture_group_3",
+   "key": "capture_group_2",
    "value": "alt+3"
   },
   {
-   "key": "capture_group_4",
+   "key": "capture_group_3",
    "value": "alt+q"
   },
   {
-   "key": "capture_group_5",
+   "key": "capture_group_4",
    "value": "alt+w"
   },
   {
-   "key": "capture_group_6",
+   "key": "capture_group_5",
    "value": "alt+e"
   },
   {
-   "key": "capture_group_7",
+   "key": "capture_group_6",
    "value": "alt+a"
   },
   {
-   "key": "capture_group_8",
+   "key": "capture_group_7",
    "value": "alt+s"
   },
   {
-   "key": "capture_group_9",
+   "key": "capture_group_8",
    "value": "alt+d"
   },
   {
-   "key": "capture_group_0",
+   "key": "capture_group_9",
    "value": ""
+  },
+  {
+   "key": "capture_group_0",
+   "value": "alt+1"
   },
   {
    "key": "recall_group_1",
-   "value": "1"
-  },
-  {
-   "key": "recall_group_2",
    "value": "2"
   },
   {
-   "key": "recall_group_3",
+   "key": "recall_group_2",
    "value": "3"
   },
   {
-   "key": "recall_group_4",
+   "key": "recall_group_3",
    "value": "q"
   },
   {
-   "key": "recall_group_5",
+   "key": "recall_group_4",
    "value": "w"
   },
   {
-   "key": "recall_group_6",
+   "key": "recall_group_5",
    "value": "e"
   },
   {
-   "key": "recall_group_7",
+   "key": "recall_group_6",
    "value": "a"
   },
   {
-   "key": "recall_group_8",
+   "key": "recall_group_7",
    "value": "s"
   },
   {
-   "key": "recall_group_9",
+   "key": "recall_group_8",
    "value": "d"
   },
   {
-   "key": "recall_group_0",
+   "key": "recall_group_9",
    "value": ""
+  },
+  {
+   "key": "recall_group_0",
+   "value": "1"
   },
   {
    "key": "start_build_vehicle",
@@ -916,83 +916,83 @@
   },
   {
    "key": "capture_anchor_1",
-   "value": "alt+shift+1"
-  },
-  {
-   "key": "capture_anchor_2",
    "value": "alt+shift+2"
   },
   {
-   "key": "capture_anchor_3",
+   "key": "capture_anchor_2",
    "value": "alt+shift+3"
   },
   {
-   "key": "capture_anchor_4",
+   "key": "capture_anchor_3",
    "value": "alt+shift+q"
   },
   {
-   "key": "capture_anchor_5",
+   "key": "capture_anchor_4",
    "value": "alt+shift+w"
   },
   {
-   "key": "capture_anchor_6",
+   "key": "capture_anchor_5",
    "value": "alt+shift+e"
   },
   {
-   "key": "capture_anchor_7",
+   "key": "capture_anchor_6",
    "value": "alt+shift+a"
   },
   {
-   "key": "capture_anchor_8",
+   "key": "capture_anchor_7",
    "value": "alt+shift+s"
   },
   {
-   "key": "capture_anchor_9",
+   "key": "capture_anchor_8",
    "value": "alt+shift+d"
   },
   {
-   "key": "capture_anchor_0",
+   "key": "capture_anchor_9",
    "value": ""
+  },
+  {
+   "key": "capture_anchor_0",
+   "value": "alt+shift+1"
   },
   {
    "key": "recall_anchor_1",
-   "value": "shift+1"
-  },
-  {
-   "key": "recall_anchor_2",
    "value": "shift+2"
   },
   {
-   "key": "recall_anchor_3",
+   "key": "recall_anchor_2",
    "value": "shift+3"
   },
   {
-   "key": "recall_anchor_4",
+   "key": "recall_anchor_3",
    "value": "shift+q"
   },
   {
-   "key": "recall_anchor_5",
+   "key": "recall_anchor_4",
    "value": "shift+w"
   },
   {
-   "key": "recall_anchor_6",
+   "key": "recall_anchor_5",
    "value": "shift+e"
   },
   {
-   "key": "recall_anchor_7",
+   "key": "recall_anchor_6",
    "value": "shift+a"
   },
   {
-   "key": "recall_anchor_8",
+   "key": "recall_anchor_7",
    "value": "shift+s"
   },
   {
-   "key": "recall_anchor_9",
+   "key": "recall_anchor_8",
    "value": "shift+d"
   },
   {
-   "key": "recall_anchor_0",
+   "key": "recall_anchor_9",
    "value": ""
+  },
+  {
+   "key": "recall_anchor_0",
+   "value": "shift+1"
   },
   {
    "key": "history_back",
