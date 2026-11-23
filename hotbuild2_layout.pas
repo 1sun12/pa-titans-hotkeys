@@ -3,13 +3,13 @@
   "hotbuild1s": "c",
   "hotbuild2s": "v",
   "hotbuild3s": "z",
-  "hotbuild4s": "j",
+  "hotbuild4s": "b",
   "hotbuild5s": "f",
   "hotbuild6s": "g",
-  "hotbuild7s": "t",
+  "hotbuild7s": "y",
   "hotbuild8s": "h",
-  "hotbuild9s": "r",
-  "hotbuild10s": "e",
+  "hotbuild9s": "t",
+  "hotbuild10s": "r",
   "hotbuild11s": "x"
  },
  "hotbuildglobal": {
@@ -380,19 +380,19 @@
   },
   {
    "key": "select_commander",
-   "value": "capslock"
+   "value": "tab"
   },
   {
    "key": "select_idle_fabbers",
-   "value": "1"
+   "value": "shift+space"
   },
   {
    "key": "select_all_factories",
-   "value": "shift+f1"
+   "value": "capslock"
   },
   {
    "key": "select_all_idle_factories",
-   "value": "2"
+   "value": ""
   },
   {
    "key": "select_all_factories_on_screen",
@@ -424,7 +424,7 @@
   },
   {
    "key": "select_all_air_combat_units",
-   "value": "ctrl+shift+f9"
+   "value": "`"
   },
   {
    "key": "select_all_naval_combat_units_on_screen",
@@ -444,23 +444,23 @@
   },
   {
    "key": "command_mode_attack",
-   "value": ""
+   "value": "f2"
   },
   {
    "key": "command_mode_assist",
-   "value": ""
+   "value": "f4"
   },
   {
    "key": "command_mode_repair",
-   "value": ""
+   "value": "f6"
   },
   {
    "key": "command_mode_reclaim",
-   "value": ""
+   "value": "f5"
   },
   {
    "key": "command_mode_patrol",
-   "value": ""
+   "value": "f3"
   },
   {
    "key": "command_mode_special_move",
@@ -480,7 +480,7 @@
   },
   {
    "key": "stop_command",
-   "value": "q"
+   "value": "f1"
   },
   {
    "key": "self_destruct_selected_unit",
@@ -532,87 +532,87 @@
   },
   {
    "key": "toggle_energy_orders",
-   "value": "tab"
+   "value": ""
   },
   {
    "key": "capture_group_1",
-   "value": "ctrl+1"
+   "value": "alt+1"
   },
   {
    "key": "capture_group_2",
-   "value": "ctrl+2"
+   "value": "alt+2"
   },
   {
    "key": "capture_group_3",
-   "value": "ctrl+3"
+   "value": "alt+3"
   },
   {
    "key": "capture_group_4",
-   "value": "ctrl+4"
+   "value": "alt+q"
   },
   {
    "key": "capture_group_5",
-   "value": "ctrl+5"
+   "value": "alt+w"
   },
   {
    "key": "capture_group_6",
-   "value": "ctrl+6"
+   "value": "alt+e"
   },
   {
    "key": "capture_group_7",
-   "value": "ctrl+7"
+   "value": "alt+a"
   },
   {
    "key": "capture_group_8",
-   "value": "ctrl+8"
+   "value": "alt+s"
   },
   {
    "key": "capture_group_9",
-   "value": "ctrl+9"
+   "value": "alt+d"
   },
   {
    "key": "capture_group_0",
-   "value": "ctrl+0"
+   "value": ""
   },
   {
    "key": "recall_group_1",
-   "value": ""
+   "value": "1"
   },
   {
    "key": "recall_group_2",
-   "value": ""
+   "value": "2"
   },
   {
    "key": "recall_group_3",
-   "value": ""
+   "value": "3"
   },
   {
    "key": "recall_group_4",
-   "value": ""
+   "value": "q"
   },
   {
    "key": "recall_group_5",
-   "value": ""
+   "value": "w"
   },
   {
    "key": "recall_group_6",
-   "value": ""
+   "value": "e"
   },
   {
    "key": "recall_group_7",
-   "value": "7"
+   "value": "a"
   },
   {
    "key": "recall_group_8",
-   "value": "8"
+   "value": "s"
   },
   {
    "key": "recall_group_9",
-   "value": "9"
+   "value": "d"
   },
   {
    "key": "recall_group_0",
-   "value": "0"
+   "value": ""
   },
   {
    "key": "start_build_vehicle",
@@ -796,19 +796,19 @@
   },
   {
    "key": "camera_move_left",
-   "value": "a"
+   "value": ""
   },
   {
    "key": "camera_move_right",
-   "value": "d"
+   "value": ""
   },
   {
    "key": "camera_move_up",
-   "value": "w"
+   "value": ""
   },
   {
    "key": "camera_move_down",
-   "value": "s"
+   "value": ""
   },
   {
    "key": "camera_zoom_in",
@@ -860,139 +860,139 @@
   },
   {
    "key": "free_move_left",
-   "value": "q"
+   "value": ""
   },
   {
    "key": "free_move_right",
-   "value": "d"
+   "value": ""
   },
   {
    "key": "free_move_up",
-   "value": "a"
+   "value": ""
   },
   {
    "key": "free_move_down",
-   "value": "e"
+   "value": ""
   },
   {
    "key": "free_move_forward",
-   "value": "z"
+   "value": ""
   },
   {
    "key": "free_move_backward",
-   "value": "s"
+   "value": ""
   },
   {
    "key": "free_roll_left",
-   "value": "y"
+   "value": ""
   },
   {
    "key": "free_roll_right",
-   "value": "h"
+   "value": ""
   },
   {
    "key": "free_pitch_forward",
-   "value": "t"
+   "value": ""
   },
   {
    "key": "free_pitch_backward",
-   "value": "g"
+   "value": ""
   },
   {
    "key": "free_yaw_left",
-   "value": "r"
+   "value": ""
   },
   {
    "key": "free_yaw_right",
-   "value": "f"
+   "value": ""
   },
   {
    "key": "free_zoom_in",
-   "value": "c"
+   "value": ""
   },
   {
    "key": "free_zoom_out",
-   "value": "v"
+   "value": ""
   },
   {
    "key": "capture_anchor_1",
-   "value": "shift+1"
+   "value": "alt+shift+1"
   },
   {
    "key": "capture_anchor_2",
-   "value": "shift+2"
+   "value": "alt+shift+2"
   },
   {
    "key": "capture_anchor_3",
-   "value": "shift+3"
+   "value": "alt+shift+3"
   },
   {
    "key": "capture_anchor_4",
-   "value": "shift+4"
+   "value": "alt+shift+q"
   },
   {
    "key": "capture_anchor_5",
-   "value": "shift+5"
+   "value": "alt+shift+w"
   },
   {
    "key": "capture_anchor_6",
-   "value": "shift+6"
+   "value": "alt+shift+e"
   },
   {
    "key": "capture_anchor_7",
-   "value": "shift+7"
+   "value": "alt+shift+a"
   },
   {
    "key": "capture_anchor_8",
-   "value": "shift+8"
+   "value": "alt+shift+s"
   },
   {
    "key": "capture_anchor_9",
-   "value": "shift+9"
+   "value": "alt+shift+d"
   },
   {
    "key": "capture_anchor_0",
-   "value": "shift+0"
+   "value": ""
   },
   {
    "key": "recall_anchor_1",
-   "value": "alt+1"
+   "value": "shift+1"
   },
   {
    "key": "recall_anchor_2",
-   "value": "alt+2"
+   "value": "shift+2"
   },
   {
    "key": "recall_anchor_3",
-   "value": "alt+3"
+   "value": "shift+3"
   },
   {
    "key": "recall_anchor_4",
-   "value": "alt+4"
+   "value": "shift+q"
   },
   {
    "key": "recall_anchor_5",
-   "value": "alt+5"
+   "value": "shift+w"
   },
   {
    "key": "recall_anchor_6",
-   "value": "alt+6"
+   "value": "shift+e"
   },
   {
    "key": "recall_anchor_7",
-   "value": "alt+7"
+   "value": "shift+a"
   },
   {
    "key": "recall_anchor_8",
-   "value": "alt+8"
+   "value": "shift+s"
   },
   {
    "key": "recall_anchor_9",
-   "value": "alt+9"
+   "value": "shift+d"
   },
   {
    "key": "recall_anchor_0",
-   "value": "alt+0"
+   "value": ""
   },
   {
    "key": "history_back",
@@ -1028,7 +1028,7 @@
   },
   {
    "key": "reload_view",
-   "value": "f5"
+   "value": ""
   },
   {
    "key": "toggle_audio_logging",

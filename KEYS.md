@@ -8,16 +8,16 @@ Units cycle in this order on repeated presses.
 
 | Key | Slot | Units |
 |---|---|---|
+| **B** | hotbuild4s | teleporter, ion_defense, fabrication_bot_combat_adv, fabrication_bot_combat, delta_v_engine |
 | **C** | hotbuild1s | air_defense_adv, air_defense, land_barrier |
-| **E** | hotbuild10s | metal_extractor_adv, metal_extractor, fabrication_bot_adv, fabrication_bot, fabrication_vehicle_adv, fabrication_vehicle, orbital_fabrication_bot, fabrication_aircraft_adv, fabrication_aircraft, fabrication_ship, fabrication_ship_adv |
 | **F** | hotbuild5s | vehicle_factory, bot_factory, anti_nuke_launcher_ammo, nuke_launcher_ammo, land_scout, air_scout |
 | **G** | hotbuild6s | air_factory, air_factory_adv, naval_factory, naval_factory_adv, orbital_launcher, tank_heavy_mortar, missile_ship, orbital_laser |
 | **H** | hotbuild8s | vehicle_factory_adv, bot_factory_adv, control_module, bot_bomb, tank_armor, tank_heavy_armor, orbital_lander |
-| **J** | hotbuild4s | teleporter, ion_defense, fabrication_bot_combat_adv, fabrication_bot_combat, delta_v_engine |
-| **R** | hotbuild9s | energy_plant_adv, energy_plant, solar_array, assault_bot, assault_bot_adv, tank_light_laser, tank_laser_adv, bomber, bomber_adv, destroyer, battleship, orbital_fighter |
-| **T** | hotbuild7s | radar_adv, radar, radar_satellite, radar_satellite_adv, fighter, bot_grenadier, aa_missile_vehicle, frigate |
+| **R** | hotbuild10s | metal_extractor_adv, metal_extractor, fabrication_bot_adv, fabrication_bot, fabrication_vehicle_adv, fabrication_vehicle, orbital_fabrication_bot, fabrication_aircraft_adv, fabrication_aircraft, fabrication_ship, fabrication_ship_adv |
+| **T** | hotbuild9s | energy_plant_adv, energy_plant, solar_array, assault_bot, assault_bot_adv, tank_light_laser, tank_laser_adv, bomber, bomber_adv, destroyer, battleship, orbital_fighter |
 | **V** | hotbuild2s | artillery_short, tactical_missile_launcher, artillery_long |
 | **X** | hotbuild11s | defense_satellite, laser_defense_adv, laser_defense, laser_defense_single |
+| **Y** | hotbuild7s | radar_adv, radar, radar_satellite, radar_satellite_adv, fighter, bot_grenadier, aa_missile_vehicle, frigate |
 | **Z** | hotbuild3s | energy_storage, metal_storage, anti_nuke_launcher, nuke_launcher |
 
 ## Game keybinds
@@ -58,10 +58,10 @@ Current value comes from the game's saved settings; *changed* marks binds that d
 | general | chronocam | play_backwards_at_10 |  |  |
 | general | chronocam | skip_forward_1sec |  |  |
 | general | chronocam | skip_backwards_1sec |  |  |
-| units | unit selection | select_commander | alt+c | capslock *changed* |
-| units | unit selection | select_idle_fabbers | f | 1 *changed* |
-| units | unit selection | select_all_factories | shift+f1 | shift+f1 |
-| units | unit selection | select_all_idle_factories | shift+f2 | 2 *changed* |
+| units | unit selection | select_commander | alt+c | tab *changed* |
+| units | unit selection | select_idle_fabbers | f | shift+space *changed* |
+| units | unit selection | select_all_factories | shift+f1 | capslock *changed* |
+| units | unit selection | select_all_idle_factories | shift+f2 |  *changed* |
 | units | unit selection | select_all_factories_on_screen | shift+f3 | shift+f3 |
 | units | unit selection | select_all_idle_factories_on_screen | shift+f4 |  *changed* |
 | units | unit selection | select_all_combat_units_on_screen | shift+f5 | shift+f5 |
@@ -69,21 +69,21 @@ Current value comes from the game's saved settings; *changed* marks binds that d
 | units | unit selection | select_all_land_combat_units_on_screen | ctrl+shift+f6 |  *changed* |
 | units | unit selection | select_all_land_combat_units | ctrl+shift+f7 | ctrl+shift+f7 |
 | units | unit selection | select_all_air_combat_units_on_screen | ctrl+shift+f8 | ctrl+shift+f8 |
-| units | unit selection | select_all_air_combat_units | ctrl+shift+f9 | ctrl+shift+f9 |
+| units | unit selection | select_all_air_combat_units | ctrl+shift+f9 | ` *changed* |
 | units | unit selection | select_all_naval_combat_units_on_screen | ctrl+shift+f10 | ctrl+shift+f10 |
 | units | unit selection | select_all_naval_combat_units | ctrl+shift+f4 | ctrl+shift+f4 |
 | units | unit selection | select_all_matching_units_on_screen | ctrl+z | ctrl+z |
 | units | unit commands | command_mode_move | m |  *changed* |
-| units | unit commands | command_mode_attack | a |  *changed* |
-| units | unit commands | command_mode_assist | i |  *changed* |
-| units | unit commands | command_mode_repair | r |  *changed* |
-| units | unit commands | command_mode_reclaim | e |  *changed* |
-| units | unit commands | command_mode_patrol | p |  *changed* |
+| units | unit commands | command_mode_attack | a | f2 *changed* |
+| units | unit commands | command_mode_assist | i | f4 *changed* |
+| units | unit commands | command_mode_repair | r | f6 *changed* |
+| units | unit commands | command_mode_reclaim | e | f5 *changed* |
+| units | unit commands | command_mode_patrol | p | f3 *changed* |
 | units | unit commands | command_mode_special_move |  |  |
 | units | unit commands | command_mode_unload |  |  |
 | units | unit commands | command_mode_load |  |  |
 | units | unit commands | command_mode_alt_fire | d | u *changed* |
-| units | unit commands | stop_command | s | q *changed* |
+| units | unit commands | stop_command | s | f1 *changed* |
 | units | unit commands | self_destruct_selected_unit | del | del |
 | units | unit commands | command_mode_mass_teleport |  |  |
 | units | unit orders | fire_at_will |  |  |
@@ -96,27 +96,27 @@ Current value comes from the game's saved settings; *changed* marks binds that d
 | units | unit orders | toggle_move_orders | j |  *changed* |
 | units | unit orders | energy_on |  |  |
 | units | unit orders | energy_off |  |  |
-| units | unit orders | toggle_energy_orders | k | tab *changed* |
-| units | unit capture groups | capture_group_1 | ctrl+1 | ctrl+1 |
-| units | unit capture groups | capture_group_2 | ctrl+2 | ctrl+2 |
-| units | unit capture groups | capture_group_3 | ctrl+3 | ctrl+3 |
-| units | unit capture groups | capture_group_4 | ctrl+4 | ctrl+4 |
-| units | unit capture groups | capture_group_5 | ctrl+5 | ctrl+5 |
-| units | unit capture groups | capture_group_6 | ctrl+6 | ctrl+6 |
-| units | unit capture groups | capture_group_7 | ctrl+7 | ctrl+7 |
-| units | unit capture groups | capture_group_8 | ctrl+8 | ctrl+8 |
-| units | unit capture groups | capture_group_9 | ctrl+9 | ctrl+9 |
-| units | unit capture groups | capture_group_0 | ctrl+0 | ctrl+0 |
-| units | unit recall groups | recall_group_1 | 1 |  *changed* |
-| units | unit recall groups | recall_group_2 | 2 |  *changed* |
-| units | unit recall groups | recall_group_3 | 3 |  *changed* |
-| units | unit recall groups | recall_group_4 | 4 |  *changed* |
-| units | unit recall groups | recall_group_5 | 5 |  *changed* |
-| units | unit recall groups | recall_group_6 | 6 |  *changed* |
-| units | unit recall groups | recall_group_7 | 7 | 7 |
-| units | unit recall groups | recall_group_8 | 8 | 8 |
-| units | unit recall groups | recall_group_9 | 9 | 9 |
-| units | unit recall groups | recall_group_0 | 0 | 0 |
+| units | unit orders | toggle_energy_orders | k |  *changed* |
+| units | unit capture groups | capture_group_1 | ctrl+1 | alt+1 *changed* |
+| units | unit capture groups | capture_group_2 | ctrl+2 | alt+2 *changed* |
+| units | unit capture groups | capture_group_3 | ctrl+3 | alt+3 *changed* |
+| units | unit capture groups | capture_group_4 | ctrl+4 | alt+q *changed* |
+| units | unit capture groups | capture_group_5 | ctrl+5 | alt+w *changed* |
+| units | unit capture groups | capture_group_6 | ctrl+6 | alt+e *changed* |
+| units | unit capture groups | capture_group_7 | ctrl+7 | alt+a *changed* |
+| units | unit capture groups | capture_group_8 | ctrl+8 | alt+s *changed* |
+| units | unit capture groups | capture_group_9 | ctrl+9 | alt+d *changed* |
+| units | unit capture groups | capture_group_0 | ctrl+0 |  *changed* |
+| units | unit recall groups | recall_group_1 | 1 | 1 |
+| units | unit recall groups | recall_group_2 | 2 | 2 |
+| units | unit recall groups | recall_group_3 | 3 | 3 |
+| units | unit recall groups | recall_group_4 | 4 | q *changed* |
+| units | unit recall groups | recall_group_5 | 5 | w *changed* |
+| units | unit recall groups | recall_group_6 | 6 | e *changed* |
+| units | unit recall groups | recall_group_7 | 7 | a *changed* |
+| units | unit recall groups | recall_group_8 | 8 | s *changed* |
+| units | unit recall groups | recall_group_9 | 9 | d *changed* |
+| units | unit recall groups | recall_group_0 | 0 |  *changed* |
 | build | build bar groups | start_build_vehicle | z |  *changed* |
 | build | build bar groups | start_build_bot | x |  *changed* |
 | build | build bar groups | start_build_air | c |  *changed* |
@@ -162,10 +162,10 @@ Current value comes from the game's saved settings; *changed* marks binds that d
 | camera | modes | toggle_pov_camera | shift+ctrl+m | shift+ctrl+m |
 | camera | modes | toggle_free_camera |  | alt+f6 *changed* |
 | camera | modes | toggle_debug_camera | ctrl+m |  *changed* |
-| camera | direction | camera_move_left | left | a *changed* |
-| camera | direction | camera_move_right | right | d *changed* |
-| camera | direction | camera_move_up | up | w *changed* |
-| camera | direction | camera_move_down | down | s *changed* |
+| camera | direction | camera_move_left | left |  *changed* |
+| camera | direction | camera_move_right | right |  *changed* |
+| camera | direction | camera_move_up | up |  *changed* |
+| camera | direction | camera_move_down | down |  *changed* |
 | camera | FOV | camera_zoom_in |  |  |
 | camera | FOV | camera_zoom_out |  |  |
 | camera | zoom | zoom_to_surface |  |  |
@@ -178,40 +178,40 @@ Current value comes from the game's saved settings; *changed* marks binds that d
 | camera | tracking & alignment | track_add_selection_with_camera | shift+t |  *changed* |
 | camera | tracking & alignment | track_next | alt+t |  *changed* |
 | camera | tracking & alignment | align_to_pole | n | n |
-| camera | free movement | free_move_left | a | q *changed* |
-| camera | free movement | free_move_right | d | d |
-| camera | free movement | free_move_up | r | a *changed* |
-| camera | free movement | free_move_down | f | e *changed* |
-| camera | free movement | free_move_forward | w | z *changed* |
-| camera | free movement | free_move_backward | s | s |
-| camera | free movement | free_roll_left | u | y *changed* |
-| camera | free movement | free_roll_right | o | h *changed* |
-| camera | free movement | free_pitch_forward | i | t *changed* |
-| camera | free movement | free_pitch_backward | k | g *changed* |
-| camera | free movement | free_yaw_left | j | r *changed* |
-| camera | free movement | free_yaw_right | l | f *changed* |
-| camera | free movement | free_zoom_in | q | c *changed* |
-| camera | free movement | free_zoom_out | e | v *changed* |
-| camera | capture anchor | capture_anchor_1 | shift+1 | shift+1 |
-| camera | capture anchor | capture_anchor_2 | shift+2 | shift+2 |
-| camera | capture anchor | capture_anchor_3 | shift+3 | shift+3 |
-| camera | capture anchor | capture_anchor_4 | shift+4 | shift+4 |
-| camera | capture anchor | capture_anchor_5 | shift+5 | shift+5 |
-| camera | capture anchor | capture_anchor_6 | shift+6 | shift+6 |
-| camera | capture anchor | capture_anchor_7 | shift+7 | shift+7 |
-| camera | capture anchor | capture_anchor_8 | shift+8 | shift+8 |
-| camera | capture anchor | capture_anchor_9 | shift+9 | shift+9 |
-| camera | capture anchor | capture_anchor_0 | shift+0 | shift+0 |
-| camera | recall anchor | recall_anchor_1 | alt+1 | alt+1 |
-| camera | recall anchor | recall_anchor_2 | alt+2 | alt+2 |
-| camera | recall anchor | recall_anchor_3 | alt+3 | alt+3 |
-| camera | recall anchor | recall_anchor_4 | alt+4 | alt+4 |
-| camera | recall anchor | recall_anchor_5 | alt+5 | alt+5 |
-| camera | recall anchor | recall_anchor_6 | alt+6 | alt+6 |
-| camera | recall anchor | recall_anchor_7 | alt+7 | alt+7 |
-| camera | recall anchor | recall_anchor_8 | alt+8 | alt+8 |
-| camera | recall anchor | recall_anchor_9 | alt+9 | alt+9 |
-| camera | recall anchor | recall_anchor_0 | alt+0 | alt+0 |
+| camera | free movement | free_move_left | a |  *changed* |
+| camera | free movement | free_move_right | d |  *changed* |
+| camera | free movement | free_move_up | r |  *changed* |
+| camera | free movement | free_move_down | f |  *changed* |
+| camera | free movement | free_move_forward | w |  *changed* |
+| camera | free movement | free_move_backward | s |  *changed* |
+| camera | free movement | free_roll_left | u |  *changed* |
+| camera | free movement | free_roll_right | o |  *changed* |
+| camera | free movement | free_pitch_forward | i |  *changed* |
+| camera | free movement | free_pitch_backward | k |  *changed* |
+| camera | free movement | free_yaw_left | j |  *changed* |
+| camera | free movement | free_yaw_right | l |  *changed* |
+| camera | free movement | free_zoom_in | q |  *changed* |
+| camera | free movement | free_zoom_out | e |  *changed* |
+| camera | capture anchor | capture_anchor_1 | shift+1 | alt+shift+1 *changed* |
+| camera | capture anchor | capture_anchor_2 | shift+2 | alt+shift+2 *changed* |
+| camera | capture anchor | capture_anchor_3 | shift+3 | alt+shift+3 *changed* |
+| camera | capture anchor | capture_anchor_4 | shift+4 | alt+shift+q *changed* |
+| camera | capture anchor | capture_anchor_5 | shift+5 | alt+shift+w *changed* |
+| camera | capture anchor | capture_anchor_6 | shift+6 | alt+shift+e *changed* |
+| camera | capture anchor | capture_anchor_7 | shift+7 | alt+shift+a *changed* |
+| camera | capture anchor | capture_anchor_8 | shift+8 | alt+shift+s *changed* |
+| camera | capture anchor | capture_anchor_9 | shift+9 | alt+shift+d *changed* |
+| camera | capture anchor | capture_anchor_0 | shift+0 |  *changed* |
+| camera | recall anchor | recall_anchor_1 | alt+1 | shift+1 *changed* |
+| camera | recall anchor | recall_anchor_2 | alt+2 | shift+2 *changed* |
+| camera | recall anchor | recall_anchor_3 | alt+3 | shift+3 *changed* |
+| camera | recall anchor | recall_anchor_4 | alt+4 | shift+q *changed* |
+| camera | recall anchor | recall_anchor_5 | alt+5 | shift+w *changed* |
+| camera | recall anchor | recall_anchor_6 | alt+6 | shift+e *changed* |
+| camera | recall anchor | recall_anchor_7 | alt+7 | shift+a *changed* |
+| camera | recall anchor | recall_anchor_8 | alt+8 | shift+s *changed* |
+| camera | recall anchor | recall_anchor_9 | alt+9 | shift+d *changed* |
+| camera | recall anchor | recall_anchor_0 | alt+0 |  *changed* |
 | camera | recall anchor | history_back | backspace | backspace |
 | camera | recall anchor | history_forward | shift+backspace | shift+backspace |
 | camera | tuning | increase_camera_pan_speed |  |  |
@@ -220,7 +220,7 @@ Current value comes from the game's saved settings; *changed* marks binds that d
 | camera | tuning | smooth_zoom_in |  |  |
 | dev mode |  | abort |  |  |
 | dev mode |  | crash |  |  |
-| dev mode |  | reload_view | f5 | f5 |
+| dev mode |  | reload_view | f5 |  *changed* |
 | dev mode |  | toggle_audio_logging |  |  |
 | dev mode |  | quick_profile | ctrl+f11 |  *changed* |
 | dev mode |  | bug_report | ctrl+f10 |  *changed* |
