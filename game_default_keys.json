@@ -1,0 +1,1400 @@
+{
+ "pause_game": {
+  "default": "break",
+  "group": "general",
+  "sub_group": "general",
+  "title": "pause game"
+ },
+ "show_guide": {
+  "default": "f1",
+  "group": "general",
+  "sub_group": "general",
+  "title": "show player guide"
+ },
+ "show_hide_ar": {
+  "default": "ctrl+y",
+  "group": "general",
+  "sub_group": "general",
+  "title": "show/hide visual aid overlays"
+ },
+ "toggle_music": {
+  "default": "ctrl+s",
+  "group": "general",
+  "sub_group": "general",
+  "title": "toggle music"
+ },
+ "toggle_fullscreen": {
+  "default": "alt+enter",
+  "group": "general",
+  "sub_group": "general",
+  "title": "toggle fullscreen"
+ },
+ "toggle_gamestats": {
+  "default": "tab",
+  "group": "general",
+  "sub_group": "general",
+  "title": "Show/Hide game stats"
+ },
+ "show_hide_ui": {
+  "default": "ctrl+u",
+  "group": "general",
+  "sub_group": "general",
+  "title": "show/hide UI"
+ },
+ "modal_back": {
+  "default": "esc",
+  "group": "general",
+  "sub_group": "general",
+  "title": "navigate back/exit"
+ },
+ "show_hide_performance_panel": {
+  "default": "ctrl+p",
+  "group": "general",
+  "sub_group": "general",
+  "title": "show/hide performance panel"
+ },
+ "decrease_sim_speed": {
+  "default": "-",
+  "group": "general",
+  "sub_group": "general",
+  "title": "decrease sim speed"
+ },
+ "increase_sim_speed": {
+  "default": "=",
+  "group": "general",
+  "sub_group": "general",
+  "title": "increase sim speed"
+ },
+ "normal_chat": {
+  "default": "shift+enter",
+  "group": "general",
+  "sub_group": "communication",
+  "title": "all chat"
+ },
+ "team_chat": {
+  "default": "enter",
+  "group": "general",
+  "sub_group": "communication",
+  "title": "team chat"
+ },
+ "command_mode_ping": {
+  "default": "g",
+  "group": "general",
+  "sub_group": "alerts",
+  "title": "ping"
+ },
+ "acknowledge_alert": {
+  "default": "space",
+  "group": "general",
+  "sub_group": "alerts",
+  "title": "dismiss alert notification"
+ },
+ "acknowledge_combat": {
+  "default": "ctrl+space",
+  "group": "general",
+  "sub_group": "alerts",
+  "title": "zoom to combat"
+ },
+ "toggle_pips": {
+  "default": "q",
+  "group": "general",
+  "sub_group": "picture-in-picture",
+  "title": "Show/Hide pip"
+ },
+ "swap_pips": {
+  "default": "shift+q",
+  "group": "general",
+  "sub_group": "picture-in-picture",
+  "title": "swap pip"
+ },
+ "copy_to_pip": {
+  "default": "alt+q",
+  "group": "general",
+  "sub_group": "picture-in-picture",
+  "title": "copy to pip"
+ },
+ "toggle_pip_mirror": {
+  "default": "alt+m",
+  "group": "general",
+  "sub_group": "picture-in-picture",
+  "title": "toggle pip mirror"
+ },
+ "resume_at_latest_time": {
+  "default": "",
+  "group": "general",
+  "sub_group": "chronocam",
+  "title": "resume at latest time"
+ },
+ "play_forward_at_50": {
+  "default": "",
+  "group": "general",
+  "sub_group": "chronocam",
+  "title": "play forward at 50%"
+ },
+ "play_forward_at_100": {
+  "default": "",
+  "group": "general",
+  "sub_group": "chronocam",
+  "title": "play forward at 100%"
+ },
+ "play_backwards_at_50": {
+  "default": "",
+  "group": "general",
+  "sub_group": "chronocam",
+  "title": "play backwards at 50%"
+ },
+ "play_backwards_at_100": {
+  "default": "",
+  "group": "general",
+  "sub_group": "chronocam",
+  "title": "play backwards at 100%"
+ },
+ "pause_time": {
+  "default": "",
+  "group": "general",
+  "sub_group": "chronocam",
+  "title": "pause time"
+ },
+ "last_pseudo_frame": {
+  "default": "",
+  "group": "general",
+  "sub_group": "chronocam",
+  "title": "last pseudo frame"
+ },
+ "next_pseudo_frame": {
+  "default": "",
+  "group": "general",
+  "sub_group": "chronocam",
+  "title": "next pseudo frame"
+ },
+ "play_forward_at_10": {
+  "default": "",
+  "group": "general",
+  "sub_group": "chronocam",
+  "title": "play forwards at 10%"
+ },
+ "play_backwards_at_10": {
+  "default": "",
+  "group": "general",
+  "sub_group": "chronocam",
+  "title": "play backwards at 10%"
+ },
+ "skip_forward_1sec": {
+  "default": "",
+  "group": "general",
+  "sub_group": "chronocam",
+  "title": "skip forward 1s"
+ },
+ "skip_backwards_1sec": {
+  "default": "",
+  "group": "general",
+  "sub_group": "chronocam",
+  "title": "skip backward 1s"
+ },
+ "select_commander": {
+  "default": "alt+c",
+  "group": "units",
+  "sub_group": "unit selection",
+  "title": "select commander"
+ },
+ "select_idle_fabbers": {
+  "default": "f",
+  "group": "units",
+  "sub_group": "unit selection",
+  "title": "select idle fabbers"
+ },
+ "select_all_factories": {
+  "default": "shift+f1",
+  "group": "units",
+  "sub_group": "unit selection",
+  "title": "select all factories"
+ },
+ "select_all_idle_factories": {
+  "default": "shift+f2",
+  "group": "units",
+  "sub_group": "unit selection",
+  "title": "select all idle factories"
+ },
+ "select_all_factories_on_screen": {
+  "default": "shift+f3",
+  "group": "units",
+  "sub_group": "unit selection",
+  "title": "select all factories on screen"
+ },
+ "select_all_idle_factories_on_screen": {
+  "default": "shift+f4",
+  "group": "units",
+  "sub_group": "unit selection",
+  "title": "select all idle factories on screen"
+ },
+ "select_all_combat_units_on_screen": {
+  "default": "shift+f5",
+  "group": "units",
+  "sub_group": "unit selection",
+  "title": "select all combat units on screen"
+ },
+ "select_all_combat_units": {
+  "default": "ctrl+shift+f6",
+  "group": "units",
+  "sub_group": "unit selection",
+  "title": "select all combat units"
+ },
+ "select_all_land_combat_units_on_screen": {
+  "default": "ctrl+shift+f6",
+  "group": "units",
+  "sub_group": "unit selection",
+  "title": "select all land combat units on screen"
+ },
+ "select_all_land_combat_units": {
+  "default": "ctrl+shift+f7",
+  "group": "units",
+  "sub_group": "unit selection",
+  "title": "select all land combat units"
+ },
+ "select_all_air_combat_units_on_screen": {
+  "default": "ctrl+shift+f8",
+  "group": "units",
+  "sub_group": "unit selection",
+  "title": "select all air combat units on screen"
+ },
+ "select_all_air_combat_units": {
+  "default": "ctrl+shift+f9",
+  "group": "units",
+  "sub_group": "unit selection",
+  "title": "select all air combat units"
+ },
+ "select_all_naval_combat_units_on_screen": {
+  "default": "ctrl+shift+f10",
+  "group": "units",
+  "sub_group": "unit selection",
+  "title": "select all naval combat units on screen"
+ },
+ "select_all_naval_combat_units": {
+  "default": "ctrl+shift+f4",
+  "group": "units",
+  "sub_group": "unit selection",
+  "title": "select all naval combat units"
+ },
+ "select_all_matching_units_on_screen": {
+  "default": "ctrl+z",
+  "group": "units",
+  "sub_group": "unit selection",
+  "title": "select all matching units on screen"
+ },
+ "command_mode_move": {
+  "default": "m",
+  "group": "units",
+  "sub_group": "unit commands",
+  "title": "move"
+ },
+ "command_mode_attack": {
+  "default": "a",
+  "group": "units",
+  "sub_group": "unit commands",
+  "title": "attack"
+ },
+ "command_mode_assist": {
+  "default": "i",
+  "group": "units",
+  "sub_group": "unit commands",
+  "title": "assist"
+ },
+ "command_mode_repair": {
+  "default": "r",
+  "group": "units",
+  "sub_group": "unit commands",
+  "title": "repair"
+ },
+ "command_mode_reclaim": {
+  "default": "e",
+  "group": "units",
+  "sub_group": "unit commands",
+  "title": "reclaim"
+ },
+ "command_mode_patrol": {
+  "default": "p",
+  "group": "units",
+  "sub_group": "unit commands",
+  "title": "patrol"
+ },
+ "command_mode_special_move": {
+  "default": "",
+  "group": "units",
+  "sub_group": "unit commands",
+  "title": "special move"
+ },
+ "command_mode_unload": {
+  "default": "",
+  "group": "units",
+  "sub_group": "unit commands",
+  "title": "unload"
+ },
+ "command_mode_load": {
+  "default": "",
+  "group": "units",
+  "sub_group": "unit commands",
+  "title": "load"
+ },
+ "command_mode_alt_fire": {
+  "default": "d",
+  "group": "units",
+  "sub_group": "unit commands",
+  "title": "alt fire"
+ },
+ "stop_command": {
+  "default": "s",
+  "group": "units",
+  "sub_group": "unit commands",
+  "title": "stop"
+ },
+ "self_destruct_selected_unit": {
+  "default": "del",
+  "group": "units",
+  "sub_group": "unit commands",
+  "title": "self destruct selected unit"
+ },
+ "command_mode_mass_teleport": {
+  "default": "",
+  "group": "units",
+  "sub_group": "unit commands",
+  "title": "mass teleport"
+ },
+ "fire_at_will": {
+  "default": "",
+  "group": "units",
+  "sub_group": "unit orders",
+  "title": "fire at will"
+ },
+ "return_fire": {
+  "default": "",
+  "group": "units",
+  "sub_group": "unit orders",
+  "title": "return fire"
+ },
+ "hold_fire": {
+  "default": "",
+  "group": "units",
+  "sub_group": "unit orders",
+  "title": "hold fire"
+ },
+ "toggle_fire_orders": {
+  "default": "h",
+  "group": "units",
+  "sub_group": "unit orders",
+  "title": "toggle fire orders"
+ },
+ "maneuver": {
+  "default": "",
+  "group": "units",
+  "sub_group": "unit orders",
+  "title": "maneuver"
+ },
+ "roam": {
+  "default": "",
+  "group": "units",
+  "sub_group": "unit orders",
+  "title": "roam"
+ },
+ "hold_position": {
+  "default": "",
+  "group": "units",
+  "sub_group": "unit orders",
+  "title": "hold position"
+ },
+ "toggle_move_orders": {
+  "default": "j",
+  "group": "units",
+  "sub_group": "unit orders",
+  "title": "toggle move orders"
+ },
+ "energy_on": {
+  "default": "",
+  "group": "units",
+  "sub_group": "unit orders",
+  "title": "energy on"
+ },
+ "energy_off": {
+  "default": "",
+  "group": "units",
+  "sub_group": "unit orders",
+  "title": "energy off"
+ },
+ "toggle_energy_orders": {
+  "default": "k",
+  "group": "units",
+  "sub_group": "unit orders",
+  "title": "toggle energy orders"
+ },
+ "capture_group_1": {
+  "default": "ctrl+1",
+  "group": "units",
+  "sub_group": "unit capture groups",
+  "title": ""
+ },
+ "capture_group_2": {
+  "default": "ctrl+2",
+  "group": "units",
+  "sub_group": "unit capture groups",
+  "title": ""
+ },
+ "capture_group_3": {
+  "default": "ctrl+3",
+  "group": "units",
+  "sub_group": "unit capture groups",
+  "title": ""
+ },
+ "capture_group_4": {
+  "default": "ctrl+4",
+  "group": "units",
+  "sub_group": "unit capture groups",
+  "title": ""
+ },
+ "capture_group_5": {
+  "default": "ctrl+5",
+  "group": "units",
+  "sub_group": "unit capture groups",
+  "title": ""
+ },
+ "capture_group_6": {
+  "default": "ctrl+6",
+  "group": "units",
+  "sub_group": "unit capture groups",
+  "title": ""
+ },
+ "capture_group_7": {
+  "default": "ctrl+7",
+  "group": "units",
+  "sub_group": "unit capture groups",
+  "title": ""
+ },
+ "capture_group_8": {
+  "default": "ctrl+8",
+  "group": "units",
+  "sub_group": "unit capture groups",
+  "title": ""
+ },
+ "capture_group_9": {
+  "default": "ctrl+9",
+  "group": "units",
+  "sub_group": "unit capture groups",
+  "title": ""
+ },
+ "capture_group_0": {
+  "default": "ctrl+0",
+  "group": "units",
+  "sub_group": "unit capture groups",
+  "title": ""
+ },
+ "recall_group_1": {
+  "default": "1",
+  "group": "units",
+  "sub_group": "unit recall groups",
+  "title": ""
+ },
+ "recall_group_2": {
+  "default": "2",
+  "group": "units",
+  "sub_group": "unit recall groups",
+  "title": ""
+ },
+ "recall_group_3": {
+  "default": "3",
+  "group": "units",
+  "sub_group": "unit recall groups",
+  "title": ""
+ },
+ "recall_group_4": {
+  "default": "4",
+  "group": "units",
+  "sub_group": "unit recall groups",
+  "title": ""
+ },
+ "recall_group_5": {
+  "default": "5",
+  "group": "units",
+  "sub_group": "unit recall groups",
+  "title": ""
+ },
+ "recall_group_6": {
+  "default": "6",
+  "group": "units",
+  "sub_group": "unit recall groups",
+  "title": ""
+ },
+ "recall_group_7": {
+  "default": "7",
+  "group": "units",
+  "sub_group": "unit recall groups",
+  "title": ""
+ },
+ "recall_group_8": {
+  "default": "8",
+  "group": "units",
+  "sub_group": "unit recall groups",
+  "title": ""
+ },
+ "recall_group_9": {
+  "default": "9",
+  "group": "units",
+  "sub_group": "unit recall groups",
+  "title": ""
+ },
+ "recall_group_0": {
+  "default": "0",
+  "group": "units",
+  "sub_group": "unit recall groups",
+  "title": ""
+ },
+ "start_build_vehicle": {
+  "default": "z",
+  "group": "build",
+  "sub_group": "build bar groups",
+  "title": "select vehicle group"
+ },
+ "start_build_bot": {
+  "default": "x",
+  "group": "build",
+  "sub_group": "build bar groups",
+  "title": "select bot group"
+ },
+ "start_build_air": {
+  "default": "c",
+  "group": "build",
+  "sub_group": "build bar groups",
+  "title": "select air group"
+ },
+ "start_build_sea": {
+  "default": "v",
+  "group": "build",
+  "sub_group": "build bar groups",
+  "title": "select sea group"
+ },
+ "start_build_orbital_unit": {
+  "default": "b",
+  "group": "build",
+  "sub_group": "build bar groups",
+  "title": "select orbital group (units)"
+ },
+ "start_build_factory": {
+  "default": "x",
+  "group": "build",
+  "sub_group": "build bar groups",
+  "title": "select factory group"
+ },
+ "start_build_combat": {
+  "default": "c",
+  "group": "build",
+  "sub_group": "build bar groups",
+  "title": "select combat group"
+ },
+ "start_build_utility": {
+  "default": "v",
+  "group": "build",
+  "sub_group": "build bar groups",
+  "title": "select utility group"
+ },
+ "start_build_orbital_structure": {
+  "default": "b",
+  "group": "build",
+  "sub_group": "build bar groups",
+  "title": "select orbital group (buildings)"
+ },
+ "start_build_ammo": {
+  "default": "z",
+  "group": "build",
+  "sub_group": "build bar groups",
+  "title": "select ammo group"
+ },
+ "build_once": {
+  "default": "",
+  "group": "build",
+  "sub_group": "build orders",
+  "title": "build once"
+ },
+ "build_loop": {
+  "default": "",
+  "group": "build",
+  "sub_group": "build orders",
+  "title": "build loop"
+ },
+ "toggle_build_orders": {
+  "default": "l",
+  "group": "build",
+  "sub_group": "build orders",
+  "title": "toggle build orders"
+ },
+ "build_item_1": {
+  "default": "1",
+  "group": "build",
+  "sub_group": "build items",
+  "title": ""
+ },
+ "build_item_2": {
+  "default": "2",
+  "group": "build",
+  "sub_group": "build items",
+  "title": ""
+ },
+ "build_item_3": {
+  "default": "3",
+  "group": "build",
+  "sub_group": "build items",
+  "title": ""
+ },
+ "build_item_4": {
+  "default": "4",
+  "group": "build",
+  "sub_group": "build items",
+  "title": ""
+ },
+ "build_item_5": {
+  "default": "5",
+  "group": "build",
+  "sub_group": "build items",
+  "title": ""
+ },
+ "build_item_6": {
+  "default": "6",
+  "group": "build",
+  "sub_group": "build items",
+  "title": ""
+ },
+ "build_item_1_7": {
+  "default": "7",
+  "group": "build",
+  "sub_group": "build items",
+  "title": ""
+ },
+ "build_item_1_8": {
+  "default": "8",
+  "group": "build",
+  "sub_group": "build items",
+  "title": ""
+ },
+ "build_item_7": {
+  "default": "q",
+  "group": "build",
+  "sub_group": "build items",
+  "title": ""
+ },
+ "build_item_8": {
+  "default": "w",
+  "group": "build",
+  "sub_group": "build items",
+  "title": ""
+ },
+ "build_item_9": {
+  "default": "e",
+  "group": "build",
+  "sub_group": "build items",
+  "title": ""
+ },
+ "build_item_10": {
+  "default": "r",
+  "group": "build",
+  "sub_group": "build items",
+  "title": ""
+ },
+ "build_item_11": {
+  "default": "t",
+  "group": "build",
+  "sub_group": "build items",
+  "title": ""
+ },
+ "build_item_12": {
+  "default": "y",
+  "group": "build",
+  "sub_group": "build items",
+  "title": ""
+ },
+ "build_item_2_7": {
+  "default": "y",
+  "group": "build",
+  "sub_group": "build items",
+  "title": ""
+ },
+ "build_item_2_8": {
+  "default": "u",
+  "group": "build",
+  "sub_group": "build items",
+  "title": ""
+ },
+ "build_item_13": {
+  "default": "a",
+  "group": "build",
+  "sub_group": "build items",
+  "title": ""
+ },
+ "build_item_14": {
+  "default": "s",
+  "group": "build",
+  "sub_group": "build items",
+  "title": ""
+ },
+ "build_item_15": {
+  "default": "d",
+  "group": "build",
+  "sub_group": "build items",
+  "title": ""
+ },
+ "build_item_16": {
+  "default": "f",
+  "group": "build",
+  "sub_group": "build items",
+  "title": ""
+ },
+ "build_item_17": {
+  "default": "g",
+  "group": "build",
+  "sub_group": "build items",
+  "title": ""
+ },
+ "build_item_18": {
+  "default": "h",
+  "group": "build",
+  "sub_group": "build items",
+  "title": ""
+ },
+ "build_item_3_7": {
+  "default": "j",
+  "group": "build",
+  "sub_group": "build items",
+  "title": ""
+ },
+ "build_item_3_8": {
+  "default": "k",
+  "group": "build",
+  "sub_group": "build items",
+  "title": ""
+ },
+ "set_default_camera": {
+  "default": "",
+  "group": "camera",
+  "sub_group": "modes",
+  "title": "set default camera"
+ },
+ "set_pov_camera": {
+  "default": "",
+  "group": "camera",
+  "sub_group": "modes",
+  "title": "set pov camera"
+ },
+ "set_free_camera": {
+  "default": "ctrl+alt+m",
+  "group": "camera",
+  "sub_group": "modes",
+  "title": "set free camera"
+ },
+ "set_debug_camera": {
+  "default": "",
+  "group": "camera",
+  "sub_group": "modes",
+  "title": "set debug camera"
+ },
+ "set_planet_camera": {
+  "default": "",
+  "group": "camera",
+  "sub_group": "modes",
+  "title": "set planet camera"
+ },
+ "toggle_pov_camera": {
+  "default": "shift+ctrl+m",
+  "group": "camera",
+  "sub_group": "modes",
+  "title": "toggle pov camera"
+ },
+ "toggle_free_camera": {
+  "default": "",
+  "group": "camera",
+  "sub_group": "modes",
+  "title": "toggle free camera"
+ },
+ "toggle_debug_camera": {
+  "default": "ctrl+m",
+  "group": "camera",
+  "sub_group": "modes",
+  "title": "toggle debug camera"
+ },
+ "camera_move_left": {
+  "default": "left",
+  "group": "camera",
+  "sub_group": "direction",
+  "title": "move left"
+ },
+ "camera_move_right": {
+  "default": "right",
+  "group": "camera",
+  "sub_group": "direction",
+  "title": "move right"
+ },
+ "camera_move_up": {
+  "default": "up",
+  "group": "camera",
+  "sub_group": "direction",
+  "title": "move up"
+ },
+ "camera_move_down": {
+  "default": "down",
+  "group": "camera",
+  "sub_group": "direction",
+  "title": "move down"
+ },
+ "camera_zoom_in": {
+  "default": "",
+  "group": "camera",
+  "sub_group": "FOV",
+  "title": "zoom in"
+ },
+ "camera_zoom_out": {
+  "default": "",
+  "group": "camera",
+  "sub_group": "FOV",
+  "title": "zoom out"
+ },
+ "zoom_to_surface": {
+  "default": "",
+  "group": "camera",
+  "sub_group": "zoom",
+  "title": "zoom to surface"
+ },
+ "zoom_to_air": {
+  "default": "",
+  "group": "camera",
+  "sub_group": "zoom",
+  "title": "zoom to air"
+ },
+ "zoom_to_orbital": {
+  "default": "",
+  "group": "camera",
+  "sub_group": "zoom",
+  "title": "zoom to orbital"
+ },
+ "zoom_to_celestial": {
+  "default": "",
+  "group": "camera",
+  "sub_group": "zoom",
+  "title": "zoom to celestial"
+ },
+ "previous_planet": {
+  "default": "shift+,",
+  "group": "camera",
+  "sub_group": "planet jump",
+  "title": "jump to previous planet"
+ },
+ "next_planet": {
+  "default": ",",
+  "group": "camera",
+  "sub_group": "planet jump",
+  "title": "jump to next planet"
+ },
+ "track_selection_with_camera": {
+  "default": "t",
+  "group": "camera",
+  "sub_group": "tracking & alignment",
+  "title": "track selection with camera"
+ },
+ "track_add_selection_with_camera": {
+  "default": "shift+t",
+  "group": "camera",
+  "sub_group": "tracking & alignment",
+  "title": "track add selection with camera"
+ },
+ "track_next": {
+  "default": "alt+t",
+  "group": "camera",
+  "sub_group": "tracking & alignment",
+  "title": "track next unit with camera"
+ },
+ "align_to_pole": {
+  "default": "n",
+  "group": "camera",
+  "sub_group": "tracking & alignment",
+  "title": "align to pole"
+ },
+ "free_move_left": {
+  "default": "a",
+  "group": "camera",
+  "sub_group": "free movement",
+  "title": "free move left"
+ },
+ "free_move_right": {
+  "default": "d",
+  "group": "camera",
+  "sub_group": "free movement",
+  "title": "free move right"
+ },
+ "free_move_up": {
+  "default": "r",
+  "group": "camera",
+  "sub_group": "free movement",
+  "title": "free move up"
+ },
+ "free_move_down": {
+  "default": "f",
+  "group": "camera",
+  "sub_group": "free movement",
+  "title": "free move down"
+ },
+ "free_move_forward": {
+  "default": "w",
+  "group": "camera",
+  "sub_group": "free movement",
+  "title": "free move forward"
+ },
+ "free_move_backward": {
+  "default": "s",
+  "group": "camera",
+  "sub_group": "free movement",
+  "title": "free move backward"
+ },
+ "free_roll_left": {
+  "default": "u",
+  "group": "camera",
+  "sub_group": "free movement",
+  "title": "free roll left"
+ },
+ "free_roll_right": {
+  "default": "o",
+  "group": "camera",
+  "sub_group": "free movement",
+  "title": "free roll right"
+ },
+ "free_pitch_forward": {
+  "default": "i",
+  "group": "camera",
+  "sub_group": "free movement",
+  "title": "free pitch forward"
+ },
+ "free_pitch_backward": {
+  "default": "k",
+  "group": "camera",
+  "sub_group": "free movement",
+  "title": "free pitch backward"
+ },
+ "free_yaw_left": {
+  "default": "j",
+  "group": "camera",
+  "sub_group": "free movement",
+  "title": "free yaw left"
+ },
+ "free_yaw_right": {
+  "default": "l",
+  "group": "camera",
+  "sub_group": "free movement",
+  "title": "free yaw right"
+ },
+ "free_zoom_in": {
+  "default": "q",
+  "group": "camera",
+  "sub_group": "free movement",
+  "title": "free zoom in"
+ },
+ "free_zoom_out": {
+  "default": "e",
+  "group": "camera",
+  "sub_group": "free movement",
+  "title": "free zoom out"
+ },
+ "capture_anchor_1": {
+  "default": "shift+1",
+  "group": "camera",
+  "sub_group": "capture anchor",
+  "title": ""
+ },
+ "capture_anchor_2": {
+  "default": "shift+2",
+  "group": "camera",
+  "sub_group": "capture anchor",
+  "title": ""
+ },
+ "capture_anchor_3": {
+  "default": "shift+3",
+  "group": "camera",
+  "sub_group": "capture anchor",
+  "title": ""
+ },
+ "capture_anchor_4": {
+  "default": "shift+4",
+  "group": "camera",
+  "sub_group": "capture anchor",
+  "title": ""
+ },
+ "capture_anchor_5": {
+  "default": "shift+5",
+  "group": "camera",
+  "sub_group": "capture anchor",
+  "title": ""
+ },
+ "capture_anchor_6": {
+  "default": "shift+6",
+  "group": "camera",
+  "sub_group": "capture anchor",
+  "title": ""
+ },
+ "capture_anchor_7": {
+  "default": "shift+7",
+  "group": "camera",
+  "sub_group": "capture anchor",
+  "title": ""
+ },
+ "capture_anchor_8": {
+  "default": "shift+8",
+  "group": "camera",
+  "sub_group": "capture anchor",
+  "title": ""
+ },
+ "capture_anchor_9": {
+  "default": "shift+9",
+  "group": "camera",
+  "sub_group": "capture anchor",
+  "title": ""
+ },
+ "capture_anchor_0": {
+  "default": "shift+0",
+  "group": "camera",
+  "sub_group": "capture anchor",
+  "title": ""
+ },
+ "recall_anchor_1": {
+  "default": "alt+1",
+  "group": "camera",
+  "sub_group": "recall anchor",
+  "title": ""
+ },
+ "recall_anchor_2": {
+  "default": "alt+2",
+  "group": "camera",
+  "sub_group": "recall anchor",
+  "title": ""
+ },
+ "recall_anchor_3": {
+  "default": "alt+3",
+  "group": "camera",
+  "sub_group": "recall anchor",
+  "title": ""
+ },
+ "recall_anchor_4": {
+  "default": "alt+4",
+  "group": "camera",
+  "sub_group": "recall anchor",
+  "title": ""
+ },
+ "recall_anchor_5": {
+  "default": "alt+5",
+  "group": "camera",
+  "sub_group": "recall anchor",
+  "title": ""
+ },
+ "recall_anchor_6": {
+  "default": "alt+6",
+  "group": "camera",
+  "sub_group": "recall anchor",
+  "title": ""
+ },
+ "recall_anchor_7": {
+  "default": "alt+7",
+  "group": "camera",
+  "sub_group": "recall anchor",
+  "title": ""
+ },
+ "recall_anchor_8": {
+  "default": "alt+8",
+  "group": "camera",
+  "sub_group": "recall anchor",
+  "title": ""
+ },
+ "recall_anchor_9": {
+  "default": "alt+9",
+  "group": "camera",
+  "sub_group": "recall anchor",
+  "title": ""
+ },
+ "recall_anchor_0": {
+  "default": "alt+0",
+  "group": "camera",
+  "sub_group": "recall anchor",
+  "title": ""
+ },
+ "history_back": {
+  "default": "backspace",
+  "group": "camera",
+  "sub_group": "recall anchor",
+  "title": "Back"
+ },
+ "history_forward": {
+  "default": "shift+backspace",
+  "group": "camera",
+  "sub_group": "recall anchor",
+  "title": "Forward"
+ },
+ "increase_camera_pan_speed": {
+  "default": "",
+  "group": "camera",
+  "sub_group": "tuning",
+  "title": "increase camera pan speed"
+ },
+ "decrease_camera_pan_speed": {
+  "default": "",
+  "group": "camera",
+  "sub_group": "tuning",
+  "title": "decrease camera pan speed"
+ },
+ "smooth_zoom_out": {
+  "default": "",
+  "group": "camera",
+  "sub_group": "tuning",
+  "title": "smooth zoom out"
+ },
+ "smooth_zoom_in": {
+  "default": "",
+  "group": "camera",
+  "sub_group": "tuning",
+  "title": "smooth zoom in"
+ },
+ "abort": {
+  "default": "",
+  "group": "dev mode",
+  "sub_group": "",
+  "title": "abort"
+ },
+ "crash": {
+  "default": "",
+  "group": "dev mode",
+  "sub_group": "",
+  "title": "crash"
+ },
+ "reload_view": {
+  "default": "f5",
+  "group": "dev mode",
+  "sub_group": "",
+  "title": "reload view"
+ },
+ "toggle_audio_logging": {
+  "default": "",
+  "group": "dev mode",
+  "sub_group": "",
+  "title": "toggle audio logging"
+ },
+ "quick_profile": {
+  "default": "ctrl+f11",
+  "group": "dev mode",
+  "sub_group": "",
+  "title": "quick profile"
+ },
+ "bug_report": {
+  "default": "ctrl+f10",
+  "group": "dev mode",
+  "sub_group": "",
+  "title": "bug report"
+ },
+ "toggle_nav_debug": {
+  "default": "ctrl+alt+f11",
+  "group": "dev mode",
+  "sub_group": "",
+  "title": "toggle nav debug"
+ },
+ "toggle_console": {
+  "default": "",
+  "group": "dev mode",
+  "sub_group": "",
+  "title": "toggle console"
+ },
+ "set_army_from_hover": {
+  "default": "ctrl+b",
+  "group": "dev mode",
+  "sub_group": "",
+  "title": "set army from hover"
+ },
+ "copy_unit": {
+  "default": "ctrl+c",
+  "group": "dev mode",
+  "sub_group": "",
+  "title": "copy unit"
+ },
+ "paste_unit": {
+  "default": "ctrl+v",
+  "group": "dev mode",
+  "sub_group": "",
+  "title": "paste unit"
+ },
+ "toggle_fow": {
+  "default": "ctrl+j",
+  "group": "dev mode",
+  "sub_group": "",
+  "title": "toggle FOW"
+ },
+ "build_avatar": {
+  "default": "alt+f1",
+  "group": "dev mode",
+  "sub_group": "",
+  "title": "build avatar"
+ },
+ "build_avatar_factory": {
+  "default": "alt+f2",
+  "group": "dev mode",
+  "sub_group": "",
+  "title": "build avatar factory"
+ },
+ "enable_navigation_debug_info": {
+  "default": "",
+  "group": "dev mode",
+  "sub_group": "",
+  "title": "enable navigation debug info"
+ },
+ "disable_navigation_debug_info": {
+  "default": "",
+  "group": "dev mode",
+  "sub_group": "",
+  "title": "disable navigation debug info"
+ },
+ "publish_server_mods": {
+  "default": "ctrl+alt+p",
+  "group": "dev mode",
+  "sub_group": "",
+  "title": "publish server mods"
+ },
+ "toggle_edit_terrain_mode": {
+  "default": "",
+  "group": "terrain editor",
+  "sub_group": "mode",
+  "title": "toggle edit terrain mode"
+ },
+ "delete_selected": {
+  "default": "del",
+  "group": "terrain editor",
+  "sub_group": "add/remove",
+  "title": "delete selected"
+ },
+ "copy_selected": {
+  "default": "ctrl+c",
+  "group": "terrain editor",
+  "sub_group": "add/remove",
+  "title": "copy selected"
+ },
+ "disconnect_csg_twin": {
+  "default": "ctrl+\\\\",
+  "group": "terrain editor",
+  "sub_group": "manipulate",
+  "title": "disconnect twin"
+ },
+ "paste": {
+  "default": "ctrl+v",
+  "group": "terrain editor",
+  "sub_group": "add/remove",
+  "title": "paste"
+ },
+ "rotate_csg_cw": {
+  "default": "q",
+  "group": "terrain editor",
+  "sub_group": "manipulate",
+  "title": "rotate csg cw"
+ },
+ "rotate_csg_ccw": {
+  "default": "e",
+  "group": "terrain editor",
+  "sub_group": "manipulate",
+  "title": "rotate csg ccw"
+ },
+ "scale_csg_up": {
+  "default": "a",
+  "group": "terrain editor",
+  "sub_group": "manipulate",
+  "title": "scale csg up"
+ },
+ "scale_csg_down": {
+  "default": "d",
+  "group": "terrain editor",
+  "sub_group": "manipulate",
+  "title": "scale csg down"
+ },
+ "scale_csg_vertically_up": {
+  "default": "",
+  "group": "terrain editor",
+  "sub_group": "manipulate",
+  "title": "scale csg vertically up"
+ },
+ "scale_csg_vertically_down": {
+  "default": "",
+  "group": "terrain editor",
+  "sub_group": "manipulate",
+  "title": "scale csg vertically down"
+ },
+ "scale_csg_horizontally_up": {
+  "default": "",
+  "group": "terrain editor",
+  "sub_group": "manipulate",
+  "title": "scale csg horizontally up"
+ },
+ "scale_csg_horizontally_down": {
+  "default": "",
+  "group": "terrain editor",
+  "sub_group": "manipulate",
+  "title": "scale csg horizontally down"
+ },
+ "move_csg_up": {
+  "default": "w",
+  "group": "terrain editor",
+  "sub_group": "manipulate",
+  "title": "move csg up"
+ },
+ "move_csg_down": {
+  "default": "s",
+  "group": "terrain editor",
+  "sub_group": "manipulate",
+  "title": "move csg down"
+ },
+ "grab_csg": {
+  "default": "ctrl+g",
+  "group": "terrain editor",
+  "sub_group": "manipulate",
+  "title": "grab csg"
+ },
+ "set_pathable_csg": {
+  "default": "p",
+  "group": "terrain editor",
+  "sub_group": "manipulate",
+  "title": "set pathable csg"
+ },
+ "toggle_edit_metal_spot": {
+  "default": "",
+  "group": "terrain editor",
+  "sub_group": "mode",
+  "title": "toggle edit metal spots"
+ },
+ "add_metal_spot": {
+  "default": "m",
+  "group": "terrain editor",
+  "sub_group": "manipulate",
+  "title": "add metal spot"
+ },
+ "delete_metal_spot": {
+  "default": "b",
+  "group": "terrain editor",
+  "sub_group": "manipulate",
+  "title": "remove metal spot"
+ },
+ "add_landing_zone": {
+  "default": "g",
+  "group": "terrain editor",
+  "sub_group": "manipulate",
+  "title": "add landing zone"
+ },
+ "delete_landing_zone": {
+  "default": "j",
+  "group": "terrain editor",
+  "sub_group": "manipulate",
+  "title": "remove landing zone"
+ },
+ "toggle_show_water": {
+  "default": "ctrl+w",
+  "group": "terrain editor",
+  "sub_group": "manipulate",
+  "title": "toggle show water"
+ },
+ "add_height_adjustment": {
+  "default": "h",
+  "group": "terrain editor",
+  "sub_group": "manipulate",
+  "title": "add height adjustment"
+ }
+}
