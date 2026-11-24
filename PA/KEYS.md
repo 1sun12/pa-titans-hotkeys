@@ -8,17 +8,17 @@ Units cycle in this order on repeated presses.
 
 | Key | Slot | Units |
 |---|---|---|
-| **B** | hotbuild4s | teleporter, ion_defense, fabrication_bot_combat_adv, fabrication_bot_combat, delta_v_engine |
-| **C** | hotbuild1s | air_defense_adv, air_defense, land_barrier |
-| **F** | hotbuild5s | vehicle_factory, bot_factory, anti_nuke_launcher_ammo, nuke_launcher_ammo, land_scout, air_scout |
-| **G** | hotbuild6s | air_factory, air_factory_adv, naval_factory, naval_factory_adv, orbital_launcher, tank_heavy_mortar, missile_ship, orbital_laser |
-| **H** | hotbuild8s | vehicle_factory_adv, bot_factory_adv, control_module, bot_bomb, tank_armor, tank_heavy_armor, orbital_lander |
-| **R** | hotbuild10s | metal_extractor_adv, metal_extractor, fabrication_bot_adv, fabrication_bot, fabrication_vehicle_adv, fabrication_vehicle, orbital_fabrication_bot, fabrication_aircraft_adv, fabrication_aircraft, fabrication_ship, fabrication_ship_adv |
-| **T** | hotbuild9s | energy_plant_adv, energy_plant, solar_array, assault_bot, assault_bot_adv, tank_light_laser, tank_laser_adv, bomber, bomber_adv, destroyer, battleship, orbital_fighter |
-| **V** | hotbuild2s | artillery_short, tactical_missile_launcher, artillery_long |
-| **X** | hotbuild11s | defense_satellite, laser_defense_adv, laser_defense, laser_defense_single |
-| **Y** | hotbuild7s | radar_adv, radar, radar_satellite, radar_satellite_adv, fighter, bot_grenadier, aa_missile_vehicle, frigate |
-| **Z** | hotbuild3s | energy_storage, metal_storage, anti_nuke_launcher, nuke_launcher |
+| **B** | hotbuild4s | teleporter, l_teleporter, ion_defense, l_ion_defense, fabrication_bot_combat_adv, l_fabrication_sub_combat_adv, fabrication_bot_combat, l_fabrication_vehicle_combat, delta_v_engine, l_delta_v_engine |
+| **C** | hotbuild1s | air_defense_adv, l_air_defense_adv, air_defense, l_air_defense, land_barrier, l_land_barrier |
+| **F** | hotbuild5s | vehicle_factory, l_vehicle_factory, bot_factory, l_bot_factory, anti_nuke_launcher_ammo, l_anti_nuke_launcher_ammo, nuke_launcher_ammo, l_nuke_launcher_ammo, land_scout, l_mortar_tank, l_scout_bot, air_scout, l_raider, l_air_scout_adv |
+| **G** | hotbuild6s | air_factory, l_air_factory, air_factory_adv, l_air_factory_adv, naval_factory, l_naval_factory, naval_factory_adv, l_naval_factory_adv, orbital_launcher, l_orbital_launcher, tank_heavy_mortar, l_sniper_tank, l_hover_tank, missile_ship, l_missile_ship, orbital_laser, l_orbital_laser |
+| **H** | hotbuild8s | vehicle_factory_adv, l_vehicle_factory_adv, bot_factory_adv, l_bot_factory_adv, control_module, l_control_module, bot_bomb, l_bot_bomb, tank_armor, l_shotgun_tank, tank_heavy_armor, l_tank_heavy_armor, orbital_lander, l_orbital_lander |
+| **R** | hotbuild10s | metal_extractor_adv, l_mex_adv, metal_extractor, l_mex, fabrication_bot_adv, l_fabrication_bot_adv, fabrication_bot, l_fabrication_bot, fabrication_vehicle_adv, l_fabrication_vehicle_adv, fabrication_vehicle, l_fabrication_vehicle, orbital_fabrication_bot, l_orbital_fabrication_bot, fabrication_aircraft_adv, l_fabrication_aircraft_adv, fabrication_aircraft, l_fabrication_aircraft, fabrication_ship, l_fabrication_ship, fabrication_ship_adv, l_fabrication_ship_adv |
+| **T** | hotbuild9s | energy_plant_adv, l_energy_plant_adv, energy_plant, l_energy_plant, solar_array, assault_bot, l_assault_bot, assault_bot_adv, l_riot_bot, tank_light_laser, l_tank_shank, tank_laser_adv, l_tank_laser_adv, bomber, l_bomber, bomber_adv, l_air_carrier, destroyer, l_destroyer, battleship, l_sea_tank, l_battleship, orbital_fighter, l_orbital_battleship, l_orbital_fighter |
+| **V** | hotbuild2s | artillery_short, l_artillery_short, tactical_missile_launcher, artillery_long, l_artillery_long |
+| **X** | hotbuild11s | defense_satellite, l_defense_satellite, laser_defense_adv, l_rocket_barrage, laser_defense, l_flame_turret, l_t1_turret_adv, laser_defense_single, l_t1_turret_basic |
+| **Y** | hotbuild7s | radar_adv, l_radar_adv, radar, l_radar, radar_satellite, l_radar_satellite, radar_satellite_adv, l_radar_satellite_adv, fighter, l_fighter, bot_grenadier, l_sniper_bot, aa_missile_vehicle, l_bot_aa_adv, l_bot_aa, frigate, l_frigate |
+| **Z** | hotbuild3s | energy_storage, l_storage, metal_storage, anti_nuke_launcher, l_anti_nuke_launcher, nuke_launcher, l_nuke_launcher |
 
 ## Game keybinds
 

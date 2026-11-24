@@ -2,7 +2,7 @@
 
 Versioned backup of my Planetary Annihilation: Titans keybinds and Hotbuild2 layout.
 
-- `hotbuild2_layout.pas` holds the layout. Load it in game: Settings → Keyboard → Hotbuild2 Import/Export → Import.
+- `hotbuild2_layout.pas` holds the layout (Legion Expansion units sit on the same key as their vanilla counterpart). Load it in game: Settings → Keyboard → Hotbuild2 Import/Export → Import.
   It restores the Hotbuild2 keys and every game keybind.
 - `KEYS.md` is the readable view (Hotbuild2 keys plus all 233 game keybinds, default vs current).
 - `game_default_keys.json` lists the game's stock keybinds, read from the install.

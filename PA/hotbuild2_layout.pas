@@ -18,10 +18,19 @@
     "json": "/pa/units/land/air_defense_adv/air_defense_adv.json"
    },
    {
+    "json": "/pa/units/land/l_air_defense_adv/l_air_defense_adv.json"
+   },
+   {
     "json": "/pa/units/land/air_defense/air_defense.json"
    },
    {
+    "json": "/pa/units/land/l_air_defense/l_air_defense.json"
+   },
+   {
     "json": "/pa/units/land/land_barrier/land_barrier.json"
+   },
+   {
+    "json": "/pa/units/land/l_land_barrier/l_land_barrier.json"
    }
   ],
   "hotbuild2s": [
@@ -29,15 +38,24 @@
     "json": "/pa/units/land/artillery_short/artillery_short.json"
    },
    {
+    "json": "/pa/units/land/l_artillery_short/l_artillery_short.json"
+   },
+   {
     "json": "/pa/units/land/tactical_missile_launcher/tactical_missile_launcher.json"
    },
    {
     "json": "/pa/units/land/artillery_long/artillery_long.json"
+   },
+   {
+    "json": "/pa/units/land/l_artillery_long/l_artillery_long.json"
    }
   ],
   "hotbuild3s": [
    {
     "json": "/pa/units/land/energy_storage/energy_storage.json"
+   },
+   {
+    "json": "/pa/units/land/l_storage/l_storage.json"
    },
    {
     "json": "/pa/units/land/metal_storage/metal_storage.json"
@@ -46,7 +64,13 @@
     "json": "/pa/units/land/anti_nuke_launcher/anti_nuke_launcher.json"
    },
    {
+    "json": "/pa/units/land/l_anti_nuke_launcher/l_anti_nuke_launcher.json"
+   },
+   {
     "json": "/pa/units/land/nuke_launcher/nuke_launcher.json"
+   },
+   {
+    "json": "/pa/units/land/l_nuke_launcher/l_nuke_launcher.json"
    }
   ],
   "hotbuild4s": [
@@ -54,16 +78,31 @@
     "json": "/pa/units/land/teleporter/teleporter.json"
    },
    {
+    "json": "/pa/units/land/l_teleporter/l_teleporter.json"
+   },
+   {
     "json": "/pa/units/orbital/ion_defense/ion_defense.json"
+   },
+   {
+    "json": "/pa/units/orbital/l_ion_defense/l_ion_defense.json"
    },
    {
     "json": "/pa/units/land/fabrication_bot_combat_adv/fabrication_bot_combat_adv.json"
    },
    {
+    "json": "/pa/units/sea/l_fabrication_sub_combat_adv/l_fabrication_sub_combat_adv.json"
+   },
+   {
     "json": "/pa/units/land/fabrication_bot_combat/fabrication_bot_combat.json"
    },
    {
+    "json": "/pa/units/land/l_fabrication_vehicle_combat/l_fabrication_vehicle_combat.json"
+   },
+   {
     "json": "/pa/units/orbital/delta_v_engine/delta_v_engine.json"
+   },
+   {
+    "json": "/pa/units/orbital/l_delta_v_engine/l_delta_v_engine.json"
    }
   ],
   "hotbuild5s": [
@@ -71,19 +110,43 @@
     "json": "/pa/units/land/vehicle_factory/vehicle_factory.json"
    },
    {
+    "json": "/pa/units/land/l_vehicle_factory/l_vehicle_factory.json"
+   },
+   {
     "json": "/pa/units/land/bot_factory/bot_factory.json"
+   },
+   {
+    "json": "/pa/units/land/l_bot_factory/l_bot_factory.json"
    },
    {
     "json": "/pa/units/land/anti_nuke_launcher/anti_nuke_launcher_ammo.json"
    },
    {
+    "json": "/pa/units/land/l_anti_nuke_launcher/l_anti_nuke_launcher_ammo.json"
+   },
+   {
     "json": "/pa/units/land/nuke_launcher/nuke_launcher_ammo.json"
+   },
+   {
+    "json": "/pa/units/land/l_nuke_launcher/l_nuke_launcher_ammo.json"
    },
    {
     "json": "/pa/units/land/land_scout/land_scout.json"
    },
    {
+    "json": "/pa/units/land/l_mortar_tank/l_mortar_tank.json"
+   },
+   {
+    "json": "/pa/units/land/l_scout_bot/l_scout_bot.json"
+   },
+   {
     "json": "/pa/units/air/air_scout/air_scout.json"
+   },
+   {
+    "json": "/pa/units/air/l_raider/l_raider.json"
+   },
+   {
+    "json": "/pa/units/air/l_air_scout_adv/l_air_scout_adv.json"
    }
   ],
   "hotbuild6s": [
@@ -91,25 +154,52 @@
     "json": "/pa/units/air/air_factory/air_factory.json"
    },
    {
+    "json": "/pa/units/air/l_air_factory/l_air_factory.json"
+   },
+   {
     "json": "/pa/units/air/air_factory_adv/air_factory_adv.json"
+   },
+   {
+    "json": "/pa/units/air/l_air_factory_adv/l_air_factory_adv.json"
    },
    {
     "json": "/pa/units/sea/naval_factory/naval_factory.json"
    },
    {
+    "json": "/pa/units/sea/l_naval_factory/l_naval_factory.json"
+   },
+   {
     "json": "/pa/units/sea/naval_factory_adv/naval_factory_adv.json"
+   },
+   {
+    "json": "/pa/units/sea/l_naval_factory_adv/l_naval_factory_adv.json"
    },
    {
     "json": "/pa/units/orbital/orbital_launcher/orbital_launcher.json"
    },
    {
+    "json": "/pa/units/orbital/l_orbital_launcher/l_orbital_launcher.json"
+   },
+   {
     "json": "/pa/units/land/tank_heavy_mortar/tank_heavy_mortar.json"
+   },
+   {
+    "json": "/pa/units/land/l_sniper_tank/l_sniper_tank.json"
+   },
+   {
+    "json": "/pa/units/land/l_hover_tank/l_hover_tank.json"
    },
    {
     "json": "/pa/units/sea/missile_ship/missile_ship.json"
    },
    {
+    "json": "/pa/units/sea/l_missile_ship/l_missile_ship.json"
+   },
+   {
     "json": "/pa/units/orbital/orbital_laser/orbital_laser.json"
+   },
+   {
+    "json": "/pa/units/orbital/l_orbital_laser/l_orbital_laser.json"
    }
   ],
   "hotbuild7s": [
@@ -117,25 +207,52 @@
     "json": "/pa/units/land/radar_adv/radar_adv.json"
    },
    {
+    "json": "/pa/units/land/l_radar_adv/l_radar_adv.json"
+   },
+   {
     "json": "/pa/units/land/radar/radar.json"
+   },
+   {
+    "json": "/pa/units/land/l_radar/l_radar.json"
    },
    {
     "json": "/pa/units/orbital/radar_satellite/radar_satellite.json"
    },
    {
+    "json": "/pa/units/orbital/l_radar_satellite/l_radar_satellite.json"
+   },
+   {
     "json": "/pa/units/orbital/radar_satellite_adv/radar_satellite_adv.json"
+   },
+   {
+    "json": "/pa/units/orbital/l_radar_satellite_adv/l_radar_satellite_adv.json"
    },
    {
     "json": "/pa/units/air/fighter/fighter.json"
    },
    {
+    "json": "/pa/units/air/l_fighter/l_fighter.json"
+   },
+   {
     "json": "/pa/units/land/bot_grenadier/bot_grenadier.json"
+   },
+   {
+    "json": "/pa/units/land/l_sniper_bot/l_sniper_bot.json"
    },
    {
     "json": "/pa/units/land/aa_missile_vehicle/aa_missile_vehicle.json"
    },
    {
+    "json": "/pa/units/land/l_bot_aa_adv/l_bot_aa_adv.json"
+   },
+   {
+    "json": "/pa/units/land/l_bot_aa/l_bot_aa.json"
+   },
+   {
     "json": "/pa/units/sea/frigate/frigate.json"
+   },
+   {
+    "json": "/pa/units/sea/l_frigate/l_frigate.json"
    }
   ],
   "hotbuild8s": [
@@ -143,22 +260,43 @@
     "json": "/pa/units/land/vehicle_factory_adv/vehicle_factory_adv.json"
    },
    {
+    "json": "/pa/units/land/l_vehicle_factory_adv/l_vehicle_factory_adv.json"
+   },
+   {
     "json": "/pa/units/land/bot_factory_adv/bot_factory_adv.json"
+   },
+   {
+    "json": "/pa/units/land/l_bot_factory_adv/l_bot_factory_adv.json"
    },
    {
     "json": "/pa/units/land/control_module/control_module.json"
    },
    {
+    "json": "/pa/units/land/l_control_module/l_control_module.json"
+   },
+   {
     "json": "/pa/units/land/bot_bomb/bot_bomb.json"
+   },
+   {
+    "json": "/pa/units/land/l_bot_bomb/l_bot_bomb.json"
    },
    {
     "json": "/pa/units/land/tank_armor/tank_armor.json"
    },
    {
+    "json": "/pa/units/land/l_shotgun_tank/l_shotgun_tank.json"
+   },
+   {
     "json": "/pa/units/land/tank_heavy_armor/tank_heavy_armor.json"
    },
    {
+    "json": "/pa/units/land/l_tank_heavy_armor/l_tank_heavy_armor.json"
+   },
+   {
     "json": "/pa/units/orbital/orbital_lander/orbital_lander.json"
+   },
+   {
+    "json": "/pa/units/orbital/l_orbital_lander/l_orbital_lander.json"
    }
   ],
   "hotbuild9s": [
@@ -166,7 +304,13 @@
     "json": "/pa/units/land/energy_plant_adv/energy_plant_adv.json"
    },
    {
+    "json": "/pa/units/land/l_energy_plant_adv/l_energy_plant_adv.json"
+   },
+   {
     "json": "/pa/units/land/energy_plant/energy_plant.json"
+   },
+   {
+    "json": "/pa/units/land/l_energy_plant/l_energy_plant.json"
    },
    {
     "json": "/pa/units/orbital/solar_array/solar_array.json"
@@ -175,28 +319,61 @@
     "json": "/pa/units/land/assault_bot/assault_bot.json"
    },
    {
+    "json": "/pa/units/land/l_assault_bot/l_assault_bot.json"
+   },
+   {
     "json": "/pa/units/land/assault_bot_adv/assault_bot_adv.json"
+   },
+   {
+    "json": "/pa/units/land/l_riot_bot/l_riot_bot.json"
    },
    {
     "json": "/pa/units/land/tank_light_laser/tank_light_laser.json"
    },
    {
+    "json": "/pa/units/land/l_tank_shank/l_tank_shank.json"
+   },
+   {
     "json": "/pa/units/land/tank_laser_adv/tank_laser_adv.json"
+   },
+   {
+    "json": "/pa/units/land/l_tank_laser_adv/l_tank_laser_adv.json"
    },
    {
     "json": "/pa/units/air/bomber/bomber.json"
    },
    {
+    "json": "/pa/units/air/l_bomber/l_bomber.json"
+   },
+   {
     "json": "/pa/units/air/bomber_adv/bomber_adv.json"
+   },
+   {
+    "json": "/pa/units/air/l_air_carrier/l_air_carrier.json"
    },
    {
     "json": "/pa/units/sea/destroyer/destroyer.json"
    },
    {
+    "json": "/pa/units/sea/l_destroyer/l_destroyer.json"
+   },
+   {
     "json": "/pa/units/sea/battleship/battleship.json"
    },
    {
+    "json": "/pa/units/sea/l_sea_tank/l_sea_tank.json"
+   },
+   {
+    "json": "/pa/units/sea/l_battleship/l_battleship.json"
+   },
+   {
     "json": "/pa/units/orbital/orbital_fighter/orbital_fighter.json"
+   },
+   {
+    "json": "/pa/units/orbital/l_orbital_battleship/l_orbital_battleship.json"
+   },
+   {
+    "json": "/pa/units/orbital/l_orbital_fighter/l_orbital_fighter.json"
    }
   ],
   "hotbuild10s": [
@@ -204,34 +381,67 @@
     "json": "/pa/units/land/metal_extractor_adv/metal_extractor_adv.json"
    },
    {
+    "json": "/pa/units/land/l_mex_adv/l_mex_adv.json"
+   },
+   {
     "json": "/pa/units/land/metal_extractor/metal_extractor.json"
+   },
+   {
+    "json": "/pa/units/land/l_mex/l_mex.json"
    },
    {
     "json": "/pa/units/land/fabrication_bot_adv/fabrication_bot_adv.json"
    },
    {
+    "json": "/pa/units/land/l_fabrication_bot_adv/l_fabrication_bot_adv.json"
+   },
+   {
     "json": "/pa/units/land/fabrication_bot/fabrication_bot.json"
+   },
+   {
+    "json": "/pa/units/land/l_fabrication_bot/l_fabrication_bot.json"
    },
    {
     "json": "/pa/units/land/fabrication_vehicle_adv/fabrication_vehicle_adv.json"
    },
    {
+    "json": "/pa/units/land/l_fabrication_vehicle_adv/l_fabrication_vehicle_adv.json"
+   },
+   {
     "json": "/pa/units/land/fabrication_vehicle/fabrication_vehicle.json"
+   },
+   {
+    "json": "/pa/units/land/l_fabrication_vehicle/l_fabrication_vehicle.json"
    },
    {
     "json": "/pa/units/orbital/orbital_fabrication_bot/orbital_fabrication_bot.json"
    },
    {
+    "json": "/pa/units/orbital/l_orbital_fabrication_bot/l_orbital_fabrication_bot.json"
+   },
+   {
     "json": "/pa/units/air/fabrication_aircraft_adv/fabrication_aircraft_adv.json"
+   },
+   {
+    "json": "/pa/units/air/l_fabrication_aircraft_adv/l_fabrication_aircraft_adv.json"
    },
    {
     "json": "/pa/units/air/fabrication_aircraft/fabrication_aircraft.json"
    },
    {
+    "json": "/pa/units/air/l_fabrication_aircraft/l_fabrication_aircraft.json"
+   },
+   {
     "json": "/pa/units/sea/fabrication_ship/fabrication_ship.json"
    },
    {
+    "json": "/pa/units/sea/l_fabrication_ship/l_fabrication_ship.json"
+   },
+   {
     "json": "/pa/units/sea/fabrication_ship_adv/fabrication_ship_adv.json"
+   },
+   {
+    "json": "/pa/units/sea/l_fabrication_ship_adv/l_fabrication_ship_adv.json"
    }
   ],
   "hotbuild11s": [
@@ -239,13 +449,28 @@
     "json": "/pa/units/orbital/defense_satellite/defense_satellite.json"
    },
    {
+    "json": "/pa/units/orbital/l_defense_satellite/l_defense_satellite.json"
+   },
+   {
     "json": "/pa/units/land/laser_defense_adv/laser_defense_adv.json"
+   },
+   {
+    "json": "/pa/units/land/l_rocket_barrage/l_rocket_barrage.json"
    },
    {
     "json": "/pa/units/land/laser_defense/laser_defense.json"
    },
    {
+    "json": "/pa/units/land/l_flame_turret/l_flame_turret.json"
+   },
+   {
+    "json": "/pa/units/land/l_t1_turret_adv/l_t1_turret_adv.json"
+   },
+   {
     "json": "/pa/units/land/laser_defense_single/laser_defense_single.json"
+   },
+   {
+    "json": "/pa/units/land/l_t1_turret_basic/l_t1_turret_basic.json"
    }
   ]
  },
