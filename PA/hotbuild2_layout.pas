@@ -408,7 +408,7 @@
   },
   {
    "key": "select_all_combat_units",
-   "value": "ctrl+shift+f6"
+   "value": "shift+`"
   },
   {
    "key": "select_all_land_combat_units_on_screen",
@@ -432,7 +432,7 @@
   },
   {
    "key": "select_all_naval_combat_units",
-   "value": "ctrl+shift+f4"
+   "value": "alt+`"
   },
   {
    "key": "select_all_matching_units_on_screen",

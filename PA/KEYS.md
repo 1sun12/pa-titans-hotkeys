@@ -65,13 +65,13 @@ Current value comes from the game's saved settings; *changed* marks binds that d
 | units | unit selection | select_all_factories_on_screen | shift+f3 | shift+f3 |
 | units | unit selection | select_all_idle_factories_on_screen | shift+f4 |  *changed* |
 | units | unit selection | select_all_combat_units_on_screen | shift+f5 | shift+f5 |
-| units | unit selection | select_all_combat_units | ctrl+shift+f6 | ctrl+shift+f6 |
+| units | unit selection | select_all_combat_units | ctrl+shift+f6 | shift+` *changed* |
 | units | unit selection | select_all_land_combat_units_on_screen | ctrl+shift+f6 |  *changed* |
 | units | unit selection | select_all_land_combat_units | ctrl+shift+f7 | ctrl+shift+f7 |
 | units | unit selection | select_all_air_combat_units_on_screen | ctrl+shift+f8 | ctrl+shift+f8 |
 | units | unit selection | select_all_air_combat_units | ctrl+shift+f9 | ` *changed* |
 | units | unit selection | select_all_naval_combat_units_on_screen | ctrl+shift+f10 | ctrl+shift+f10 |
-| units | unit selection | select_all_naval_combat_units | ctrl+shift+f4 | ctrl+shift+f4 |
+| units | unit selection | select_all_naval_combat_units | ctrl+shift+f4 | alt+` *changed* |
 | units | unit selection | select_all_matching_units_on_screen | ctrl+z | ctrl+z |
 | units | unit commands | command_mode_move | m |  *changed* |
 | units | unit commands | command_mode_attack | a | f2 *changed* |

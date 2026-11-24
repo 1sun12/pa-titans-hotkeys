@@ -1,0 +1,6540 @@
+{
+ "active_profile": "Grid",
+ "builders": {
+  "armaca": {
+   "1.1.1": "armmoho",
+   "1.1.2": "armfus",
+   "1.1.3": "armafus",
+   "1.1.4": "armgmm",
+   "1.2.1": "armmmkr",
+   "1.2.2": "armageo",
+   "1.2.3": "armckfus",
+   "1.2.4": "armshockwave",
+   "1.3.1": "armuwadves",
+   "1.3.2": "armuwadvms",
+   "2.1.1": "armpb",
+   "2.1.2": "armanni",
+   "2.1.3": "armamb",
+   "2.1.4": "armemp",
+   "2.2.1": "armflak",
+   "2.2.2": "armmercury",
+   "2.2.3": "armamd",
+   "2.3.1": "armbrtha",
+   "2.3.2": "armsilo",
+   "2.3.3": "armvulc",
+   "3.1.1": "armarad",
+   "3.1.2": "armtarg",
+   "3.1.3": "armfort",
+   "3.1.4": "armveil",
+   "3.2.1": "armsd",
+   "3.2.2": "armdf",
+   "3.3.1": "armgate",
+   "4.1.1": "armap",
+   "4.2.1": "armshltx",
+   "4.2.2": "armaap",
+   "4.3.1": "armplat"
+  },
+  "armack": {
+   "1.1.1": "armmoho",
+   "1.1.2": "armfus",
+   "1.1.3": "armafus",
+   "1.1.4": "armgmm",
+   "1.2.1": "armmmkr",
+   "1.2.2": "armageo",
+   "1.2.3": "armckfus",
+   "1.2.4": "armshockwave",
+   "1.3.1": "armuwadves",
+   "1.3.2": "armuwadvms",
+   "2.1.1": "armpb",
+   "2.1.2": "armanni",
+   "2.1.3": "armamb",
+   "2.1.4": "armemp",
+   "2.2.1": "armflak",
+   "2.2.2": "armmercury",
+   "2.2.3": "armamd",
+   "2.3.1": "armbrtha",
+   "2.3.2": "armvulc",
+   "2.3.3": "armsilo",
+   "3.1.1": "armarad",
+   "3.1.2": "armtarg",
+   "3.1.3": "armfort",
+   "3.1.4": "armveil",
+   "3.2.1": "armsd",
+   "3.2.2": "armdf",
+   "3.3.1": "armgate",
+   "4.1.1": "armlab",
+   "4.2.1": "armshltx",
+   "4.2.2": "armalab"
+  },
+  "armacsub": {
+   "1.1.1": "armuwmme",
+   "1.1.2": "armuwfus",
+   "1.2.1": "armuwmmm",
+   "1.2.2": "armuwageo",
+   "1.3.1": "armuwadves",
+   "1.3.2": "armuwadvms",
+   "2.1.1": "armatl",
+   "2.1.2": "armkraken",
+   "2.1.3": "armanavaldefturret",
+   "2.2.1": "armfflak",
+   "3.1.1": "armason",
+   "3.1.2": "armfatf",
+   "4.1.1": "armsy",
+   "4.2.1": "armshltxuw",
+   "4.2.2": "armasy"
+  },
+  "armacv": {
+   "1.1.1": "armmoho",
+   "1.1.2": "armfus",
+   "1.1.3": "armafus",
+   "1.1.4": "armgmm",
+   "1.2.1": "armmmkr",
+   "1.2.2": "armageo",
+   "1.2.3": "armckfus",
+   "1.2.4": "armshockwave",
+   "1.3.1": "armuwadves",
+   "1.3.2": "armuwadvms",
+   "2.1.1": "armpb",
+   "2.1.2": "armanni",
+   "2.1.3": "armamb",
+   "2.1.4": "armemp",
+   "2.2.1": "armflak",
+   "2.2.2": "armmercury",
+   "2.2.3": "armamd",
+   "2.3.1": "armbrtha",
+   "2.3.2": "armvulc",
+   "2.3.3": "armsilo",
+   "3.1.1": "armarad",
+   "3.1.2": "armtarg",
+   "3.1.3": "armfort",
+   "3.1.4": "armveil",
+   "3.2.1": "armsd",
+   "3.2.2": "armdf",
+   "3.3.1": "armgate",
+   "4.1.1": "armvp",
+   "4.2.1": "armshltx",
+   "4.2.2": "armavp"
+  },
+  "armassistdrone": {
+   "1.1.1": "armmex",
+   "1.1.2": "armsolar",
+   "1.1.3": "armwin",
+   "1.2.1": "armmakr",
+   "1.2.3": "armuwms",
+   "1.2.4": "armtide",
+   "1.3.1": "armestor",
+   "1.3.2": "armmstor",
+   "1.3.3": "armuwes",
+   "1.3.4": "armfmkr",
+   "2.1.1": "armllt",
+   "2.1.2": "armtl",
+   "2.2.1": "armrl",
+   "2.2.2": "armfrt",
+   "2.3.1": "armdl",
+   "3.1.1": "armrad",
+   "3.1.2": "armeyes",
+   "3.1.3": "armdrag",
+   "3.2.1": "armfrad",
+   "3.2.2": "armfdrag",
+   "4.1.1": "armlab",
+   "4.1.2": "armvp",
+   "4.1.3": "armap",
+   "4.1.4": "armsy",
+   "4.3.1": "armhp",
+   "4.3.2": "armfhp"
+  },
+  "armassistdrone_land": {
+   "1.1.1": "armmex",
+   "1.1.2": "armsolar",
+   "1.1.3": "armwin",
+   "1.2.1": "armmakr",
+   "1.2.3": "armuwms",
+   "1.2.4": "armtide",
+   "1.3.1": "armestor",
+   "1.3.2": "armmstor",
+   "1.3.3": "armuwes",
+   "1.3.4": "armfmkr",
+   "2.1.1": "armllt",
+   "2.1.2": "armtl",
+   "2.2.1": "armrl",
+   "2.2.2": "armfrt",
+   "2.3.1": "armdl",
+   "3.1.1": "armrad",
+   "3.1.2": "armeyes",
+   "3.1.3": "armdrag",
+   "3.2.1": "armfrad",
+   "3.2.2": "armfdrag",
+   "4.1.1": "armlab",
+   "4.1.2": "armvp",
+   "4.1.3": "armap",
+   "4.1.4": "armsy",
+   "4.3.1": "armhp",
+   "4.3.2": "armfhp"
+  },
+  "armbeaver": {
+   "1.1.1": "armmex",
+   "1.1.2": "armsolar",
+   "1.1.3": "armwin",
+   "1.1.4": "armadvsol",
+   "1.2.1": "armmakr",
+   "1.2.2": "armgeo",
+   "1.2.3": "armamex",
+   "1.2.4": "armtide",
+   "1.3.1": "armestor",
+   "1.3.2": "armmstor",
+   "1.3.3": "armuwes",
+   "1.3.4": "armfmkr",
+   "2.1.1": "armllt",
+   "2.1.2": "armbeamer",
+   "2.1.3": "armhlt",
+   "2.1.4": "armclaw",
+   "2.2.1": "armrl",
+   "2.2.2": "armferret",
+   "2.2.3": "armcir",
+   "2.2.4": "armfrt",
+   "2.3.1": "armdl",
+   "2.3.2": "armguard",
+   "2.3.3": "armtl",
+   "2.3.4": "armfhlt",
+   "2.4.1": "armnavaldefturret",
+   "3.1.1": "armrad",
+   "3.1.2": "armeyes",
+   "3.1.3": "armdrag",
+   "3.1.4": "armjamt",
+   "3.2.1": "armfrad",
+   "3.2.2": "armfdrag",
+   "3.3.1": "armjuno",
+   "4.1.1": "armlab",
+   "4.1.2": "armvp",
+   "4.1.3": "armap",
+   "4.1.4": "armsy",
+   "4.2.1": "armnanotc",
+   "4.2.2": "armavp",
+   "4.2.3": "armnanotcplat",
+   "4.3.1": "armhp",
+   "4.3.2": "armfhp",
+   "4.3.3": "armamsub",
+   "4.3.4": "armplat"
+  },
+  "armca": {
+   "1.1.1": "armmex",
+   "1.1.2": "armsolar",
+   "1.1.3": "armwin",
+   "1.1.4": "armadvsol",
+   "1.2.1": "armmakr",
+   "1.2.2": "armgeo",
+   "1.2.3": "armamex",
+   "1.3.1": "armestor",
+   "1.3.2": "armmstor",
+   "2.1.1": "armllt",
+   "2.1.2": "armbeamer",
+   "2.1.3": "armhlt",
+   "2.1.4": "armclaw",
+   "2.2.1": "armrl",
+   "2.2.2": "armferret",
+   "2.2.3": "armcir",
+   "2.3.1": "armdl",
+   "2.3.2": "armguard",
+   "3.1.1": "armrad",
+   "3.1.2": "armeyes",
+   "3.1.3": "armdrag",
+   "3.1.4": "armjamt",
+   "3.3.1": "armjuno",
+   "4.1.1": "armlab",
+   "4.1.2": "armvp",
+   "4.1.3": "armap",
+   "4.1.4": "armsy",
+   "4.2.1": "armnanotc",
+   "4.2.2": "armaap",
+   "4.3.1": "armhp"
+  },
+  "armch": {
+   "1.1.1": "armmex",
+   "1.1.2": "armsolar",
+   "1.1.3": "armwin",
+   "1.1.4": "armadvsol",
+   "1.2.1": "armmakr",
+   "1.2.2": "armgeo",
+   "1.2.3": "armamex",
+   "1.2.4": "armtide",
+   "1.3.1": "armestor",
+   "1.3.2": "armmstor",
+   "1.3.3": "armuwes",
+   "1.3.4": "armfmkr",
+   "2.1.1": "armllt",
+   "2.1.2": "armbeamer",
+   "2.1.3": "armhlt",
+   "2.1.4": "armclaw",
+   "2.2.1": "armrl",
+   "2.2.2": "armferret",
+   "2.2.3": "armcir",
+   "2.2.4": "armfrt",
+   "2.3.1": "armdl",
+   "2.3.2": "armguard",
+   "2.3.3": "armtl",
+   "2.3.4": "armfhlt",
+   "2.4.1": "armnavaldefturret",
+   "3.1.1": "armrad",
+   "3.1.2": "armeyes",
+   "3.1.3": "armdrag",
+   "3.1.4": "armjamt",
+   "3.2.1": "armfrad",
+   "3.2.2": "armfdrag",
+   "3.3.1": "armjuno",
+   "4.1.1": "armlab",
+   "4.1.2": "armvp",
+   "4.1.3": "armap",
+   "4.1.4": "armsy",
+   "4.2.1": "armnanotc",
+   "4.2.2": "armavp",
+   "4.2.3": "armnanotcplat",
+   "4.2.4": "armasy",
+   "4.3.1": "armhp",
+   "4.3.2": "armfhp",
+   "4.3.3": "armamsub",
+   "4.3.4": "armplat"
+  },
+  "armck": {
+   "1.1.1": "armmex",
+   "1.1.2": "armsolar",
+   "1.1.3": "armwin",
+   "1.1.4": "armadvsol",
+   "1.2.1": "armmakr",
+   "1.2.2": "armgeo",
+   "1.2.3": "armamex",
+   "1.3.1": "armestor",
+   "1.3.2": "armmstor",
+   "2.1.1": "armllt",
+   "2.1.2": "armbeamer",
+   "2.1.3": "armhlt",
+   "2.1.4": "armclaw",
+   "2.2.1": "armrl",
+   "2.2.2": "armferret",
+   "2.2.3": "armcir",
+   "2.3.1": "armdl",
+   "2.3.2": "armguard",
+   "3.1.1": "armrad",
+   "3.1.2": "armeyes",
+   "3.1.3": "armdrag",
+   "3.1.4": "armjamt",
+   "3.3.1": "armjuno",
+   "4.1.1": "armlab",
+   "4.1.2": "armvp",
+   "4.1.3": "armap",
+   "4.1.4": "armsy",
+   "4.2.1": "armnanotc",
+   "4.2.2": "armalab",
+   "4.3.1": "armhp"
+  },
+  "armcom": {
+   "1.1.1": "armmex",
+   "1.1.2": "armsolar",
+   "1.1.3": "armwin",
+   "1.2.1": "armmakr",
+   "1.2.3": "armuwms",
+   "1.2.4": "armtide",
+   "1.3.1": "armestor",
+   "1.3.2": "armmstor",
+   "1.3.3": "armuwes",
+   "1.3.4": "armfmkr",
+   "2.1.1": "armllt",
+   "2.1.2": "armtl",
+   "2.2.1": "armrl",
+   "2.2.2": "armfrt",
+   "2.3.1": "armdl",
+   "3.1.1": "armrad",
+   "3.1.2": "armeyes",
+   "3.1.3": "armdrag",
+   "3.2.1": "armfrad",
+   "3.2.2": "armfdrag",
+   "4.1.1": "armlab",
+   "4.1.2": "armvp",
+   "4.1.3": "armap",
+   "4.1.4": "armsy",
+   "4.3.1": "armhp",
+   "4.3.2": "armfhp"
+  },
+  "armcomlvl10": {
+   "1.1.1": "armmoho",
+   "1.1.2": "armfus",
+   "1.1.3": "armafus",
+   "1.1.4": "armadvsol",
+   "1.2.1": "armmmkr",
+   "1.2.2": "armageo",
+   "1.2.3": "armamex",
+   "1.2.4": "armtide",
+   "1.3.1": "armuwadves",
+   "1.3.2": "armuwadvms",
+   "1.3.3": "armuwmme",
+   "1.3.4": "armuwmmm",
+   "2.1.1": "armpb",
+   "2.1.2": "armanni",
+   "2.1.3": "armamb",
+   "2.1.4": "armclaw",
+   "2.2.1": "armflak",
+   "2.2.2": "armmercury",
+   "2.2.3": "armbeamer",
+   "2.2.4": "armfflak",
+   "2.3.1": "armdl",
+   "2.3.3": "armatl",
+   "3.1.1": "armarad",
+   "3.1.2": "armeyes",
+   "3.1.3": "armfort",
+   "3.1.4": "armjamt",
+   "3.2.1": "armfrad",
+   "3.2.2": "armfdrag",
+   "3.2.3": "armdrag",
+   "3.3.1": "armjuno",
+   "3.3.2": "armmine1",
+   "3.3.3": "armmine2",
+   "3.3.4": "armmine3",
+   "4.1.1": "armlab",
+   "4.1.2": "armvp",
+   "4.1.3": "armap",
+   "4.1.4": "armsy",
+   "4.2.1": "armnanotc",
+   "4.2.3": "armnanotcplat",
+   "4.3.1": "armhp",
+   "4.3.2": "armfhp",
+   "4.3.4": "armdecom"
+  },
+  "armcomlvl2": {
+   "1.1.1": "armmex",
+   "1.1.2": "armsolar",
+   "1.1.3": "armwin",
+   "1.2.1": "armmakr",
+   "1.2.3": "armuwms",
+   "1.2.4": "armtide",
+   "1.3.1": "armestor",
+   "1.3.2": "armmstor",
+   "1.3.3": "armuwes",
+   "1.3.4": "armfmkr",
+   "2.1.1": "armllt",
+   "2.1.2": "armbeamer",
+   "2.1.3": "armhlt",
+   "2.2.1": "armrl",
+   "2.2.2": "armferret",
+   "2.2.3": "armcir",
+   "2.2.4": "armfrt",
+   "2.3.1": "armdl",
+   "2.3.2": "armguard",
+   "2.3.3": "armtl",
+   "2.3.4": "armfrock",
+   "3.1.1": "armrad",
+   "3.1.2": "armeyes",
+   "3.1.3": "armdrag",
+   "3.2.1": "armfrad",
+   "3.2.2": "armfdrag",
+   "3.3.2": "armmine1",
+   "3.3.3": "armmine2",
+   "3.3.4": "armmine3",
+   "4.1.1": "armlab",
+   "4.1.2": "armvp",
+   "4.1.3": "armap",
+   "4.1.4": "armsy",
+   "4.3.1": "armhp",
+   "4.3.2": "armfhp"
+  },
+  "armcomlvl3": {
+   "1.1.1": "armmex",
+   "1.1.2": "armsolar",
+   "1.1.3": "armwin",
+   "1.1.4": "armadvsol",
+   "1.2.1": "armmakr",
+   "1.2.2": "armgeo",
+   "1.2.3": "armamex",
+   "1.2.4": "armtide",
+   "1.3.1": "armestor",
+   "1.3.2": "armmstor",
+   "1.3.3": "armuwes",
+   "1.3.4": "armfmkr",
+   "2.1.1": "armllt",
+   "2.1.2": "armbeamer",
+   "2.1.3": "armhlt",
+   "2.1.4": "armclaw",
+   "2.2.1": "armrl",
+   "2.2.2": "armferret",
+   "2.2.4": "armfrt",
+   "2.3.1": "armdl",
+   "2.3.2": "armguard",
+   "2.3.3": "armtl",
+   "2.3.4": "armfrock",
+   "3.1.1": "armrad",
+   "3.1.2": "armeyes",
+   "3.1.3": "armdrag",
+   "3.1.4": "armjamt",
+   "3.2.1": "armfrad",
+   "3.2.2": "armfdrag",
+   "3.3.1": "armjuno",
+   "3.3.2": "armmine1",
+   "3.3.3": "armmine2",
+   "3.3.4": "armmine3",
+   "4.1.1": "armlab",
+   "4.1.2": "armvp",
+   "4.1.3": "armap",
+   "4.1.4": "armsy",
+   "4.2.1": "armnanotc",
+   "4.2.3": "armnanotcplat",
+   "4.3.1": "armhp",
+   "4.3.2": "armfhp",
+   "4.3.4": "armdecom"
+  },
+  "armcomlvl4": {
+   "1.1.1": "armmex",
+   "1.1.2": "armsolar",
+   "1.1.3": "armwin",
+   "1.1.4": "armadvsol",
+   "1.2.1": "armmakr",
+   "1.2.2": "armgeo",
+   "1.2.3": "armamex",
+   "1.2.4": "armtide",
+   "1.3.1": "armestor",
+   "1.3.2": "armmstor",
+   "1.3.3": "armuwes",
+   "1.3.4": "armfmkr",
+   "2.1.1": "armpb",
+   "2.1.2": "armbeamer",
+   "2.1.3": "armhlt",
+   "2.1.4": "armclaw",
+   "2.2.1": "armrl",
+   "2.2.2": "armferret",
+   "2.2.3": "armcir",
+   "2.2.4": "armfrt",
+   "2.3.1": "armdl",
+   "2.3.2": "armamb",
+   "2.3.3": "armtl",
+   "3.1.1": "armrad",
+   "3.1.2": "armeyes",
+   "3.1.3": "armdrag",
+   "3.1.4": "armjamt",
+   "3.2.1": "armfrad",
+   "3.2.2": "armfdrag",
+   "3.3.1": "armjuno",
+   "3.3.2": "armmine1",
+   "3.3.3": "armmine2",
+   "3.3.4": "armmine3",
+   "4.1.1": "armlab",
+   "4.1.2": "armvp",
+   "4.1.3": "armap",
+   "4.1.4": "armsy",
+   "4.2.1": "armnanotc",
+   "4.2.3": "armnanotcplat",
+   "4.3.1": "armhp",
+   "4.3.2": "armfhp",
+   "4.3.4": "armdecom"
+  },
+  "armcomlvl5": {
+   "1.1.1": "armmoho",
+   "1.1.2": "armfus",
+   "1.1.3": "armafus",
+   "1.1.4": "armadvsol",
+   "1.2.1": "armmmkr",
+   "1.2.2": "armageo",
+   "1.2.3": "armamex",
+   "1.2.4": "armtide",
+   "1.3.1": "armuwadves",
+   "1.3.2": "armuwadvms",
+   "1.3.3": "armuwmme",
+   "1.3.4": "armuwmmm",
+   "2.1.1": "armpb",
+   "2.1.2": "armanni",
+   "2.1.3": "armamb",
+   "2.1.4": "armclaw",
+   "2.2.1": "armflak",
+   "2.2.2": "armmercury",
+   "2.2.3": "armbeamer",
+   "2.2.4": "armfflak",
+   "2.3.1": "armdl",
+   "2.3.3": "armatl",
+   "3.1.1": "armarad",
+   "3.1.2": "armeyes",
+   "3.1.3": "armfort",
+   "3.1.4": "armjamt",
+   "3.2.1": "armfrad",
+   "3.2.2": "armfdrag",
+   "3.2.3": "armdrag",
+   "3.3.1": "armjuno",
+   "3.3.2": "armmine1",
+   "3.3.3": "armmine2",
+   "3.3.4": "armmine3",
+   "4.1.1": "armlab",
+   "4.1.2": "armvp",
+   "4.1.3": "armap",
+   "4.1.4": "armsy",
+   "4.2.1": "armnanotc",
+   "4.2.3": "armnanotcplat",
+   "4.3.1": "armhp",
+   "4.3.2": "armfhp",
+   "4.3.4": "armdecom"
+  },
+  "armcomlvl6": {
+   "1.1.1": "armmoho",
+   "1.1.2": "armfus",
+   "1.1.3": "armafus",
+   "1.1.4": "armadvsol",
+   "1.2.1": "armmmkr",
+   "1.2.2": "armageo",
+   "1.2.3": "armamex",
+   "1.2.4": "armtide",
+   "1.3.1": "armuwadves",
+   "1.3.2": "armuwadvms",
+   "1.3.3": "armuwmme",
+   "1.3.4": "armuwmmm",
+   "2.1.1": "armpb",
+   "2.1.2": "armanni",
+   "2.1.3": "armamb",
+   "2.1.4": "armclaw",
+   "2.2.1": "armflak",
+   "2.2.2": "armmercury",
+   "2.2.3": "armbeamer",
+   "2.2.4": "armfflak",
+   "2.3.1": "armdl",
+   "2.3.3": "armatl",
+   "3.1.1": "armarad",
+   "3.1.2": "armeyes",
+   "3.1.3": "armfort",
+   "3.1.4": "armjamt",
+   "3.2.1": "armfrad",
+   "3.2.2": "armfdrag",
+   "3.2.3": "armdrag",
+   "3.3.1": "armjuno",
+   "3.3.2": "armmine1",
+   "3.3.3": "armmine2",
+   "3.3.4": "armmine3",
+   "4.1.1": "armlab",
+   "4.1.2": "armvp",
+   "4.1.3": "armap",
+   "4.1.4": "armsy",
+   "4.2.1": "armnanotc",
+   "4.2.3": "armnanotcplat",
+   "4.3.1": "armhp",
+   "4.3.2": "armfhp",
+   "4.3.4": "armdecom"
+  },
+  "armcomlvl7": {
+   "1.1.1": "armmoho",
+   "1.1.2": "armfus",
+   "1.1.3": "armafus",
+   "1.1.4": "armadvsol",
+   "1.2.1": "armmmkr",
+   "1.2.2": "armageo",
+   "1.2.3": "armamex",
+   "1.2.4": "armtide",
+   "1.3.1": "armuwadves",
+   "1.3.2": "armuwadvms",
+   "1.3.3": "armuwmme",
+   "1.3.4": "armuwmmm",
+   "2.1.1": "armpb",
+   "2.1.2": "armanni",
+   "2.1.3": "armamb",
+   "2.1.4": "armclaw",
+   "2.2.1": "armflak",
+   "2.2.2": "armmercury",
+   "2.2.3": "armbeamer",
+   "2.2.4": "armfflak",
+   "2.3.1": "armdl",
+   "2.3.3": "armatl",
+   "3.1.1": "armarad",
+   "3.1.2": "armeyes",
+   "3.1.3": "armfort",
+   "3.1.4": "armjamt",
+   "3.2.1": "armfrad",
+   "3.2.2": "armfdrag",
+   "3.2.3": "armdrag",
+   "3.3.1": "armjuno",
+   "3.3.2": "armmine1",
+   "3.3.3": "armmine2",
+   "3.3.4": "armmine3",
+   "4.1.1": "armlab",
+   "4.1.2": "armvp",
+   "4.1.3": "armap",
+   "4.1.4": "armsy",
+   "4.2.1": "armnanotc",
+   "4.2.3": "armnanotcplat",
+   "4.3.1": "armhp",
+   "4.3.2": "armfhp",
+   "4.3.4": "armdecom"
+  },
+  "armcomlvl8": {
+   "1.1.1": "armmoho",
+   "1.1.2": "armfus",
+   "1.1.3": "armafus",
+   "1.1.4": "armadvsol",
+   "1.2.1": "armmmkr",
+   "1.2.2": "armageo",
+   "1.2.3": "armamex",
+   "1.2.4": "armtide",
+   "1.3.1": "armuwadves",
+   "1.3.2": "armuwadvms",
+   "1.3.3": "armuwmme",
+   "1.3.4": "armuwmmm",
+   "2.1.1": "armpb",
+   "2.1.2": "armanni",
+   "2.1.3": "armamb",
+   "2.1.4": "armclaw",
+   "2.2.1": "armflak",
+   "2.2.2": "armmercury",
+   "2.2.3": "armbeamer",
+   "2.2.4": "armfflak",
+   "2.3.1": "armdl",
+   "2.3.3": "armatl",
+   "3.1.1": "armarad",
+   "3.1.2": "armeyes",
+   "3.1.3": "armfort",
+   "3.1.4": "armjamt",
+   "3.2.1": "armfrad",
+   "3.2.2": "armfdrag",
+   "3.2.3": "armdrag",
+   "3.3.1": "armjuno",
+   "3.3.2": "armmine1",
+   "3.3.3": "armmine2",
+   "3.3.4": "armmine3",
+   "4.1.1": "armlab",
+   "4.1.2": "armvp",
+   "4.1.3": "armap",
+   "4.1.4": "armsy",
+   "4.2.1": "armnanotc",
+   "4.2.3": "armnanotcplat",
+   "4.3.1": "armhp",
+   "4.3.2": "armfhp",
+   "4.3.4": "armdecom"
+  },
+  "armcomlvl9": {
+   "1.1.1": "armmoho",
+   "1.1.2": "armfus",
+   "1.1.3": "armafus",
+   "1.1.4": "armadvsol",
+   "1.2.1": "armmmkr",
+   "1.2.2": "armageo",
+   "1.2.3": "armamex",
+   "1.2.4": "armtide",
+   "1.3.1": "armuwadves",
+   "1.3.2": "armuwadvms",
+   "1.3.3": "armuwmme",
+   "1.3.4": "armuwmmm",
+   "2.1.1": "armpb",
+   "2.1.2": "armanni",
+   "2.1.3": "armamb",
+   "2.1.4": "armclaw",
+   "2.2.1": "armflak",
+   "2.2.2": "armmercury",
+   "2.2.3": "armbeamer",
+   "2.2.4": "armfflak",
+   "2.3.1": "armdl",
+   "2.3.3": "armatl",
+   "3.1.1": "armarad",
+   "3.1.2": "armeyes",
+   "3.1.3": "armfort",
+   "3.1.4": "armjamt",
+   "3.2.1": "armfrad",
+   "3.2.2": "armfdrag",
+   "3.2.3": "armdrag",
+   "3.3.1": "armjuno",
+   "3.3.2": "armmine1",
+   "3.3.3": "armmine2",
+   "3.3.4": "armmine3",
+   "4.1.1": "armlab",
+   "4.1.2": "armvp",
+   "4.1.3": "armap",
+   "4.1.4": "armsy",
+   "4.2.1": "armnanotc",
+   "4.2.3": "armnanotcplat",
+   "4.3.1": "armhp",
+   "4.3.2": "armfhp",
+   "4.3.4": "armdecom"
+  },
+  "armconsul": {
+   "1.1.1": "armmex",
+   "1.1.2": "armsolar",
+   "2.1.1": "armbeamer",
+   "2.1.2": "armfast",
+   "2.1.3": "armamb",
+   "2.1.4": "armmav",
+   "2.2.1": "armflak",
+   "2.2.2": "armferret",
+   "2.2.3": "armjeth",
+   "2.2.4": "armpw",
+   "2.3.1": "armdl",
+   "2.3.2": "armroy",
+   "2.3.3": "armspid",
+   "2.3.4": "armamph",
+   "3.1.1": "armarad",
+   "3.1.2": "armeyes",
+   "3.1.3": "armfort",
+   "3.1.4": "armveil",
+   "3.3.1": "armmine2",
+   "4.1.1": "armcv",
+   "4.1.2": "armvp",
+   "4.2.1": "armnanotc",
+   "4.3.1": "armcs"
+  },
+  "armcs": {
+   "1.1.1": "armmex",
+   "1.1.2": "armtide",
+   "1.2.1": "armfmkr",
+   "1.2.2": "armgeo",
+   "1.3.1": "armuwes",
+   "1.3.2": "armuwms",
+   "2.1.1": "armtl",
+   "2.1.2": "armfhlt",
+   "2.1.3": "armnavaldefturret",
+   "2.1.4": "armclaw",
+   "2.2.1": "armfrt",
+   "2.3.1": "armdl",
+   "2.3.2": "armguard",
+   "3.1.1": "armfrad",
+   "3.1.2": "armeyes",
+   "3.1.3": "armfdrag",
+   "3.2.2": "armdrag",
+   "4.1.1": "armsy",
+   "4.1.2": "armvp",
+   "4.1.3": "armap",
+   "4.1.4": "armlab",
+   "4.2.1": "armnanotcplat",
+   "4.2.2": "armasy",
+   "4.3.1": "armfhp",
+   "4.3.3": "armamsub",
+   "4.3.4": "armplat"
+  },
+  "armcsa": {
+   "1.1.1": "armmex",
+   "1.1.2": "armsolar",
+   "1.1.3": "armwin",
+   "1.1.4": "armadvsol",
+   "1.2.1": "armmakr",
+   "1.2.2": "armgeo",
+   "1.2.3": "armamex",
+   "1.2.4": "armtide",
+   "1.3.1": "armestor",
+   "1.3.2": "armmstor",
+   "1.3.3": "armuwes",
+   "1.3.4": "armfmkr",
+   "2.1.1": "armllt",
+   "2.1.2": "armbeamer",
+   "2.1.3": "armhlt",
+   "2.1.4": "armclaw",
+   "2.2.1": "armrl",
+   "2.2.2": "armferret",
+   "2.2.3": "armcir",
+   "2.2.4": "armfrt",
+   "2.3.1": "armdl",
+   "2.3.2": "armguard",
+   "2.3.3": "armtl",
+   "2.3.4": "armfhlt",
+   "2.4.1": "armnavaldefturret",
+   "3.1.1": "armrad",
+   "3.1.2": "armeyes",
+   "3.1.3": "armdrag",
+   "3.1.4": "armjamt",
+   "3.2.1": "armfrad",
+   "3.2.2": "armfdrag",
+   "3.3.1": "armjuno",
+   "4.1.1": "armlab",
+   "4.1.2": "armvp",
+   "4.1.3": "armap",
+   "4.1.4": "armsy",
+   "4.2.1": "armnanotc",
+   "4.2.2": "armnanotcplat",
+   "4.2.3": "armaap",
+   "4.3.1": "armhp",
+   "4.3.2": "armfhp",
+   "4.3.3": "armamsub",
+   "4.3.4": "armplat"
+  },
+  "armcv": {
+   "1.1.1": "armmex",
+   "1.1.2": "armsolar",
+   "1.1.3": "armwin",
+   "1.1.4": "armadvsol",
+   "1.2.1": "armmakr",
+   "1.2.2": "armgeo",
+   "1.2.3": "armamex",
+   "1.3.1": "armestor",
+   "1.3.2": "armmstor",
+   "2.1.1": "armllt",
+   "2.1.2": "armbeamer",
+   "2.1.3": "armhlt",
+   "2.1.4": "armclaw",
+   "2.2.1": "armrl",
+   "2.2.2": "armferret",
+   "2.2.3": "armcir",
+   "2.3.1": "armdl",
+   "2.3.2": "armguard",
+   "3.1.1": "armrad",
+   "3.1.2": "armeyes",
+   "3.1.3": "armdrag",
+   "3.1.4": "armjamt",
+   "3.3.1": "armjuno",
+   "4.1.1": "armlab",
+   "4.1.2": "armvp",
+   "4.1.3": "armap",
+   "4.1.4": "armsy",
+   "4.2.1": "armnanotc",
+   "4.2.2": "armavp",
+   "4.3.1": "armhp"
+  },
+  "armdecom": {
+   "1.1.1": "armmex",
+   "1.1.2": "armsolar",
+   "1.1.3": "armwin",
+   "1.2.1": "armmakr",
+   "1.2.3": "armuwms",
+   "1.2.4": "armtide",
+   "1.3.1": "armestor",
+   "1.3.2": "armmstor",
+   "1.3.3": "armuwes",
+   "1.3.4": "armfmkr",
+   "2.1.1": "armllt",
+   "2.2.1": "armrl",
+   "3.1.1": "armrad",
+   "3.3.1": "armmine1",
+   "3.3.2": "armmine2",
+   "3.3.3": "armmine3"
+  },
+  "armfark": {
+   "1.1.1": "armmex",
+   "1.1.2": "armsolar",
+   "1.1.3": "armwin",
+   "1.2.1": "armmakr",
+   "3.1.1": "armmark",
+   "3.1.2": "armeyes",
+   "3.1.3": "armaser"
+  },
+  "armhaca": {
+   "1.1.1": "armmoho",
+   "1.1.2": "armfus",
+   "1.1.3": "armafus",
+   "1.2.1": "armmmkr",
+   "1.2.2": "armageo",
+   "1.3.1": "armuwadves",
+   "1.3.2": "armuwadvms",
+   "2.1.1": "armpb",
+   "2.1.2": "armanni",
+   "2.1.3": "armamb",
+   "2.1.4": "armemp",
+   "2.2.1": "armflak",
+   "2.2.2": "armmercury",
+   "2.2.3": "armamd",
+   "2.3.1": "armbrtha",
+   "2.3.2": "armsilo",
+   "2.3.3": "armvulc",
+   "3.1.1": "armtarg",
+   "3.1.2": "armdf",
+   "3.1.3": "armfort",
+   "3.2.1": "armveil",
+   "3.2.3": "armasp",
+   "3.3.1": "armgate",
+   "4.1.1": "armlab",
+   "4.1.2": "armvp",
+   "4.1.3": "armap",
+   "4.1.4": "armsy",
+   "4.2.1": "armhaap",
+   "4.2.2": "armaap"
+  },
+  "armhack": {
+   "1.1.1": "armmoho",
+   "1.1.2": "armfus",
+   "1.1.3": "armafus",
+   "1.2.1": "armmmkr",
+   "1.2.2": "armageo",
+   "1.3.1": "armuwadves",
+   "1.3.2": "armuwadvms",
+   "2.1.1": "armpb",
+   "2.1.2": "armanni",
+   "2.1.3": "armamb",
+   "2.1.4": "armemp",
+   "2.2.1": "armflak",
+   "2.2.2": "armmercury",
+   "2.2.3": "armamd",
+   "2.3.1": "armbrtha",
+   "2.3.2": "armsilo",
+   "2.3.3": "armvulc",
+   "3.1.1": "armtarg",
+   "3.1.2": "armsd",
+   "3.1.3": "armfort",
+   "3.2.2": "armdf",
+   "3.3.1": "armgate",
+   "4.1.1": "armlab",
+   "4.1.2": "armvp",
+   "4.1.3": "armap",
+   "4.1.4": "armsy",
+   "4.2.1": "armnanotc",
+   "4.2.2": "armalab",
+   "4.3.2": "armhalab"
+  },
+  "armhacs": {
+   "1.1.1": "armuwmme",
+   "1.1.2": "armtide",
+   "1.1.3": "armuwfus",
+   "1.1.4": "armafus",
+   "1.2.1": "armuwmmm",
+   "1.2.3": "armuwageo",
+   "1.3.1": "armuwadves",
+   "1.3.2": "armuwadvms",
+   "2.1.1": "armkraken",
+   "2.1.2": "armpb",
+   "2.1.3": "armanni",
+   "2.1.4": "armanavaldefturret",
+   "2.2.1": "armfflak",
+   "2.2.2": "armmercury",
+   "2.3.1": "armatl",
+   "3.1.1": "armfatf",
+   "4.1.1": "armlab",
+   "4.1.2": "armvp",
+   "4.1.3": "armap",
+   "4.1.4": "armsy",
+   "4.2.1": "armnanotcplat",
+   "4.2.2": "armasy",
+   "4.3.2": "armhasy"
+  },
+  "armhacv": {
+   "1.1.1": "armmoho",
+   "1.1.2": "armfus",
+   "1.1.3": "armafus",
+   "1.2.1": "armmmkr",
+   "1.2.2": "armageo",
+   "1.3.1": "armuwadves",
+   "1.3.2": "armuwadvms",
+   "2.1.1": "armpb",
+   "2.1.2": "armanni",
+   "2.1.3": "armamb",
+   "2.1.4": "armemp",
+   "2.2.1": "armflak",
+   "2.2.2": "armmercury",
+   "2.2.3": "armamd",
+   "2.3.1": "armbrtha",
+   "2.3.2": "armsilo",
+   "2.3.3": "armvulc",
+   "3.1.1": "armtarg",
+   "3.1.2": "armsd",
+   "3.1.3": "armfort",
+   "3.2.2": "armdf",
+   "3.3.1": "armgate",
+   "4.1.1": "armlab",
+   "4.1.2": "armvp",
+   "4.1.3": "armap",
+   "4.1.4": "armsy",
+   "4.2.1": "armnanotc",
+   "4.2.2": "armavp",
+   "4.3.2": "armhavp"
+  },
+  "armmls": {
+   "1.1.1": "armmex",
+   "1.1.2": "armtide",
+   "2.1.1": "armtl",
+   "2.1.2": "armkraken",
+   "2.1.3": "armamb",
+   "2.1.4": "armfhlt",
+   "2.2.1": "armfflak",
+   "2.2.2": "armpt",
+   "2.2.3": "armamph",
+   "2.3.1": "armdecade",
+   "2.3.2": "armroy",
+   "2.4.1": "armnavaldefturret",
+   "2.4.2": "armanavaldefturret",
+   "3.1.1": "armfrad",
+   "3.1.2": "armarad",
+   "3.3.1": "armfmine3",
+   "4.1.1": "armsy",
+   "4.1.2": "armcs",
+   "4.2.1": "armnanotcplat"
+  },
+  "armmlv": {
+   "3.1.2": "armeyes",
+   "3.1.3": "armdrag",
+   "3.3.1": "armmine1",
+   "3.3.2": "armmine2",
+   "3.3.3": "armmine3"
+  },
+  "coraca": {
+   "1.1.1": "cormoho",
+   "1.1.2": "corfus",
+   "1.1.3": "corafus",
+   "1.2.1": "cormmkr",
+   "1.2.2": "corageo",
+   "1.2.3": "cormexp",
+   "1.2.4": "coruwageo",
+   "1.3.1": "coruwadves",
+   "1.3.2": "coruwadvms",
+   "2.1.1": "corvipe",
+   "2.1.2": "cordoom",
+   "2.1.3": "cortoast",
+   "2.1.4": "cortron",
+   "2.2.1": "corflak",
+   "2.2.2": "corscreamer",
+   "2.2.3": "corfmd",
+   "2.2.4": "corbhmth",
+   "2.3.1": "corint",
+   "2.3.2": "corbuzz",
+   "2.3.3": "corsilo",
+   "3.1.1": "corarad",
+   "3.1.2": "cortarg",
+   "3.1.3": "corfort",
+   "3.1.4": "corshroud",
+   "3.2.1": "corsd",
+   "3.3.1": "corgate",
+   "4.1.1": "corap",
+   "4.2.1": "corgant",
+   "4.2.2": "coraap",
+   "4.3.1": "corplat"
+  },
+  "corack": {
+   "1.1.1": "cormoho",
+   "1.1.2": "corfus",
+   "1.1.3": "corafus",
+   "1.2.1": "cormmkr",
+   "1.2.2": "corageo",
+   "1.2.3": "cormexp",
+   "1.3.1": "coruwadves",
+   "1.3.2": "coruwadvms",
+   "2.1.1": "corvipe",
+   "2.1.2": "cordoom",
+   "2.1.3": "cortoast",
+   "2.1.4": "cortron",
+   "2.2.1": "corflak",
+   "2.2.2": "corscreamer",
+   "2.2.3": "corfmd",
+   "2.2.4": "corbhmth",
+   "2.3.1": "corint",
+   "2.3.2": "corbuzz",
+   "2.3.3": "corsilo",
+   "3.1.1": "corarad",
+   "3.1.2": "cortarg",
+   "3.1.3": "corfort",
+   "3.1.4": "corshroud",
+   "3.2.1": "corsd",
+   "3.3.1": "corgate",
+   "4.1.1": "corlab",
+   "4.2.1": "corgant",
+   "4.2.2": "coralab"
+  },
+  "coracsub": {
+   "1.1.1": "coruwmme",
+   "1.1.2": "coruwfus",
+   "1.2.1": "coruwmmm",
+   "1.2.2": "coruwageo",
+   "1.3.1": "coruwadves",
+   "1.3.2": "coruwadvms",
+   "2.1.1": "coratl",
+   "2.1.2": "corfdoom",
+   "2.1.3": "coranavaldefturret",
+   "2.2.1": "corenaa",
+   "3.1.1": "corason",
+   "3.1.2": "corfatf",
+   "4.1.1": "corsy",
+   "4.2.1": "corgantuw",
+   "4.2.2": "corasy"
+  },
+  "coracv": {
+   "1.1.1": "cormoho",
+   "1.1.2": "corfus",
+   "1.1.3": "corafus",
+   "1.2.1": "cormmkr",
+   "1.2.2": "corageo",
+   "1.2.3": "cormexp",
+   "1.3.1": "coruwadves",
+   "1.3.2": "coruwadvms",
+   "2.1.1": "corvipe",
+   "2.1.2": "cordoom",
+   "2.1.3": "cortoast",
+   "2.1.4": "cortron",
+   "2.2.1": "corflak",
+   "2.2.2": "corscreamer",
+   "2.2.3": "corfmd",
+   "2.2.4": "corbhmth",
+   "2.3.1": "leglrpc",
+   "2.3.2": "corbuzz",
+   "2.3.3": "corsilo",
+   "3.1.1": "corarad",
+   "3.1.2": "cortarg",
+   "3.1.3": "corfort",
+   "3.1.4": "corshroud",
+   "3.2.1": "corsd",
+   "3.3.1": "corgate",
+   "4.1.1": "corvp",
+   "4.2.1": "corgant",
+   "4.2.2": "coravp"
+  },
+  "corassistdrone": {
+   "1.1.1": "cormex",
+   "1.1.2": "corsolar",
+   "1.1.3": "corwin",
+   "1.2.1": "cormakr",
+   "1.2.3": "coruwms",
+   "1.2.4": "cortide",
+   "1.3.1": "corestor",
+   "1.3.2": "cormstor",
+   "1.3.3": "coruwes",
+   "1.3.4": "corfmkr",
+   "2.1.1": "corllt",
+   "2.1.2": "cortl",
+   "2.2.1": "corrl",
+   "2.2.2": "corfrt",
+   "2.3.1": "cordl",
+   "3.1.1": "corrad",
+   "3.1.2": "coreyes",
+   "3.1.3": "cordrag",
+   "3.2.1": "corfrad",
+   "3.2.2": "corfdrag",
+   "4.1.1": "corlab",
+   "4.1.2": "corvp",
+   "4.1.3": "corap",
+   "4.1.4": "corsy",
+   "4.3.1": "corhp",
+   "4.3.2": "corfhp"
+  },
+  "corassistdrone_land": {
+   "1.1.1": "cormex",
+   "1.1.2": "corsolar",
+   "1.1.3": "corwin",
+   "1.2.1": "cormakr",
+   "1.2.3": "coruwms",
+   "1.2.4": "cortide",
+   "1.3.1": "corestor",
+   "1.3.2": "cormstor",
+   "1.3.3": "coruwes",
+   "1.3.4": "corfmkr",
+   "2.1.1": "corllt",
+   "2.1.2": "cortl",
+   "2.2.1": "corrl",
+   "2.2.2": "corfrt",
+   "2.3.1": "cordl",
+   "3.1.1": "corrad",
+   "3.1.2": "coreyes",
+   "3.1.3": "cordrag",
+   "3.2.1": "corfrad",
+   "3.2.2": "corfdrag",
+   "4.1.1": "corlab",
+   "4.1.2": "corvp",
+   "4.1.3": "corap",
+   "4.1.4": "corsy",
+   "4.3.1": "corhp",
+   "4.3.2": "corfhp"
+  },
+  "corca": {
+   "1.1.1": "cormex",
+   "1.1.2": "corsolar",
+   "1.1.3": "corwin",
+   "1.1.4": "coradvsol",
+   "1.2.1": "cormakr",
+   "1.2.2": "corgeo",
+   "1.2.3": "corexp",
+   "1.3.1": "corestor",
+   "1.3.2": "cormstor",
+   "2.1.1": "corllt",
+   "2.1.2": "corhllt",
+   "2.1.3": "corhlt",
+   "2.1.4": "cormaw",
+   "2.2.1": "corrl",
+   "2.2.2": "cormadsam",
+   "2.2.3": "corerad",
+   "2.3.1": "cordl",
+   "2.3.2": "corpun",
+   "3.1.1": "corrad",
+   "3.1.2": "coreyes",
+   "3.1.3": "cordrag",
+   "3.1.4": "corjamt",
+   "3.3.1": "corjuno",
+   "4.1.1": "corlab",
+   "4.1.2": "corvp",
+   "4.1.3": "corap",
+   "4.1.4": "corsy",
+   "4.2.1": "cornanotc",
+   "4.2.2": "coraap",
+   "4.3.1": "corhp"
+  },
+  "corch": {
+   "1.1.1": "cormex",
+   "1.1.2": "corsolar",
+   "1.1.3": "corwin",
+   "1.1.4": "coradvsol",
+   "1.2.1": "cormakr",
+   "1.2.2": "corgeo",
+   "1.2.3": "corexp",
+   "1.2.4": "cortide",
+   "1.3.1": "corestor",
+   "1.3.2": "cormstor",
+   "1.3.3": "coruwes",
+   "1.3.4": "corfmkr",
+   "2.1.1": "corllt",
+   "2.1.2": "corhllt",
+   "2.1.3": "corhlt",
+   "2.1.4": "cormaw",
+   "2.2.1": "corrl",
+   "2.2.2": "cormadsam",
+   "2.2.3": "corerad",
+   "2.3.1": "cordl",
+   "2.3.2": "corpun",
+   "2.3.3": "cortl",
+   "2.3.4": "corfhlt",
+   "2.4.1": "cornavaldefturret",
+   "3.1.1": "corrad",
+   "3.1.2": "coreyes",
+   "3.1.3": "cordrag",
+   "3.1.4": "corjamt",
+   "3.2.1": "corfrad",
+   "3.2.2": "corfdrag",
+   "3.3.1": "corjuno",
+   "4.1.1": "corlab",
+   "4.1.2": "corvp",
+   "4.1.3": "corap",
+   "4.1.4": "corsy",
+   "4.2.1": "cornanotc",
+   "4.2.2": "coravp",
+   "4.2.3": "cornanotcplat",
+   "4.2.4": "corasy",
+   "4.3.1": "corhp",
+   "4.3.2": "corfhp",
+   "4.3.3": "coramsub",
+   "4.3.4": "corplat"
+  },
+  "corck": {
+   "1.1.1": "cormex",
+   "1.1.2": "corsolar",
+   "1.1.3": "corwin",
+   "1.1.4": "coradvsol",
+   "1.2.1": "cormakr",
+   "1.2.2": "corgeo",
+   "1.2.3": "corexp",
+   "1.3.1": "corestor",
+   "1.3.2": "cormstor",
+   "2.1.1": "corllt",
+   "2.1.2": "corhllt",
+   "2.1.3": "corhlt",
+   "2.1.4": "cormaw",
+   "2.2.1": "corrl",
+   "2.2.2": "cormadsam",
+   "2.2.3": "corerad",
+   "2.3.1": "cordl",
+   "2.3.2": "corpun",
+   "3.1.1": "corrad",
+   "3.1.2": "coreyes",
+   "3.1.3": "cordrag",
+   "3.1.4": "corjamt",
+   "3.3.1": "corjuno",
+   "4.1.1": "corlab",
+   "4.1.2": "corvp",
+   "4.1.3": "corap",
+   "4.1.4": "corsy",
+   "4.2.1": "cornanotc",
+   "4.2.2": "coralab",
+   "4.3.1": "corhp"
+  },
+  "corcom": {
+   "1.1.1": "cormex",
+   "1.1.2": "corsolar",
+   "1.1.3": "corwin",
+   "1.2.1": "cormakr",
+   "1.2.3": "coruwms",
+   "1.2.4": "cortide",
+   "1.3.1": "corestor",
+   "1.3.2": "cormstor",
+   "1.3.3": "coruwes",
+   "1.3.4": "corfmkr",
+   "2.1.1": "corllt",
+   "2.1.2": "cortl",
+   "2.2.1": "corrl",
+   "2.2.2": "corfrt",
+   "2.3.1": "cordl",
+   "3.1.1": "corrad",
+   "3.1.2": "coreyes",
+   "3.1.3": "cordrag",
+   "3.2.1": "corfrad",
+   "3.2.2": "corfdrag",
+   "4.1.1": "corlab",
+   "4.1.2": "corvp",
+   "4.1.3": "corap",
+   "4.1.4": "corsy",
+   "4.3.1": "corhp",
+   "4.3.2": "corfhp"
+  },
+  "corcomlvl10": {
+   "1.1.1": "cormoho",
+   "1.1.2": "corfus",
+   "1.1.3": "corwin",
+   "1.1.4": "coradvsol",
+   "1.2.1": "cormmkr",
+   "1.2.2": "corageo",
+   "1.2.3": "cormexp",
+   "1.2.4": "cortide",
+   "1.3.1": "coruwadves",
+   "1.3.2": "coruwadvms",
+   "1.3.3": "coruwmme",
+   "1.3.4": "coruwmmm",
+   "2.1.1": "corvipe",
+   "2.1.2": "cordoom",
+   "2.1.3": "cortoast",
+   "2.1.4": "cormaw",
+   "2.2.1": "corflak",
+   "2.2.2": "corscreamer",
+   "2.2.3": "corhllt",
+   "2.2.4": "cornaa",
+   "2.3.1": "cordl",
+   "2.3.3": "coratl",
+   "3.1.1": "corarad",
+   "3.1.2": "coreyes",
+   "3.1.3": "corfort",
+   "3.1.4": "corshroud",
+   "3.2.1": "corfrad",
+   "3.2.2": "corfdrag",
+   "3.2.3": "cordrag",
+   "3.3.1": "corjuno",
+   "4.1.1": "corlab",
+   "4.1.2": "corvp",
+   "4.1.3": "corap",
+   "4.1.4": "corsy",
+   "4.2.1": "cornanotc",
+   "4.2.3": "cornanotcplat",
+   "4.3.1": "corhp",
+   "4.3.2": "corfhp",
+   "4.3.4": "corplat"
+  },
+  "corcomlvl2": {
+   "1.1.1": "cormex",
+   "1.1.2": "corsolar",
+   "1.1.3": "corwin",
+   "1.2.1": "cormakr",
+   "1.2.3": "coruwms",
+   "1.2.4": "cortide",
+   "1.3.1": "corestor",
+   "1.3.2": "cormstor",
+   "1.3.3": "coruwes",
+   "1.3.4": "corfmkr",
+   "2.1.1": "corllt",
+   "2.1.2": "cortl",
+   "2.2.1": "corrl",
+   "2.2.2": "corfrt",
+   "2.3.1": "cordl",
+   "3.1.1": "corrad",
+   "3.1.2": "coreyes",
+   "3.1.3": "legdrag",
+   "3.2.1": "corfrad",
+   "3.2.2": "corfdrag",
+   "4.1.1": "corlab",
+   "4.1.2": "corvp",
+   "4.1.3": "corap",
+   "4.1.4": "corsy",
+   "4.3.1": "corhp",
+   "4.3.2": "corfhp"
+  },
+  "corcomlvl3": {
+   "1.1.1": "cormex",
+   "1.1.2": "corsolar",
+   "1.1.3": "corwin",
+   "1.1.4": "coradvsol",
+   "1.2.1": "cormakr",
+   "1.2.2": "corgeo",
+   "1.2.3": "corexp",
+   "1.2.4": "cortide",
+   "1.3.1": "corestor",
+   "1.3.2": "cormstor",
+   "1.3.3": "coruwes",
+   "1.3.4": "corfmkr",
+   "2.1.1": "corllt",
+   "2.1.2": "corhllt",
+   "2.1.3": "corhlt",
+   "2.1.4": "cormaw",
+   "2.2.1": "corrl",
+   "2.2.2": "cormadsam",
+   "2.2.3": "corerad",
+   "2.3.1": "cordl",
+   "2.3.2": "corpun",
+   "2.3.3": "cortl",
+   "3.1.1": "corrad",
+   "3.1.2": "coreyes",
+   "3.1.3": "cordrag",
+   "3.1.4": "corjamt",
+   "3.2.1": "corfrad",
+   "3.2.2": "corfdrag",
+   "3.3.1": "corjuno",
+   "4.1.1": "corlab",
+   "4.1.2": "corvp",
+   "4.1.3": "corap",
+   "4.1.4": "corsy",
+   "4.2.1": "cornanotc",
+   "4.2.3": "cornanotcplat",
+   "4.3.1": "corhp",
+   "4.3.2": "corfhp",
+   "4.3.4": "corplat"
+  },
+  "corcomlvl4": {
+   "1.1.1": "cormex",
+   "1.1.2": "corsolar",
+   "1.1.3": "corwin",
+   "1.1.4": "coradvsol",
+   "1.2.1": "cormakr",
+   "1.2.2": "corgeo",
+   "1.2.3": "corexp",
+   "1.2.4": "cortide",
+   "1.3.1": "corestor",
+   "1.3.2": "cormstor",
+   "1.3.3": "coruwes",
+   "1.3.4": "corfmkr",
+   "2.1.1": "corllt",
+   "2.1.2": "corhllt",
+   "2.1.3": "corhlt",
+   "2.1.4": "cormaw",
+   "2.2.1": "corrl",
+   "2.2.2": "cormadsam",
+   "2.2.3": "corerad",
+   "2.3.1": "cordl",
+   "2.3.2": "corpun",
+   "2.3.3": "cortl",
+   "3.1.1": "corrad",
+   "3.1.2": "coreyes",
+   "3.1.3": "cordrag",
+   "3.1.4": "corjamt",
+   "3.2.1": "corfrad",
+   "3.2.2": "corfdrag",
+   "3.3.1": "corjuno",
+   "4.1.1": "corlab",
+   "4.1.2": "corvp",
+   "4.1.3": "corap",
+   "4.1.4": "corsy",
+   "4.2.1": "cornanotc",
+   "4.2.3": "cornanotcplat",
+   "4.3.1": "corhp",
+   "4.3.2": "corfhp",
+   "4.3.4": "corplat"
+  },
+  "corcomlvl5": {
+   "1.1.1": "cormoho",
+   "1.1.2": "corfus",
+   "1.1.3": "corwin",
+   "1.1.4": "coradvsol",
+   "1.2.1": "cormmkr",
+   "1.2.2": "corageo",
+   "1.2.3": "cormexp",
+   "1.2.4": "cortide",
+   "1.3.1": "coruwadves",
+   "1.3.2": "coruwadvms",
+   "1.3.3": "coruwmme",
+   "1.3.4": "coruwmmm",
+   "2.1.1": "corvipe",
+   "2.1.2": "cordoom",
+   "2.1.3": "cortoast",
+   "2.1.4": "cormaw",
+   "2.2.1": "corflak",
+   "2.2.2": "corscreamer",
+   "2.2.3": "corhllt",
+   "2.2.4": "cornaa",
+   "2.3.1": "cordl",
+   "2.3.3": "coratl",
+   "3.1.1": "corarad",
+   "3.1.2": "coreyes",
+   "3.1.3": "corfort",
+   "3.1.4": "corshroud",
+   "3.2.1": "corfrad",
+   "3.2.2": "corfdrag",
+   "3.2.3": "cordrag",
+   "3.3.1": "corjuno",
+   "4.1.1": "corlab",
+   "4.1.2": "corvp",
+   "4.1.3": "corap",
+   "4.1.4": "corsy",
+   "4.2.1": "cornanotc",
+   "4.2.3": "cornanotcplat",
+   "4.3.1": "corhp",
+   "4.3.2": "corfhp",
+   "4.3.4": "corplat"
+  },
+  "corcomlvl6": {
+   "1.1.1": "cormoho",
+   "1.1.2": "corfus",
+   "1.1.3": "corwin",
+   "1.1.4": "coradvsol",
+   "1.2.1": "cormmkr",
+   "1.2.2": "corageo",
+   "1.2.3": "cormexp",
+   "1.2.4": "cortide",
+   "1.3.1": "coruwadves",
+   "1.3.2": "coruwadvms",
+   "1.3.3": "coruwmme",
+   "1.3.4": "coruwmmm",
+   "2.1.1": "corvipe",
+   "2.1.2": "cordoom",
+   "2.1.3": "cortoast",
+   "2.1.4": "cormaw",
+   "2.2.1": "corflak",
+   "2.2.2": "corscreamer",
+   "2.2.3": "corhllt",
+   "2.2.4": "cornaa",
+   "2.3.1": "cordl",
+   "2.3.3": "coratl",
+   "3.1.1": "corarad",
+   "3.1.2": "coreyes",
+   "3.1.3": "corfort",
+   "3.1.4": "corshroud",
+   "3.2.1": "corfrad",
+   "3.2.2": "corfdrag",
+   "3.2.3": "cordrag",
+   "3.3.1": "corjuno",
+   "4.1.1": "corlab",
+   "4.1.2": "corvp",
+   "4.1.3": "corap",
+   "4.1.4": "corsy",
+   "4.2.1": "cornanotc",
+   "4.2.3": "cornanotcplat",
+   "4.3.1": "corhp",
+   "4.3.2": "corfhp",
+   "4.3.4": "corplat"
+  },
+  "corcomlvl7": {
+   "1.1.1": "cormoho",
+   "1.1.2": "corfus",
+   "1.1.3": "corwin",
+   "1.1.4": "coradvsol",
+   "1.2.1": "cormmkr",
+   "1.2.2": "corageo",
+   "1.2.3": "cormexp",
+   "1.2.4": "cortide",
+   "1.3.1": "coruwadves",
+   "1.3.2": "coruwadvms",
+   "1.3.3": "coruwmme",
+   "1.3.4": "coruwmmm",
+   "2.1.1": "corvipe",
+   "2.1.2": "cordoom",
+   "2.1.3": "cortoast",
+   "2.1.4": "cormaw",
+   "2.2.1": "corflak",
+   "2.2.2": "corscreamer",
+   "2.2.3": "corhllt",
+   "2.2.4": "cornaa",
+   "2.3.1": "cordl",
+   "2.3.3": "coratl",
+   "3.1.1": "corarad",
+   "3.1.2": "coreyes",
+   "3.1.3": "corfort",
+   "3.1.4": "corshroud",
+   "3.2.1": "corfrad",
+   "3.2.2": "corfdrag",
+   "3.2.3": "cordrag",
+   "3.3.1": "corjuno",
+   "4.1.1": "corlab",
+   "4.1.2": "corvp",
+   "4.1.3": "corap",
+   "4.1.4": "corsy",
+   "4.2.1": "cornanotc",
+   "4.2.3": "cornanotcplat",
+   "4.3.1": "corhp",
+   "4.3.2": "corfhp",
+   "4.3.4": "corplat"
+  },
+  "corcomlvl8": {
+   "1.1.1": "cormoho",
+   "1.1.2": "corfus",
+   "1.1.3": "corwin",
+   "1.1.4": "coradvsol",
+   "1.2.1": "cormmkr",
+   "1.2.2": "corageo",
+   "1.2.3": "cormexp",
+   "1.2.4": "cortide",
+   "1.3.1": "coruwadves",
+   "1.3.2": "coruwadvms",
+   "1.3.3": "coruwmme",
+   "1.3.4": "coruwmmm",
+   "2.1.1": "corvipe",
+   "2.1.2": "cordoom",
+   "2.1.3": "cortoast",
+   "2.1.4": "cormaw",
+   "2.2.1": "corflak",
+   "2.2.2": "corscreamer",
+   "2.2.3": "corhllt",
+   "2.2.4": "cornaa",
+   "2.3.1": "cordl",
+   "2.3.3": "coratl",
+   "3.1.1": "corarad",
+   "3.1.2": "coreyes",
+   "3.1.3": "corfort",
+   "3.1.4": "corshroud",
+   "3.2.1": "corfrad",
+   "3.2.2": "corfdrag",
+   "3.2.3": "cordrag",
+   "3.3.1": "corjuno",
+   "4.1.1": "corlab",
+   "4.1.2": "corvp",
+   "4.1.3": "corap",
+   "4.1.4": "corsy",
+   "4.2.1": "cornanotc",
+   "4.2.3": "cornanotcplat",
+   "4.3.1": "corhp",
+   "4.3.2": "corfhp",
+   "4.3.4": "corplat"
+  },
+  "corcomlvl9": {
+   "1.1.1": "cormoho",
+   "1.1.2": "corfus",
+   "1.1.3": "corwin",
+   "1.1.4": "coradvsol",
+   "1.2.1": "cormmkr",
+   "1.2.2": "corageo",
+   "1.2.3": "cormexp",
+   "1.2.4": "cortide",
+   "1.3.1": "coruwadves",
+   "1.3.2": "coruwadvms",
+   "1.3.3": "coruwmme",
+   "1.3.4": "coruwmmm",
+   "2.1.1": "corvipe",
+   "2.1.2": "cordoom",
+   "2.1.3": "cortoast",
+   "2.1.4": "cormaw",
+   "2.2.1": "corflak",
+   "2.2.2": "corscreamer",
+   "2.2.3": "corhllt",
+   "2.2.4": "cornaa",
+   "2.3.1": "cordl",
+   "2.3.3": "coratl",
+   "3.1.1": "corarad",
+   "3.1.2": "coreyes",
+   "3.1.3": "corfort",
+   "3.1.4": "corshroud",
+   "3.2.1": "corfrad",
+   "3.2.2": "corfdrag",
+   "3.2.3": "cordrag",
+   "3.3.1": "corjuno",
+   "4.1.1": "corlab",
+   "4.1.2": "corvp",
+   "4.1.3": "corap",
+   "4.1.4": "corsy",
+   "4.2.1": "cornanotc",
+   "4.2.3": "cornanotcplat",
+   "4.3.1": "corhp",
+   "4.3.2": "corfhp",
+   "4.3.4": "corplat"
+  },
+  "corcs": {
+   "1.1.1": "cormex",
+   "1.1.2": "cortide",
+   "1.2.1": "corfmkr",
+   "1.2.2": "corgeo",
+   "1.3.1": "coruwes",
+   "1.3.2": "coruwms",
+   "2.1.1": "cortl",
+   "2.1.2": "corfhlt",
+   "2.1.3": "cornavaldefturret",
+   "2.1.4": "cormaw",
+   "2.2.1": "corfrt",
+   "2.3.1": "cordl",
+   "2.3.2": "corpun",
+   "3.1.1": "corfrad",
+   "3.1.2": "coreyes",
+   "3.1.3": "corfdrag",
+   "3.2.2": "cordrag",
+   "4.1.1": "corsy",
+   "4.1.2": "corvp",
+   "4.1.3": "corap",
+   "4.1.4": "corlab",
+   "4.2.1": "cornanotcplat",
+   "4.2.2": "corasy",
+   "4.3.1": "corfhp",
+   "4.3.3": "coramsub",
+   "4.3.4": "corplat"
+  },
+  "corcsa": {
+   "1.1.1": "cormex",
+   "1.1.2": "corsolar",
+   "1.1.3": "corwin",
+   "1.1.4": "coradvsol",
+   "1.2.1": "cormakr",
+   "1.2.2": "corgeo",
+   "1.2.3": "corexp",
+   "1.2.4": "cortide",
+   "1.3.1": "corestor",
+   "1.3.2": "cormstor",
+   "1.3.3": "coruwes",
+   "1.3.4": "corfmkr",
+   "2.1.1": "corllt",
+   "2.1.2": "corhllt",
+   "2.1.3": "corhlt",
+   "2.1.4": "cormaw",
+   "2.2.1": "corrl",
+   "2.2.2": "cormadsam",
+   "2.2.3": "corerad",
+   "2.3.1": "cordl",
+   "2.3.2": "corpun",
+   "2.3.3": "cortl",
+   "2.3.4": "corfhlt",
+   "2.4.1": "cornavaldefturret",
+   "3.1.1": "corrad",
+   "3.1.2": "coreyes",
+   "3.1.3": "cordrag",
+   "3.1.4": "corjamt",
+   "3.2.1": "corfrad",
+   "3.2.2": "corfdrag",
+   "3.3.1": "corjuno",
+   "4.1.1": "corlab",
+   "4.1.2": "corvp",
+   "4.1.3": "corap",
+   "4.1.4": "corsy",
+   "4.2.1": "cornanotc",
+   "4.2.2": "cornanotcplat",
+   "4.2.3": "coraap",
+   "4.3.1": "corhp",
+   "4.3.2": "corfhp",
+   "4.3.3": "coramsub",
+   "4.3.4": "corplat"
+  },
+  "corcv": {
+   "1.1.1": "cormex",
+   "1.1.2": "corsolar",
+   "1.1.3": "corwin",
+   "1.1.4": "coradvsol",
+   "1.2.1": "cormakr",
+   "1.2.2": "corgeo",
+   "1.2.3": "corexp",
+   "1.3.1": "corestor",
+   "1.3.2": "cormstor",
+   "2.1.1": "corllt",
+   "2.1.2": "corhllt",
+   "2.1.3": "corhlt",
+   "2.1.4": "cormaw",
+   "2.2.1": "corrl",
+   "2.2.2": "cormadsam",
+   "2.2.3": "corerad",
+   "2.3.1": "cordl",
+   "2.3.2": "corpun",
+   "3.1.1": "corrad",
+   "3.1.2": "coreyes",
+   "3.1.3": "cordrag",
+   "3.1.4": "corjamt",
+   "3.3.1": "corjuno",
+   "4.1.1": "corlab",
+   "4.1.2": "corvp",
+   "4.1.3": "corap",
+   "4.1.4": "corsy",
+   "4.2.1": "cornanotc",
+   "4.2.2": "coravp",
+   "4.3.1": "corhp"
+  },
+  "cordecom": {
+   "1.1.1": "cormex",
+   "1.1.2": "corsolar",
+   "1.1.3": "corwin",
+   "1.2.1": "cormakr",
+   "1.2.3": "coruwms",
+   "1.2.4": "cortide",
+   "1.3.1": "corestor",
+   "1.3.2": "cormstor",
+   "1.3.3": "coruwes",
+   "1.3.4": "corfmkr",
+   "2.1.1": "corllt",
+   "2.2.1": "corrl",
+   "3.1.1": "corrad",
+   "3.3.1": "cormine1",
+   "3.3.2": "cormine2",
+   "3.3.3": "cormine3"
+  },
+  "corfast": {
+   "1.1.1": "cormex",
+   "1.1.2": "corsolar",
+   "2.1.1": "corhllt",
+   "2.1.2": "corpyro",
+   "2.1.3": "cortoast",
+   "2.2.1": "corflak",
+   "2.2.2": "cormadsam",
+   "2.2.3": "corcrash",
+   "2.2.4": "corak",
+   "2.3.1": "cordl",
+   "2.3.2": "corroy",
+   "2.3.3": "cortermite",
+   "2.3.4": "coramph",
+   "3.1.1": "corarad",
+   "3.1.2": "coreyes",
+   "3.1.3": "corfort",
+   "3.1.4": "corshroud",
+   "3.3.1": "cormine2",
+   "4.1.1": "corlab",
+   "4.1.2": "corck",
+   "4.2.1": "cornanotc",
+   "4.2.2": "corcs",
+   "4.3.1": "cormando"
+  },
+  "corhaca": {
+   "1.1.1": "cormoho",
+   "1.1.2": "corfus",
+   "1.1.3": "corafus",
+   "1.2.1": "cormmkr",
+   "1.2.2": "corageo",
+   "1.2.3": "cormexp",
+   "1.2.4": "corbhmth",
+   "1.3.1": "coruwadves",
+   "1.3.2": "coruwadvms",
+   "2.1.1": "corvipe",
+   "2.1.2": "cordoom",
+   "2.1.3": "cortoast",
+   "2.1.4": "cortron",
+   "2.2.1": "corflak",
+   "2.2.2": "corscreamer",
+   "2.2.3": "corfmd",
+   "2.3.1": "corint",
+   "2.3.2": "corsilo",
+   "2.3.3": "corbuzz",
+   "3.1.1": "cortarg",
+   "3.1.2": "corsd",
+   "3.1.3": "corfort",
+   "3.3.1": "corgate",
+   "4.1.1": "corlab",
+   "4.1.2": "corvp",
+   "4.1.3": "corap",
+   "4.1.4": "corsy",
+   "4.2.1": "cornanotc",
+   "4.2.2": "coraap",
+   "4.3.2": "corhaap"
+  },
+  "corhack": {
+   "1.1.1": "cormoho",
+   "1.1.2": "corfus",
+   "1.1.3": "corafus",
+   "1.2.1": "cormmkr",
+   "1.2.2": "corageo",
+   "1.2.3": "cormexp",
+   "1.2.4": "corbhmth",
+   "1.3.1": "coruwadves",
+   "1.3.2": "coruwadvms",
+   "2.1.1": "corvipe",
+   "2.1.2": "cordoom",
+   "2.1.3": "cortoast",
+   "2.1.4": "cortron",
+   "2.2.1": "corflak",
+   "2.2.2": "corscreamer",
+   "2.2.3": "corfmd",
+   "2.3.1": "corint",
+   "2.3.2": "corsilo",
+   "2.3.3": "corbuzz",
+   "3.1.1": "cortarg",
+   "3.1.2": "corsd",
+   "3.1.3": "corfort",
+   "3.3.1": "corgate",
+   "4.1.1": "corlab",
+   "4.1.2": "corvp",
+   "4.1.3": "corap",
+   "4.1.4": "corsy",
+   "4.2.1": "cornanotc",
+   "4.2.2": "coralab",
+   "4.3.2": "corhalab"
+  },
+  "corhacs": {
+   "1.1.1": "coruwmme",
+   "1.1.2": "cortide",
+   "1.1.3": "coruwfus",
+   "1.1.4": "corafus",
+   "1.2.1": "coruwmmm",
+   "1.2.2": "coruwagea",
+   "1.2.3": "corafus",
+   "1.3.1": "coruwadves",
+   "1.3.2": "coruwadvms",
+   "2.1.1": "corfdoom",
+   "2.1.2": "corvipe",
+   "2.1.3": "cordoom",
+   "2.1.4": "coranavaldefturret",
+   "2.2.1": "corenaa",
+   "2.2.2": "corscreamer",
+   "2.3.1": "coratl",
+   "3.1.1": "corason",
+   "3.1.2": "corfdrag",
+   "3.1.3": "corgate",
+   "3.1.4": "corsd",
+   "4.1.1": "corlab",
+   "4.1.2": "corvp",
+   "4.1.3": "corap",
+   "4.1.4": "corsy",
+   "4.2.1": "cornanotcplat",
+   "4.2.2": "corasy",
+   "4.3.2": "corhasy"
+  },
+  "corhacv": {
+   "1.1.1": "cormoho",
+   "1.1.2": "corfus",
+   "1.1.3": "corafus",
+   "1.2.1": "cormmkr",
+   "1.2.2": "corageo",
+   "1.2.3": "cormexp",
+   "1.2.4": "corbhmth",
+   "1.3.1": "coruwadves",
+   "1.3.2": "coruwadvms",
+   "2.1.1": "corvipe",
+   "2.1.2": "cordoom",
+   "2.1.3": "cortoast",
+   "2.1.4": "cortron",
+   "2.2.1": "corflak",
+   "2.2.2": "corscreamer",
+   "2.2.3": "corfmd",
+   "2.3.1": "corint",
+   "2.3.2": "corsilo",
+   "2.3.3": "corbuzz",
+   "3.1.1": "cortarg",
+   "3.1.2": "corsd",
+   "3.1.3": "corfort",
+   "3.3.1": "corgate",
+   "4.1.1": "corlab",
+   "4.1.2": "corvp",
+   "4.1.3": "corap",
+   "4.1.4": "corsy",
+   "4.2.1": "cornanotc",
+   "4.2.2": "coravp",
+   "4.3.2": "corhavp"
+  },
+  "cormando": {
+   "2.1.1": "cormaw",
+   "3.1.1": "cormine2",
+   "3.1.2": "coreyes",
+   "3.1.3": "cordrag",
+   "3.1.4": "corjamt",
+   "3.2.1": "corvalk",
+   "3.3.1": "corfink"
+  },
+  "cormls": {
+   "1.1.1": "cormex",
+   "1.1.2": "cortide",
+   "2.1.1": "cortl",
+   "2.1.2": "corfdoom",
+   "2.1.3": "cortoast",
+   "2.1.4": "corfhlt",
+   "2.2.1": "corenaa",
+   "2.2.2": "corpt",
+   "2.3.1": "coresupp",
+   "2.3.2": "corroy",
+   "2.4.1": "cornavaldefturret",
+   "2.4.2": "coranavaldefturret",
+   "3.1.1": "corfrad",
+   "3.1.2": "corarad",
+   "3.3.1": "corfmine3",
+   "4.1.1": "corsy",
+   "4.1.2": "corcs",
+   "4.2.1": "cornanotcplat"
+  },
+  "cormlv": {
+   "3.1.2": "coreyes",
+   "3.1.3": "cordrag",
+   "3.3.1": "cormine1",
+   "3.3.2": "cormine2",
+   "3.3.3": "cormine3"
+  },
+  "cormuskrat": {
+   "1.1.1": "cormex",
+   "1.1.2": "corsolar",
+   "1.1.3": "corwin",
+   "1.1.4": "coradvsol",
+   "1.2.1": "cormakr",
+   "1.2.2": "corgeo",
+   "1.2.3": "corexp",
+   "1.2.4": "cortide",
+   "1.3.1": "corestor",
+   "1.3.2": "cormstor",
+   "1.3.3": "coruwes",
+   "1.3.4": "corfmkr",
+   "2.1.1": "corllt",
+   "2.1.2": "corhllt",
+   "2.1.3": "corhlt",
+   "2.1.4": "cormaw",
+   "2.2.1": "corrl",
+   "2.2.2": "cormadsam",
+   "2.2.3": "corerad",
+   "2.3.1": "cordl",
+   "2.3.2": "corpun",
+   "2.3.3": "cortl",
+   "2.3.4": "corfhlt",
+   "2.4.1": "cornavaldefturret",
+   "3.1.1": "corrad",
+   "3.1.2": "coreyes",
+   "3.1.3": "cordrag",
+   "3.1.4": "corjamt",
+   "3.2.1": "corfrad",
+   "3.2.2": "corfdrag",
+   "3.3.1": "corjuno",
+   "4.1.1": "corlab",
+   "4.1.2": "corvp",
+   "4.1.3": "corap",
+   "4.1.4": "corsy",
+   "4.2.1": "cornanotc",
+   "4.2.2": "coravp",
+   "4.2.3": "cornanotcplat",
+   "4.3.1": "corhp",
+   "4.3.2": "corfhp",
+   "4.3.3": "coramsub",
+   "4.3.4": "corplat"
+  },
+  "corprinter": {
+   "1.1.1": "corsolar",
+   "1.1.2": "cormex",
+   "3.1.1": "corrad",
+   "3.1.3": "corfort"
+  },
+  "dummycom": {
+   "1.1.1": "armmex",
+   "1.1.2": "armsolar",
+   "1.1.3": "armwin",
+   "1.2.1": "armmakr",
+   "1.2.3": "armuwms",
+   "1.2.4": "armtide",
+   "1.3.1": "armestor",
+   "1.3.2": "armmstor",
+   "1.3.3": "armuwes",
+   "1.3.4": "armfmkr",
+   "2.1.1": "armllt",
+   "2.1.2": "armtl",
+   "2.2.1": "armrl",
+   "2.2.2": "armfrt",
+   "2.3.1": "armdl",
+   "3.1.1": "armrad",
+   "3.1.2": "armeyes",
+   "3.1.3": "armdrag",
+   "3.2.1": "armfrad",
+   "3.2.2": "armfdrag",
+   "4.1.1": "armlab",
+   "4.1.2": "armvp",
+   "4.1.3": "armap",
+   "4.1.4": "armsy",
+   "4.3.1": "armhp",
+   "4.3.2": "armfhp"
+  },
+  "legaca": {
+   "1.1.1": "legmoho",
+   "1.1.2": "legfus",
+   "1.1.3": "legafus",
+   "1.2.1": "legadveconv",
+   "1.2.2": "legageo",
+   "1.2.3": "legmohocon",
+   "1.2.4": "leganavaladvgeo",
+   "1.3.1": "legadvestore",
+   "1.3.2": "legamstor",
+   "2.1.1": "legapopupdef",
+   "2.1.2": "legbastion",
+   "2.1.3": "legacluster",
+   "2.1.4": "legperdition",
+   "2.2.1": "legflak",
+   "2.2.2": "leglraa",
+   "2.2.3": "legabm",
+   "2.2.4": "legrampart",
+   "2.3.1": "leglrpc",
+   "2.3.2": "legstarfall",
+   "2.3.3": "legsilo",
+   "3.1.1": "legarad",
+   "3.1.2": "legtarg",
+   "3.1.3": "legforti",
+   "3.1.4": "legajam",
+   "3.2.1": "legsd",
+   "3.3.1": "legdeflector",
+   "4.1.1": "legap",
+   "4.2.1": "leggant",
+   "4.2.2": "legaap",
+   "4.3.1": "legsplab"
+  },
+  "legaceb": {
+   "1.1.1": "legmex",
+   "1.1.2": "legsolar",
+   "2.1.1": "legdtr",
+   "2.1.2": "legstr",
+   "2.1.3": "legacluster",
+   "2.2.1": "legflak",
+   "2.2.3": "legaabot",
+   "2.2.4": "leggob",
+   "2.3.1": "legctl",
+   "2.3.2": "legnavyfrigate",
+   "2.3.4": "legamph",
+   "3.1.1": "legarad",
+   "3.1.2": "legeyes",
+   "3.1.3": "legforti",
+   "3.1.4": "legajam",
+   "4.1.1": "leglab",
+   "4.1.2": "legck",
+   "4.2.1": "legnanotc",
+   "4.2.2": "legnavyconship"
+  },
+  "legack": {
+   "1.1.1": "legmoho",
+   "1.1.2": "legfus",
+   "1.1.3": "legafus",
+   "1.2.1": "legadveconv",
+   "1.2.2": "legageo",
+   "1.2.3": "legmohocon",
+   "1.3.1": "legadvestore",
+   "1.3.2": "legamstor",
+   "2.1.1": "legapopupdef",
+   "2.1.2": "legbastion",
+   "2.1.3": "legacluster",
+   "2.1.4": "legperdition",
+   "2.2.1": "legflak",
+   "2.2.2": "leglraa",
+   "2.2.3": "legabm",
+   "2.2.4": "legrampart",
+   "2.3.1": "leglrpc",
+   "2.3.2": "legstarfall",
+   "2.3.3": "legsilo",
+   "3.1.1": "legarad",
+   "3.1.2": "legtarg",
+   "3.1.3": "legforti",
+   "3.1.4": "legajam",
+   "3.2.1": "legsd",
+   "3.3.1": "legdeflector",
+   "4.1.1": "leglab",
+   "4.2.1": "leggant",
+   "4.2.2": "legalab"
+  },
+  "legacv": {
+   "1.1.1": "legmoho",
+   "1.1.2": "legfus",
+   "1.1.3": "legafus",
+   "1.2.1": "legadveconv",
+   "1.2.2": "legageo",
+   "1.2.3": "legmohocon",
+   "1.3.1": "legadvestore",
+   "1.3.2": "legamstor",
+   "2.1.1": "legapopupdef",
+   "2.1.2": "legbastion",
+   "2.1.3": "legacluster",
+   "2.1.4": "legperdition",
+   "2.2.1": "legflak",
+   "2.2.2": "leglraa",
+   "2.2.3": "legabm",
+   "2.2.4": "legrampart",
+   "2.3.1": "leglrpc",
+   "2.3.2": "legstarfall",
+   "2.3.3": "legsilo",
+   "3.1.1": "legarad",
+   "3.1.2": "legtarg",
+   "3.1.3": "legforti",
+   "3.1.4": "legajam",
+   "3.2.1": "legsd",
+   "3.3.1": "legdeflector",
+   "4.1.1": "legvp",
+   "4.2.1": "leggant",
+   "4.2.2": "legavp"
+  },
+  "legafcv": {
+   "1.1.1": "legmex",
+   "1.1.2": "legsolar",
+   "1.1.3": "legwin",
+   "1.1.4": "legadvsol",
+   "1.2.1": "legeconv",
+   "1.2.2": "leggeo",
+   "1.2.3": "legmext15",
+   "1.3.1": "legestor",
+   "1.3.2": "legmstor",
+   "2.1.1": "leglht",
+   "2.1.2": "legmg",
+   "2.1.4": "legdtr",
+   "2.2.1": "legrl",
+   "2.2.2": "legrhapsis",
+   "2.2.3": "leglupara",
+   "2.3.1": "legctl",
+   "2.3.2": "legcluster",
+   "3.1.1": "legrad",
+   "3.1.2": "legeyes",
+   "3.1.3": "legdrag",
+   "3.1.4": "legjam",
+   "3.3.1": "legjuno",
+   "4.1.1": "leglab",
+   "4.1.2": "legvp",
+   "4.1.3": "legap",
+   "4.1.4": "legsy",
+   "4.2.1": "legnanotc",
+   "4.2.2": "coralab",
+   "4.3.1": "leghp"
+  },
+  "leganavyconsub": {
+   "1.1.1": "leganavalmex",
+   "1.1.2": "leganavalfusion",
+   "1.2.1": "leganavaleconv",
+   "1.2.2": "leganavaladvgeo",
+   "1.3.1": "legadvestore",
+   "1.3.2": "legamstor",
+   "2.1.1": "leganavaltorpturret",
+   "2.1.2": "leganavaldefturret",
+   "2.2.1": "leganavalaaturret",
+   "3.1.1": "leganavalsonarstation",
+   "3.1.2": "leganavalpinpointer",
+   "4.1.1": "legsy",
+   "4.2.1": "leggantuw",
+   "4.2.2": "legadvshipyard"
+  },
+  "leganavyengineer": {
+   "1.1.1": "legmex",
+   "1.1.2": "legtide",
+   "2.1.1": "legtl",
+   "2.1.2": "leganavaldefturret",
+   "2.1.3": "legacluster",
+   "2.1.4": "legfmg",
+   "2.2.1": "leganavalaaturret",
+   "2.2.2": "legnavyaaship",
+   "2.3.1": "legnavyscout",
+   "2.3.2": "legnavydestro",
+   "2.4.1": "legnavaldefturret",
+   "2.4.2": "legfhive",
+   "3.1.1": "legfrad",
+   "3.1.2": "legarad",
+   "3.2.1": "legfdrag",
+   "3.3.1": "corfmine3",
+   "4.1.1": "legsy",
+   "4.1.2": "legnavyconship",
+   "4.2.1": "legnanotcplat"
+  },
+  "legassistdrone": {
+   "1.1.1": "legmex",
+   "1.1.2": "legsolar",
+   "1.1.3": "legwin",
+   "1.2.1": "legeconv",
+   "1.2.3": "leguwmstore",
+   "1.2.4": "legtide",
+   "1.3.1": "legestor",
+   "1.3.2": "legmstor",
+   "1.3.3": "leguwestore",
+   "1.3.4": "legfeconv",
+   "1.4.1": "legeconv",
+   "1.4.3": "leguwmstore",
+   "1.4.4": "legtide",
+   "1.5.1": "legestor",
+   "1.5.2": "legmstor",
+   "1.5.3": "leguwestore",
+   "1.5.4": "legfeconv",
+   "1.6.1": "legeconv",
+   "1.6.3": "leguwmstore",
+   "1.6.4": "legtide",
+   "1.7.1": "legestor",
+   "1.7.2": "legmstor",
+   "1.7.3": "leguwestore",
+   "1.7.4": "legfeconv",
+   "2.1.1": "leglht",
+   "2.1.2": "legtl",
+   "2.2.1": "legrl",
+   "2.2.2": "legfrl",
+   "2.3.1": "legctl",
+   "3.1.1": "legrad",
+   "3.1.2": "legeyes",
+   "3.1.3": "legdrag",
+   "3.2.1": "legfrad",
+   "3.2.2": "legfdrag",
+   "4.1.1": "leglab",
+   "4.1.2": "legvp",
+   "4.1.3": "legap",
+   "4.1.4": "legsy",
+   "4.3.1": "leghp",
+   "4.3.2": "legfhp"
+  },
+  "legassistdrone_land": {
+   "1.1.1": "legmex",
+   "1.1.2": "legsolar",
+   "1.1.3": "legwin",
+   "1.2.1": "legeconv",
+   "1.2.3": "leguwmstore",
+   "1.2.4": "legtide",
+   "1.3.1": "legestor",
+   "1.3.2": "legmstor",
+   "1.3.3": "leguwestore",
+   "1.3.4": "legfeconv",
+   "2.1.1": "leglht",
+   "2.1.2": "legtl",
+   "2.2.1": "legrl",
+   "2.2.2": "legfrl",
+   "2.3.1": "legctl",
+   "3.1.1": "legrad",
+   "3.1.2": "legeyes",
+   "3.1.3": "legdrag",
+   "3.2.1": "legfrad",
+   "3.2.2": "legfdrag",
+   "4.1.1": "leglab",
+   "4.1.2": "legvp",
+   "4.1.3": "legap",
+   "4.1.4": "legsy",
+   "4.3.1": "leghp",
+   "4.3.2": "legfhp"
+  },
+  "legca": {
+   "1.1.1": "legmex",
+   "1.1.2": "legsolar",
+   "1.1.3": "legwin",
+   "1.1.4": "legadvsol",
+   "1.2.1": "legeconv",
+   "1.2.2": "leggeo",
+   "1.2.3": "legmext15",
+   "1.3.1": "legestor",
+   "1.3.2": "legmstor",
+   "2.1.1": "leglht",
+   "2.1.2": "legmg",
+   "2.1.3": "leghive",
+   "2.1.4": "legdtr",
+   "2.2.1": "legrl",
+   "2.2.2": "legrhapsis",
+   "2.2.3": "leglupara",
+   "2.3.1": "legctl",
+   "2.3.2": "legcluster",
+   "3.1.1": "legrad",
+   "3.1.2": "legeyes",
+   "3.1.3": "legdrag",
+   "3.1.4": "legjam",
+   "3.3.1": "legjuno",
+   "4.1.1": "leglab",
+   "4.1.2": "legvp",
+   "4.1.3": "legap",
+   "4.1.4": "legsy",
+   "4.2.1": "legnanotc",
+   "4.2.2": "legaap",
+   "4.3.1": "leghp"
+  },
+  "legch": {
+   "1.1.1": "legmex",
+   "1.1.2": "legsolar",
+   "1.1.3": "legwin",
+   "1.1.4": "legadvsol",
+   "1.2.1": "legeconv",
+   "1.2.2": "leggeo",
+   "1.2.3": "legmext15",
+   "1.2.4": "legtide",
+   "1.3.1": "legestor",
+   "1.3.2": "legmstor",
+   "1.3.3": "leguwestore",
+   "1.3.4": "legfeconv",
+   "2.1.1": "leglht",
+   "2.1.2": "legmg",
+   "2.1.3": "leghive",
+   "2.1.4": "legdtr",
+   "2.2.1": "legrl",
+   "2.2.2": "legrhapsis",
+   "2.2.3": "leglupara",
+   "2.2.4": "legfrl",
+   "2.3.1": "legctl",
+   "2.3.2": "legcluster",
+   "2.3.3": "legtl",
+   "2.3.4": "legfmg",
+   "2.4.1": "legnavaldefturret",
+   "3.1.1": "legrad",
+   "3.1.2": "legeyes",
+   "3.1.3": "legdrag",
+   "3.1.4": "legjam",
+   "3.2.1": "legfrad",
+   "3.2.2": "legfdrag",
+   "3.3.1": "legjuno",
+   "4.1.1": "leglab",
+   "4.1.2": "legvp",
+   "4.1.3": "legap",
+   "4.1.4": "legsy",
+   "4.2.1": "legnanotc",
+   "4.2.2": "legavp",
+   "4.2.3": "legnanotcplat",
+   "4.2.4": "legadvshipyard",
+   "4.3.1": "leghp",
+   "4.3.2": "legfhp",
+   "4.3.3": "legamphlab",
+   "4.3.4": "legsplab"
+  },
+  "legck": {
+   "1.1.1": "legmex",
+   "1.1.2": "legsolar",
+   "1.1.3": "legwin",
+   "1.1.4": "legadvsol",
+   "1.2.1": "legeconv",
+   "1.2.2": "leggeo",
+   "1.2.3": "legmext15",
+   "1.3.1": "legestor",
+   "1.3.2": "legmstor",
+   "2.1.1": "leglht",
+   "2.1.2": "legmg",
+   "2.1.3": "leghive",
+   "2.1.4": "legdtr",
+   "2.2.1": "legrl",
+   "2.2.2": "legrhapsis",
+   "2.2.3": "leglupara",
+   "2.3.1": "legctl",
+   "2.3.2": "legcluster",
+   "3.1.1": "legrad",
+   "3.1.2": "legeyes",
+   "3.1.3": "legdrag",
+   "3.1.4": "legjam",
+   "3.3.1": "legjuno",
+   "4.1.1": "leglab",
+   "4.1.2": "legvp",
+   "4.1.3": "legap",
+   "4.1.4": "legsy",
+   "4.2.1": "legnanotc",
+   "4.2.2": "legalab",
+   "4.3.1": "leghp"
+  },
+  "legcom": {
+   "1.1.1": "legmex",
+   "1.1.2": "legsolar",
+   "1.1.3": "legwin",
+   "1.2.1": "legeconv",
+   "1.2.3": "leguwmstore",
+   "1.2.4": "legtide",
+   "1.3.1": "legestor",
+   "1.3.2": "legmstor",
+   "1.3.3": "leguwestore",
+   "1.3.4": "legfeconv",
+   "2.1.1": "leglht",
+   "2.1.2": "legtl",
+   "2.2.1": "legrl",
+   "2.2.2": "legfrl",
+   "2.3.1": "legctl",
+   "3.1.1": "legrad",
+   "3.1.2": "legeyes",
+   "3.1.3": "legdrag",
+   "3.2.1": "legfrad",
+   "3.2.2": "legfdrag",
+   "4.1.1": "leglab",
+   "4.1.2": "legvp",
+   "4.1.3": "legap",
+   "4.1.4": "legsy",
+   "4.3.1": "leghp",
+   "4.3.2": "legfhp"
+  },
+  "legcomlvl10": {
+   "1.1.1": "legmoho",
+   "1.1.2": "legfus",
+   "1.1.3": "legwin",
+   "1.1.4": "legadvsol",
+   "1.2.1": "legadveconv",
+   "1.2.2": "leggeo",
+   "1.2.4": "legtide",
+   "1.3.1": "legadvestore",
+   "1.3.2": "legamstor",
+   "1.3.3": "leganavalmex",
+   "1.3.4": "leganavaleconv",
+   "2.1.1": "legaheattank",
+   "2.1.2": "leginf",
+   "2.1.3": "legshot",
+   "2.1.4": "legmrv",
+   "2.2.1": "legvflak",
+   "2.2.2": "legmed",
+   "2.2.3": "legmg",
+   "2.2.4": "legkeres",
+   "2.3.1": "legctl",
+   "2.3.2": "legvcarry",
+   "2.3.3": "leganavaltorpturret",
+   "2.3.4": "legeshotgunmech",
+   "3.1.1": "legavrad",
+   "3.1.2": "legeyes",
+   "3.1.3": "legforti",
+   "3.1.4": "legavjam",
+   "3.2.1": "legfrad",
+   "3.2.2": "legfdrag",
+   "3.2.3": "legdrag",
+   "3.3.1": "legjuno",
+   "3.3.2": "legarad",
+   "3.3.3": "legstronghold",
+   "4.1.1": "leglab",
+   "4.1.2": "legvp",
+   "4.1.3": "legap",
+   "4.1.4": "legsy",
+   "4.2.1": "legnanotc",
+   "4.2.2": "leginfestor",
+   "4.2.3": "legnanotcplat",
+   "4.3.1": "leghp",
+   "4.3.2": "legfhp"
+  },
+  "legcomlvl2": {
+   "1.1.1": "legmex",
+   "1.1.2": "legsolar",
+   "1.1.3": "legwin",
+   "1.2.1": "legeconv",
+   "1.2.3": "leguwmstore",
+   "1.2.4": "legtide",
+   "1.3.1": "legestor",
+   "1.3.2": "legmstor",
+   "1.3.3": "leguwestore",
+   "1.3.4": "legfeconv",
+   "2.1.1": "leglht",
+   "2.1.2": "legtl",
+   "2.1.3": "leggob",
+   "2.1.4": "leglob",
+   "2.2.1": "legrl",
+   "2.2.2": "legfrl",
+   "2.2.3": "legrail",
+   "2.2.4": "legbar",
+   "2.3.1": "legctl",
+   "3.1.1": "legrad",
+   "3.1.2": "legeyes",
+   "3.1.3": "legdrag",
+   "3.2.1": "legfrad",
+   "3.2.2": "legfdrag",
+   "4.1.1": "leglab",
+   "4.1.2": "legvp",
+   "4.1.3": "legap",
+   "4.1.4": "legsy",
+   "4.3.1": "leghp",
+   "4.3.2": "legfhp"
+  },
+  "legcomlvl3": {
+   "1.1.1": "legmex",
+   "1.1.2": "legsolar",
+   "1.1.3": "legwin",
+   "1.1.4": "legadvsol",
+   "1.2.1": "legeconv",
+   "1.2.2": "leggeo",
+   "1.2.3": "legmext15",
+   "1.2.4": "legtide",
+   "1.3.1": "legestor",
+   "1.3.2": "legmstor",
+   "1.3.3": "leguwestore",
+   "1.3.4": "legfeconv",
+   "2.1.1": "leggat",
+   "2.1.2": "legbar",
+   "2.1.3": "legkark",
+   "2.1.4": "legcen",
+   "2.2.1": "legrl",
+   "2.2.2": "legrail",
+   "2.2.3": "legmg",
+   "2.2.4": "legdtr",
+   "2.3.1": "legctl",
+   "2.3.2": "leghive",
+   "2.3.3": "legtl",
+   "3.1.1": "legavrad",
+   "3.1.2": "legeyes",
+   "3.1.3": "legdrag",
+   "3.1.4": "legavjam",
+   "3.2.1": "legfrad",
+   "3.2.2": "legfdrag",
+   "3.3.1": "legjuno",
+   "3.3.2": "legrad",
+   "3.3.3": "legstronghold",
+   "4.1.1": "leglab",
+   "4.1.2": "legvp",
+   "4.1.3": "legap",
+   "4.1.4": "legsy",
+   "4.2.1": "legnanotc",
+   "4.2.2": "leginfestor",
+   "4.2.3": "legnanotcplat",
+   "4.3.1": "leghp",
+   "4.3.2": "legfhp"
+  },
+  "legcomlvl4": {
+   "1.1.1": "legmex",
+   "1.1.2": "legsolar",
+   "1.1.3": "legwin",
+   "1.1.4": "legadvsol",
+   "1.2.1": "legeconv",
+   "1.2.2": "leggeo",
+   "1.2.3": "legmext15",
+   "1.2.4": "legtide",
+   "1.3.1": "legestor",
+   "1.3.2": "legmstor",
+   "1.3.3": "leguwestore",
+   "1.3.4": "legfeconv",
+   "2.1.1": "leggat",
+   "2.1.2": "legbart",
+   "2.1.3": "legshot",
+   "2.1.4": "legstr",
+   "2.2.1": "legvflak",
+   "2.2.2": "legmed",
+   "2.2.3": "legmg",
+   "2.2.4": "legdtr",
+   "2.3.1": "legctl",
+   "2.3.2": "legvcarry",
+   "2.3.3": "leganavaltorpturret",
+   "3.1.1": "legavrad",
+   "3.1.2": "legeyes",
+   "3.1.3": "legforti",
+   "3.1.4": "legavjam",
+   "3.2.1": "legfrad",
+   "3.2.2": "legfdrag",
+   "3.2.3": "legdrag",
+   "3.3.1": "legjuno",
+   "3.3.2": "legarad",
+   "3.3.3": "legstronghold",
+   "4.1.1": "leglab",
+   "4.1.2": "legvp",
+   "4.1.3": "legap",
+   "4.1.4": "legsy",
+   "4.2.1": "legnanotc",
+   "4.2.2": "leginfestor",
+   "4.2.3": "legnanotcplat",
+   "4.3.1": "leghp",
+   "4.3.2": "legfhp"
+  },
+  "legcomlvl5": {
+   "1.1.1": "legmoho",
+   "1.1.2": "legfus",
+   "1.1.3": "legwin",
+   "1.1.4": "legadvsol",
+   "1.2.1": "legadveconv",
+   "1.2.2": "leggeo",
+   "1.2.4": "legtide",
+   "1.3.1": "legadvestore",
+   "1.3.2": "legamstor",
+   "1.3.3": "leganavalmex",
+   "1.3.4": "leganavaleconv",
+   "2.1.1": "legaheattank",
+   "2.1.2": "leginf",
+   "2.1.3": "legshot",
+   "2.1.4": "legstr",
+   "2.2.1": "legvflak",
+   "2.2.2": "legmed",
+   "2.2.3": "legmg",
+   "2.2.4": "legdtr",
+   "2.3.1": "legctl",
+   "2.3.2": "legvcarry",
+   "2.3.3": "leganavaltorpturret",
+   "3.1.1": "legavrad",
+   "3.1.2": "legeyes",
+   "3.1.3": "legforti",
+   "3.1.4": "legavjam",
+   "3.2.1": "legfrad",
+   "3.2.2": "legfdrag",
+   "3.2.3": "legdrag",
+   "3.3.1": "legjuno",
+   "3.3.2": "legarad",
+   "3.3.3": "legstronghold",
+   "4.1.1": "leglab",
+   "4.1.2": "legvp",
+   "4.1.3": "legap",
+   "4.1.4": "legsy",
+   "4.2.1": "legnanotc",
+   "4.2.2": "leginfestor",
+   "4.2.3": "legnanotcplat",
+   "4.3.1": "leghp",
+   "4.3.2": "legfhp"
+  },
+  "legcomlvl6": {
+   "1.1.1": "legmoho",
+   "1.1.2": "legfus",
+   "1.1.3": "legwin",
+   "1.1.4": "legadvsol",
+   "1.2.1": "legadveconv",
+   "1.2.2": "leggeo",
+   "1.2.4": "legtide",
+   "1.3.1": "legadvestore",
+   "1.3.2": "legamstor",
+   "1.3.3": "leganavalmex",
+   "1.3.4": "leganavaleconv",
+   "2.1.1": "legaheattank",
+   "2.1.2": "leginf",
+   "2.1.3": "legshot",
+   "2.1.4": "legmrv",
+   "2.2.1": "legvflak",
+   "2.2.2": "legmed",
+   "2.2.3": "legmg",
+   "2.2.4": "legkeres",
+   "2.3.1": "legctl",
+   "2.3.2": "legvcarry",
+   "2.3.3": "leganavaltorpturret",
+   "2.3.4": "legdtr",
+   "3.1.1": "legavrad",
+   "3.1.2": "legeyes",
+   "3.1.3": "legforti",
+   "3.1.4": "legajam",
+   "3.2.1": "legfrad",
+   "3.2.2": "legfdrag",
+   "3.2.3": "legdrag",
+   "3.3.1": "legjuno",
+   "3.3.2": "legarad",
+   "3.3.3": "legstronghold",
+   "4.1.1": "leglab",
+   "4.1.2": "legvp",
+   "4.1.3": "legap",
+   "4.1.4": "legsy",
+   "4.2.1": "legnanotc",
+   "4.2.2": "leginfestor",
+   "4.2.3": "legnanotcplat",
+   "4.3.1": "leghp",
+   "4.3.2": "legfhp"
+  },
+  "legcomlvl7": {
+   "1.1.1": "legmoho",
+   "1.1.2": "legfus",
+   "1.1.3": "legwin",
+   "1.1.4": "legadvsol",
+   "1.2.1": "legadveconv",
+   "1.2.2": "leggeo",
+   "1.2.4": "legtide",
+   "1.3.1": "legadvestore",
+   "1.3.2": "legamstor",
+   "1.3.3": "leganavalmex",
+   "1.3.4": "leganavaleconv",
+   "2.1.1": "legaheattank",
+   "2.1.2": "leginf",
+   "2.1.3": "legshot",
+   "2.1.4": "legmrv",
+   "2.2.1": "corsent",
+   "2.2.2": "legmed",
+   "2.2.3": "legmg",
+   "2.2.4": "legkeres",
+   "2.3.1": "legctl",
+   "2.3.2": "legvcarry",
+   "2.3.3": "leganavaltorpturret",
+   "2.3.4": "legdtr",
+   "3.1.1": "legavrad",
+   "3.1.2": "legeyes",
+   "3.1.3": "legforti",
+   "3.1.4": "legavjam",
+   "3.2.1": "legfrad",
+   "3.2.2": "legfdrag",
+   "3.2.3": "legdrag",
+   "3.3.1": "legjuno",
+   "3.3.2": "legarad",
+   "3.3.3": "legstronghold",
+   "4.1.1": "leglab",
+   "4.1.2": "legvp",
+   "4.1.3": "legap",
+   "4.1.4": "legsy",
+   "4.2.1": "legnanotc",
+   "4.2.2": "leginfestor",
+   "4.2.3": "legnanotcplat",
+   "4.3.1": "leghp",
+   "4.3.2": "legfhp"
+  },
+  "legcomlvl8": {
+   "1.1.1": "legmoho",
+   "1.1.2": "legfus",
+   "1.1.3": "legwin",
+   "1.1.4": "legadvsol",
+   "1.2.1": "legadveconv",
+   "1.2.2": "leggeo",
+   "1.2.4": "legtide",
+   "1.3.1": "legadvestore",
+   "1.3.2": "legamstor",
+   "1.3.3": "leganavalmex",
+   "1.3.4": "leganavaleconv",
+   "2.1.1": "legaheattank",
+   "2.1.2": "leginf",
+   "2.1.3": "legshot",
+   "2.1.4": "legmrv",
+   "2.2.1": "legvflak",
+   "2.2.2": "legmed",
+   "2.2.3": "legmg",
+   "2.2.4": "legkeres",
+   "2.3.1": "legctl",
+   "2.3.2": "legvcarry",
+   "2.3.3": "leganavaltorpturret",
+   "2.3.4": "legdtr",
+   "3.1.1": "legavrad",
+   "3.1.2": "legeyes",
+   "3.1.3": "legforti",
+   "3.1.4": "legavjam",
+   "3.2.1": "legfrad",
+   "3.2.2": "legfdrag",
+   "3.2.3": "legdrag",
+   "3.3.1": "legjuno",
+   "3.3.2": "legarad",
+   "3.3.3": "legstronghold",
+   "4.1.1": "leglab",
+   "4.1.2": "legvp",
+   "4.1.3": "legap",
+   "4.1.4": "legsy",
+   "4.2.1": "legnanotc",
+   "4.2.2": "leginfestor",
+   "4.2.3": "legnanotcplat",
+   "4.3.1": "leghp",
+   "4.3.2": "legfhp"
+  },
+  "legcomlvl9": {
+   "1.1.1": "legmoho",
+   "1.1.2": "legfus",
+   "1.1.3": "legwin",
+   "1.1.4": "legadvsol",
+   "1.2.1": "legadveconv",
+   "1.2.2": "leggeo",
+   "1.2.4": "legtide",
+   "1.3.1": "legadvestore",
+   "1.3.2": "legamstor",
+   "1.3.3": "leganavalmex",
+   "1.3.4": "leganavaleconv",
+   "2.1.1": "legaheattank",
+   "2.1.2": "leginf",
+   "2.1.3": "legshot",
+   "2.1.4": "legmrv",
+   "2.2.1": "legvflak",
+   "2.2.2": "legmed",
+   "2.2.3": "legmg",
+   "2.2.4": "legkeres",
+   "2.3.1": "legctl",
+   "2.3.2": "legvcarry",
+   "2.3.3": "leganavaltorpturret",
+   "2.3.4": "legeshotgunmech",
+   "3.1.1": "legavrad",
+   "3.1.2": "legeyes",
+   "3.1.3": "legforti",
+   "3.1.4": "legavjam",
+   "3.2.1": "legfrad",
+   "3.2.2": "legfdrag",
+   "3.2.3": "legdrag",
+   "3.3.1": "legjuno",
+   "3.3.2": "legarad",
+   "3.3.3": "legstronghold",
+   "4.1.1": "leglab",
+   "4.1.2": "legvp",
+   "4.1.3": "legap",
+   "4.1.4": "legsy",
+   "4.2.1": "legnanotc",
+   "4.2.2": "leginfestor",
+   "4.2.3": "legnanotcplat",
+   "4.3.1": "leghp",
+   "4.3.2": "legfhp"
+  },
+  "legcv": {
+   "1.1.1": "legmex",
+   "1.1.2": "legsolar",
+   "1.1.3": "legwin",
+   "1.1.4": "legadvsol",
+   "1.2.1": "legeconv",
+   "1.2.2": "leggeo",
+   "1.2.3": "legmext15",
+   "1.3.1": "legestor",
+   "1.3.2": "legmstor",
+   "2.1.1": "leglht",
+   "2.1.2": "legmg",
+   "2.1.3": "leghive",
+   "2.1.4": "legdtr",
+   "2.2.1": "legrl",
+   "2.2.2": "legrhapsis",
+   "2.2.3": "leglupara",
+   "2.3.1": "legctl",
+   "2.3.2": "legcluster",
+   "3.1.1": "legrad",
+   "3.1.2": "legeyes",
+   "3.1.3": "legdrag",
+   "3.1.4": "legjam",
+   "3.3.1": "legjuno",
+   "4.1.1": "leglab",
+   "4.1.2": "legvp",
+   "4.1.3": "legap",
+   "4.1.4": "legsy",
+   "4.2.1": "legnanotc",
+   "4.2.2": "coralab",
+   "4.3.1": "leghp"
+  },
+  "legdecom": {
+   "1.1.1": "legmex",
+   "1.1.2": "legsolar",
+   "1.1.3": "legwin",
+   "1.2.1": "legeconv",
+   "1.2.3": "leguwmstore",
+   "1.2.4": "legtide",
+   "1.3.1": "legestor",
+   "1.3.2": "legmstor",
+   "1.3.3": "leguwestore",
+   "1.3.4": "legfeconv",
+   "2.1.1": "leglht",
+   "2.2.1": "legrl",
+   "3.1.1": "legrad",
+   "3.3.1": "legmine1",
+   "3.3.2": "legmine2",
+   "3.3.3": "legmine3"
+  },
+  "leghaca": {
+   "1.1.1": "legmoho",
+   "1.1.2": "legfus",
+   "1.1.3": "legafus",
+   "1.2.1": "legadveconv",
+   "1.2.2": "legageo",
+   "1.2.3": "legmohocon",
+   "1.2.4": "legrampart",
+   "1.3.1": "legadvestore",
+   "1.3.2": "legamstor",
+   "2.1.1": "legapopupdef",
+   "2.1.2": "legbastion",
+   "2.1.3": "legacluster",
+   "2.1.4": "legperdition",
+   "2.2.1": "legflak",
+   "2.2.2": "leglraa",
+   "2.2.3": "legabm",
+   "2.3.1": "leglrpc",
+   "2.3.2": "legstarfall",
+   "2.3.3": "legsilo",
+   "3.1.1": "legarad",
+   "3.1.2": "legtarg",
+   "3.1.3": "legforti",
+   "3.1.4": "legajam",
+   "3.2.1": "legsd",
+   "3.3.1": "legdeflector",
+   "4.1.1": "leglab",
+   "4.1.2": "legvp",
+   "4.1.3": "legap",
+   "4.1.4": "legsy",
+   "4.2.1": "legnanotc",
+   "4.2.2": "legaap",
+   "4.2.3": "leggant",
+   "4.3.2": "leghaap"
+  },
+  "leghack": {
+   "1.1.1": "legmoho",
+   "1.1.2": "legfus",
+   "1.1.3": "legafus",
+   "1.2.1": "legadveconv",
+   "1.2.2": "legageo",
+   "1.2.3": "legmohocon",
+   "1.2.4": "legrampart",
+   "1.3.1": "legadvestore",
+   "1.3.2": "legamstor",
+   "2.1.1": "legapopupdef",
+   "2.1.2": "legbastion",
+   "2.1.3": "legacluster",
+   "2.1.4": "legperdition",
+   "2.2.1": "legflak",
+   "2.2.2": "leglraa",
+   "2.2.3": "legabm",
+   "2.3.1": "leglrpc",
+   "2.3.2": "legstarfall",
+   "2.3.3": "legsilo",
+   "3.1.1": "legarad",
+   "3.1.2": "legtarg",
+   "3.1.3": "legforti",
+   "3.1.4": "legajam",
+   "3.2.1": "legsd",
+   "3.3.1": "legdeflector",
+   "4.1.1": "leglab",
+   "4.1.2": "legvp",
+   "4.1.3": "legap",
+   "4.1.4": "legsy",
+   "4.2.1": "legnanotc",
+   "4.2.2": "legalab",
+   "4.2.3": "leggant",
+   "4.3.2": "leghalab"
+  },
+  "leghacv": {
+   "1.1.1": "legmoho",
+   "1.1.2": "legfus",
+   "1.1.3": "legafus",
+   "1.2.1": "legadveconv",
+   "1.2.2": "legageo",
+   "1.2.3": "legmohocon",
+   "1.2.4": "legrampart",
+   "1.3.1": "legadvestore",
+   "1.3.2": "legamstor",
+   "2.1.1": "legapopupdef",
+   "2.1.2": "legbastion",
+   "2.1.3": "legacluster",
+   "2.1.4": "legperdition",
+   "2.2.1": "legflak",
+   "2.2.2": "leglraa",
+   "2.2.3": "legabm",
+   "2.3.1": "leglrpc",
+   "2.3.2": "legstarfall",
+   "2.3.3": "legsilo",
+   "3.1.1": "legarad",
+   "3.1.2": "legtarg",
+   "3.1.3": "legforti",
+   "3.1.4": "legajam",
+   "3.2.1": "legsd",
+   "3.3.1": "legdeflector",
+   "4.1.1": "leglab",
+   "4.1.2": "legvp",
+   "4.1.3": "legap",
+   "4.1.4": "legsy",
+   "4.2.1": "legnanotc",
+   "4.2.2": "legavp",
+   "4.2.3": "leggant",
+   "4.3.2": "leghavp"
+  },
+  "legmlv": {
+   "3.1.2": "legeyes",
+   "3.1.3": "legdrag",
+   "3.3.1": "legmine1",
+   "3.3.2": "legmine2",
+   "3.3.3": "legmine3"
+  },
+  "legnavyconship": {
+   "1.1.1": "legmex",
+   "1.1.2": "legtide",
+   "1.2.1": "legfeconv",
+   "1.2.2": "leggeo",
+   "1.2.3": "legmext15",
+   "1.3.1": "leguwestore",
+   "1.3.2": "leguwmstore",
+   "2.1.1": "legtl",
+   "2.1.2": "legfmg",
+   "2.1.3": "legnavaldefturret",
+   "2.1.4": "legdtr",
+   "2.2.1": "legfrl",
+   "2.2.2": "legfhive",
+   "2.3.1": "legctl",
+   "2.3.2": "legcluster",
+   "3.1.1": "legfrad",
+   "3.1.2": "legeyes",
+   "3.1.3": "legfdrag",
+   "3.2.2": "legdrag",
+   "4.1.1": "legsy",
+   "4.1.2": "legvp",
+   "4.1.3": "legap",
+   "4.1.4": "leglab",
+   "4.2.1": "legnanotcplat",
+   "4.2.2": "legadvshipyard",
+   "4.3.1": "legfhp",
+   "4.3.3": "legamphlab",
+   "4.3.4": "legsplab"
+  },
+  "legotter": {
+   "1.1.1": "legmex",
+   "1.1.2": "legsolar",
+   "1.1.3": "legwin",
+   "1.1.4": "legadvsol",
+   "1.2.1": "legeconv",
+   "1.2.2": "leggeo",
+   "1.2.3": "legmext15",
+   "1.2.4": "legtide",
+   "1.3.1": "legestor",
+   "1.3.2": "legmstor",
+   "1.3.3": "leguwestore",
+   "1.3.4": "legfeconv",
+   "2.1.1": "leglht",
+   "2.1.2": "legmg",
+   "2.1.3": "leghive",
+   "2.1.4": "legdtr",
+   "2.2.1": "legrl",
+   "2.2.2": "legrhapsis",
+   "2.2.3": "leglupara",
+   "2.2.4": "legfrl",
+   "2.3.1": "legctl",
+   "2.3.2": "legcluster",
+   "2.3.3": "legtl",
+   "2.3.4": "legfmg",
+   "2.4.1": "legnavaldefturret",
+   "3.1.1": "legrad",
+   "3.1.2": "legeyes",
+   "3.1.3": "legdrag",
+   "3.1.4": "legjam",
+   "3.2.1": "legfrad",
+   "3.2.2": "legfdrag",
+   "3.3.1": "legjuno",
+   "4.1.1": "leglab",
+   "4.1.2": "legvp",
+   "4.1.3": "legap",
+   "4.1.4": "legsy",
+   "4.2.1": "legnanotc",
+   "4.2.2": "legavp",
+   "4.2.3": "legnanotcplat",
+   "4.3.1": "leghp",
+   "4.3.2": "legfhp",
+   "4.3.3": "legamphlab",
+   "4.3.4": "legsplab"
+  },
+  "legspcon": {
+   "1.1.1": "legmex",
+   "1.1.2": "legsolar",
+   "1.1.3": "legwin",
+   "1.1.4": "legadvsol",
+   "1.2.1": "legeconv",
+   "1.2.2": "leggeo",
+   "1.2.3": "legmext15",
+   "1.2.4": "legtide",
+   "1.3.1": "legestor",
+   "1.3.2": "legmstor",
+   "1.3.3": "leguwestore",
+   "1.3.4": "legfeconv",
+   "2.1.1": "leglht",
+   "2.1.2": "legmg",
+   "2.1.3": "leghive",
+   "2.1.4": "legdtr",
+   "2.2.1": "legrl",
+   "2.2.2": "legrhapsis",
+   "2.2.3": "leglupara",
+   "2.2.4": "legfrl",
+   "2.3.1": "legctl",
+   "2.3.2": "legcluster",
+   "2.3.3": "legtl",
+   "2.3.4": "legfmg",
+   "2.4.1": "legnavaldefturret",
+   "2.4.2": "legfhive",
+   "3.1.1": "legrad",
+   "3.1.2": "legeyes",
+   "3.1.3": "legdrag",
+   "3.1.4": "legjam",
+   "3.2.1": "legfrad",
+   "3.2.2": "legfdrag",
+   "3.3.1": "legjuno",
+   "4.1.1": "leglab",
+   "4.1.2": "legvp",
+   "4.1.3": "legap",
+   "4.1.4": "legsy",
+   "4.2.1": "legnanotc",
+   "4.2.2": "legnanotcplat",
+   "4.2.3": "legaap",
+   "4.3.1": "leghp",
+   "4.3.2": "legfhp",
+   "4.3.3": "legamphlab",
+   "4.3.4": "legsplab"
+  }
+ },
+ "categories": [
+  {
+   "items": [
+    {
+     "action": "selectcomm append",
+     "label": "Add commander to selection"
+    },
+    {
+     "action": "selectcomm focus",
+     "label": "Select and go to commander"
+    },
+    {
+     "action": "select AllMap++_ClearSelection_SelectAll+",
+     "label": "Select all units"
+    },
+    {
+     "action": "select AllMap+_Builder_Idle+_ClearSelection_SelectOne+",
+     "label": "Select all constructors"
+    },
+    {
+     "action": "select AllMap+_InPrevSel+_ClearSelection_SelectAll+",
+     "label": "Select all units of same type as selected"
+    },
+    {
+     "action": "select Visible+_InPrevSel+_ClearSelection_SelectAll+",
+     "label": "Select same type as current, on screen"
+    },
+    {
+     "action": "select PrevSelection+_Not_Building_Not_RelativeHealth_60+_ClearSelection_SelectAll+",
+     "label": "Select damaged units"
+    },
+    {
+     "action": "select PrevSelection++_ClearSelection_SelectPart_50+",
+     "label": "Select half of current selection"
+    },
+    {
+     "action": "select AllMap+_Transport_Idle+_ClearSelection_SelectAll+",
+     "label": "Select all idle transports"
+    },
+    {
+     "action": "select Visible+_Waiting+_ClearSelection_SelectAll+",
+     "label": "Select waiting units, on screen"
+    },
+    {
+     "action": "select AllMap++_ClearSelection_SelectNum_0+",
+     "label": "Deselect all"
+    },
+    {
+     "label": null,
+     "prefix": "select ",
+     "selection": true
+    },
+    {
+     "action": "selectbox_idle",
+     "alwaysModifier": "any",
+     "label": "Box select: idle units only"
+    },
+    {
+     "action": "selectbox_same",
+     "alwaysModifier": "any",
+     "label": "Box select: matching unit types"
+    },
+    {
+     "action": "selectbox_append",
+     "alwaysModifier": "any",
+     "label": "Box select: add to selection"
+    },
+    {
+     "action": "selectbox_deselect",
+     "alwaysModifier": "any",
+     "label": "Box select: remove from selection"
+    },
+    {
+     "action": "selectbox_mobile",
+     "alwaysModifier": "any",
+     "label": "Box select: mobile units only"
+    },
+    {
+     "action": "selectbox_any",
+     "alwaysModifier": "any",
+     "label": "Box select: include buildings"
+    }
+   ],
+   "name": "Selecting units"
+  },
+  {
+   "items": [
+    {
+     "action": "move",
+     "alwaysModifier": "shift",
+     "label": "Move"
+    },
+    {
+     "action": "attack",
+     "alwaysModifier": "shift",
+     "label": "Attack"
+    },
+    {
+     "action": "settarget",
+     "alwaysModifier": "shift",
+     "label": "Set Target"
+    },
+    {
+     "action": "repair",
+     "alwaysModifier": "shift",
+     "label": "Repair"
+    },
+    {
+     "action": "reclaim",
+     "alwaysModifier": "shift",
+     "label": "Reclaim"
+    },
+    {
+     "action": "resurrect",
+     "alwaysModifier": "shift",
+     "label": "Resurrect"
+    },
+    {
+     "action": "fight",
+     "alwaysModifier": "shift",
+     "label": "Fight"
+    },
+    {
+     "action": "patrol",
+     "alwaysModifier": "shift",
+     "label": "Patrol"
+    },
+    {
+     "action": "stop",
+     "alwaysModifier": "shift",
+     "label": "Stop"
+    },
+    {
+     "action": "wait",
+     "label": "Wait"
+    },
+    {
+     "action": "wait queued",
+     "label": "Wait (queued)"
+    },
+    {
+     "action": "canceltarget",
+     "label": "Clear Target"
+    },
+    {
+     "action": "manualfire",
+     "alwaysModifier": "shift",
+     "label": "D-Gun"
+    },
+    {
+     "action": "selfd",
+     "label": "Self-destruct"
+    },
+    {
+     "action": "selfd queued",
+     "label": "Self-destruct (queued)"
+    },
+    {
+     "action": "areaattack",
+     "alwaysModifier": "shift",
+     "label": "Area Attack"
+    },
+    {
+     "action": "guard",
+     "alwaysModifier": "shift",
+     "label": "Guard"
+    },
+    {
+     "action": "capture",
+     "alwaysModifier": "shift",
+     "label": "Capture"
+    },
+    {
+     "action": "restore",
+     "alwaysModifier": "shift",
+     "label": "Restore"
+    },
+    {
+     "action": "settargetnoground",
+     "alwaysModifier": "shift",
+     "label": "Set unit target"
+    },
+    {
+     "action": "loadunits",
+     "alwaysModifier": "shift",
+     "label": "Load units"
+    },
+    {
+     "action": "unloadunits",
+     "alwaysModifier": "shift",
+     "label": "Unload units"
+    },
+    {
+     "action": "gatherwait",
+     "alwaysModifier": "shift",
+     "label": "Gather wait"
+    },
+    {
+     "action": "manuallaunch",
+     "alwaysModifier": "shift",
+     "label": "Launch"
+    },
+    {
+     "action": "stopproduction",
+     "alwaysModifier": "shift",
+     "label": "Clear Queue"
+    }
+   ],
+   "name": "Orders"
+  },
+  {
+   "items": [
+    {
+     "action": "commandinsert prepend_between",
+     "alwaysModifier": "any",
+     "label": "Add order to start of order queue"
+    },
+    {
+     "action": "command_skip_current",
+     "label": "Skip current command"
+    },
+    {
+     "action": "command_cancel_last",
+     "label": "Cancel last command"
+    }
+   ],
+   "name": "Order modifiers"
+  },
+  {
+   "items": [
+    {
+     "action": "onoff",
+     "label": "Toggle unit on/off"
+    },
+    {
+     "action": "onoff 0",
+     "label": "Turn unit off"
+    },
+    {
+     "action": "onoff 1",
+     "label": "Turn unit on"
+    },
+    {
+     "action": "repeat",
+     "description": "commands.repeat_tooltip",
+     "label": "Toggle repeat"
+    },
+    {
+     "action": "repeat 0",
+     "description": "commands.repeat_tooltip",
+     "label": "Repeat off"
+    },
+    {
+     "action": "repeat 1",
+     "description": "commands.repeat_tooltip",
+     "label": "Repeat on"
+    },
+    {
+     "action": "wantcloak",
+     "alwaysModifier": "any",
+     "description": "commands.wantcloak_tooltip",
+     "label": "Cloak"
+    },
+    {
+     "action": "trajectory_toggle 0",
+     "description": "commands.trajectory_toggle_tooltip",
+     "label": "Trajectory: Low"
+    },
+    {
+     "action": "trajectory_toggle 1",
+     "description": "commands.trajectory_toggle_tooltip",
+     "label": "Trajectory: High"
+    },
+    {
+     "action": "trajectory_toggle 2",
+     "description": "commands.trajectory_toggle_tooltip",
+     "label": "Trajectory: Auto"
+    },
+    {
+     "action": "firestate 0",
+     "description": "commands.firestate_hold_fire_descr",
+     "label": "Fire state: Hold fire"
+    },
+    {
+     "action": "firestate 1",
+     "description": "commands.firestate_return_fire_descr",
+     "label": "Fire state: Return fire"
+    },
+    {
+     "action": "firestate 2",
+     "description": "commands.firestate_fire_at_will_descr",
+     "label": "Fire state: Fire at will"
+    },
+    {
+     "action": "movestate 0",
+     "description": "commands.movestate_tooltip",
+     "label": "Move state: Hold position"
+    },
+    {
+     "action": "movestate 1",
+     "description": "commands.movestate_tooltip",
+     "label": "Move state: Maneuver"
+    },
+    {
+     "action": "movestate 2",
+     "description": "commands.movestate_tooltip",
+     "label": "Move state: Roam"
+    },
+    {
+     "action": "idlemode",
+     "description": "commands.idlemode_tooltip",
+     "label": "Toggle aircraft idle mode"
+    },
+    {
+     "action": "idlemode 0",
+     "description": "commands.idlemode_tooltip",
+     "label": "Aircraft idle: Fly"
+    },
+    {
+     "action": "idlemode 1",
+     "description": "commands.idlemode_tooltip",
+     "label": "Aircraft idle: Land"
+    },
+    {
+     "action": "priority",
+     "description": "commands.priority_tooltip",
+     "label": "Toggle builder priority"
+    },
+    {
+     "action": "priority 0",
+     "description": "commands.priority_tooltip",
+     "label": "Builder priority: Low"
+    },
+    {
+     "action": "priority 1",
+     "description": "commands.priority_tooltip",
+     "label": "Builder priority: High"
+    },
+    {
+     "action": "aplandat",
+     "description": "commands.aplandat_tooltip",
+     "label": "Toggle air plant exit mode"
+    },
+    {
+     "action": "aplandat 0",
+     "description": "commands.aplandat_tooltip",
+     "label": "Air plant exit: Fly"
+    },
+    {
+     "action": "aplandat 1",
+     "description": "commands.aplandat_tooltip",
+     "label": "Air plant exit: Land"
+    },
+    {
+     "action": "factoryqueuemode",
+     "description": "commands.factoryqueuemode_tooltip",
+     "label": "Toggle factory queue/quota mode"
+    },
+    {
+     "action": "factoryqueuemode 0",
+     "description": "commands.factoryqueuemode_tooltip",
+     "label": "Factory mode: Queue"
+    },
+    {
+     "action": "factoryqueuemode 1",
+     "description": "commands.factoryqueuemode_tooltip",
+     "label": "Factory mode: Quota"
+    },
+    {
+     "action": "factoryguard",
+     "description": "commands.factoryguard_tooltip",
+     "label": "Toggle factory guard"
+    },
+    {
+     "action": "factoryguard 0",
+     "description": "commands.factoryguard_tooltip",
+     "label": "Factory guard off"
+    },
+    {
+     "action": "factoryguard 1",
+     "description": "commands.factoryguard_tooltip",
+     "label": "Factory guard on"
+    }
+   ],
+   "name": "Unit states"
+  },
+  {
+   "items": [
+    {
+     "label": "Select control group %{n}",
+     "members": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+     ],
+     "prefix": "group select "
+    },
+    {
+     "label": "Select control group %{n} and focus camera",
+     "members": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+     ],
+     "prefix": "group focus "
+    },
+    {
+     "label": "Assign selection to control group %{n}",
+     "members": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+     ],
+     "prefix": "group set "
+    },
+    {
+     "label": "Add selection to control group %{n}",
+     "members": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+     ],
+     "prefix": "group add "
+    },
+    {
+     "label": "Add control group %{n} to selection",
+     "members": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+     ],
+     "prefix": "group selectadd "
+    },
+    {
+     "label": "Toggle control group %{n} in selection",
+     "members": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+     ],
+     "prefix": "group selecttoggle "
+    },
+    {
+     "action": "group unset",
+     "label": "Remove selection from control groups"
+    },
+    {
+     "label": "Add unit type to auto-group %{n}",
+     "members": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+     ],
+     "prefix": "add_to_autogroup "
+    },
+    {
+     "action": "remove_from_autogroup",
+     "label": "Remove unit type from autogroup"
+    },
+    {
+     "action": "remove_one_unit_from_group",
+     "label": "Remove closest unit from its group"
+    },
+    {
+     "label": "Load auto-group preset %{n}",
+     "members": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+     ],
+     "prefix": "load_autogroup_preset "
+    }
+   ],
+   "name": "Control groups"
+  },
+  {
+   "items": [
+    {
+     "action": "areamex",
+     "label": "Area Mex"
+    },
+    {
+     "label": "Build %{n}",
+     "prefix": "buildunit_",
+     "unit": true
+    },
+    {
+     "action": "buildfacing inc",
+     "alwaysModifier": "shift",
+     "label": "Rotate building placement"
+    },
+    {
+     "action": "buildfacing dec",
+     "alwaysModifier": "shift",
+     "label": "Rotate building placement (reverse)"
+    },
+    {
+     "action": "buildspacing inc",
+     "alwaysModifier": "shift",
+     "label": "Increase build spacing"
+    },
+    {
+     "action": "buildspacing dec",
+     "alwaysModifier": "shift",
+     "label": "Decrease build spacing"
+    },
+    {
+     "action": "buildsplit",
+     "alwaysModifier": "any",
+     "label": "Split build orders between builders"
+    },
+    {
+     "action": "toggle_allied_upgrade",
+     "alwaysModifier": "any",
+     "label": "Skip allied mexes and geos when upgrading"
+    }
+   ],
+   "name": "Build"
+  },
+  {
+   "items": [
+    {
+     "action": "gridmenu_category 1",
+     "alwaysModifier": "shift",
+     "label": "Economy"
+    },
+    {
+     "action": "gridmenu_category 2",
+     "alwaysModifier": "shift",
+     "label": "Combat"
+    },
+    {
+     "action": "gridmenu_category 3",
+     "alwaysModifier": "shift",
+     "label": "Utility"
+    },
+    {
+     "action": "gridmenu_category 4",
+     "alwaysModifier": "shift",
+     "label": "Build"
+    },
+    {
+     "alwaysModifier": "any",
+     "label": "Row %{row}, column %{col}",
+     "members": [
+      " 1 1",
+      " 1 2",
+      " 1 3",
+      " 1 4",
+      " 2 1",
+      " 2 2",
+      " 2 3",
+      " 2 4",
+      " 3 1",
+      " 3 2",
+      " 3 3",
+      " 3 4"
+     ],
+     "prefix": "gridmenu_key"
+    },
+    {
+     "action": "gridmenu_next_page",
+     "label": "Next page"
+    },
+    {
+     "action": "gridmenu_cycle_builder",
+     "label": "Cycle builder"
+    }
+   ],
+   "name": "Grid menu"
+  },
+  {
+   "items": [
+    {
+     "action": "blueprint_create",
+     "label": "Save Blueprint"
+    },
+    {
+     "action": "blueprint_place",
+     "label": "Place Blueprint"
+    },
+    {
+     "action": "blueprint_delete",
+     "label": "Delete blueprint"
+    },
+    {
+     "action": "blueprint_next",
+     "label": "Next blueprint"
+    },
+    {
+     "action": "blueprint_prev",
+     "label": "Previous blueprint"
+    },
+    {
+     "label": null,
+     "prefix": "blueprint_"
+    }
+   ],
+   "name": "Blueprints"
+  },
+  {
+   "items": [
+    {
+     "action": "cameraflip",
+     "label": "Flip camera"
+    },
+    {
+     "action": "moveforward",
+     "alwaysModifier": "any",
+     "label": "Move camera forward"
+    },
+    {
+     "action": "moveback",
+     "alwaysModifier": "any",
+     "label": "Move camera back"
+    },
+    {
+     "action": "moveleft",
+     "alwaysModifier": "any",
+     "label": "Move camera left"
+    },
+    {
+     "action": "moveright",
+     "alwaysModifier": "any",
+     "label": "Move camera right"
+    },
+    {
+     "action": "moveup",
+     "alwaysModifier": "any",
+     "label": "Move camera up"
+    },
+    {
+     "action": "movedown",
+     "alwaysModifier": "any",
+     "label": "Move camera down"
+    },
+    {
+     "action": "movefast",
+     "alwaysModifier": "any",
+     "label": "Move camera faster"
+    },
+    {
+     "action": "moveslow",
+     "alwaysModifier": "any",
+     "label": "Move camera slower"
+    },
+    {
+     "action": "movetilt",
+     "alwaysModifier": "any",
+     "label": "Tilt camera with the mouse wheel"
+    },
+    {
+     "action": "moverotate",
+     "alwaysModifier": "any",
+     "label": "Rotate camera with the middle mouse button"
+    },
+    {
+     "action": "movereset",
+     "alwaysModifier": "any",
+     "label": "Zoom camera all the way with the mouse wheel"
+    },
+    {
+     "label": "Set camera anchor %{n}",
+     "members": [
+      "1",
+      "2",
+      "3",
+      "4"
+     ],
+     "prefix": "set_camera_anchor "
+    },
+    {
+     "label": "Jump to camera anchor %{n}",
+     "members": [
+      "1",
+      "2",
+      "3",
+      "4"
+     ],
+     "prefix": "focus_camera_anchor "
+    },
+    {
+     "action": "lastmsgpos",
+     "label": "Cycle through map marks"
+    },
+    {
+     "action": "cycleselected next",
+     "label": "Cycle camera to next selected unit"
+    },
+    {
+     "action": "cycleselected prev",
+     "label": "Cycle camera to previous selected unit"
+    },
+    {
+     "action": "pip_replay",
+     "label": "Picture-in-picture: instant replay of the last seconds"
+    },
+    {
+     "action": "pip_replay_death",
+     "label": "Picture-in-picture: replay your last unit loss"
+    },
+    {
+     "action": "pip_history_toggle",
+     "label": "Picture-in-picture: show or hide the rewind timeline"
+    },
+    {
+     "action": "pip_history_playpause",
+     "label": "Picture-in-picture: play or pause the rewind"
+    },
+    {
+     "action": "pip_history_back",
+     "label": "Picture-in-picture: rewind a few seconds"
+    },
+    {
+     "action": "pip_history_forward",
+     "label": "Picture-in-picture: forward a few seconds"
+    },
+    {
+     "action": "pip_history_live",
+     "label": "Picture-in-picture: back to live"
+    },
+    {
+     "action": "pip_history_faster",
+     "label": "Picture-in-picture: faster rewind playback"
+    },
+    {
+     "action": "pip_history_slower",
+     "label": "Picture-in-picture: slower rewind playback"
+    },
+    {
+     "action": "pip_history_reverse",
+     "label": "Picture-in-picture: play the history backwards from live"
+    },
+    {
+     "action": "pip_history_play",
+     "label": "Picture-in-picture: play the history forwards"
+    },
+    {
+     "action": "pip_history_stats",
+     "label": "Picture-in-picture: print the history recorder's size and timings"
+    }
+   ],
+   "name": "Camera"
+  },
+  {
+   "items": [
+    {
+     "action": "showelevation",
+     "label": "Show height map"
+    },
+    {
+     "action": "showpathtraversability",
+     "label": "Show passability (for selected unit)"
+    },
+    {
+     "action": "showmetalmap",
+     "label": "Show metal map"
+    }
+   ],
+   "name": "Map views"
+  },
+  {
+   "items": [
+    {
+     "action": "options",
+     "label": "Settings"
+    },
+    {
+     "action": "luaui selector",
+     "label": "Widget selector"
+    },
+    {
+     "action": "hideinterface",
+     "label": "Hide GUI"
+    },
+    {
+     "action": "unit_stats",
+     "label": "Unit stats"
+    },
+    {
+     "action": "customgameinfo",
+     "label": "Game info"
+    },
+    {
+     "action": "savegame",
+     "label": "Save game"
+    },
+    {
+     "action": "screenshot png",
+     "label": "Take screenshot"
+    },
+    {
+     "action": "attack_range_inc",
+     "label": "Display firing range"
+    },
+    {
+     "action": "chain force forcestart | say !cv forcestart",
+     "label": "Vote forcestart"
+    }
+   ],
+   "name": "Interface"
+  },
+  {
+   "items": [
+    {
+     "action": "drawinmap",
+     "alwaysModifier": "any",
+     "label": "Draw"
+    },
+    {
+     "action": "drawlabel",
+     "label": "Place label"
+    },
+    {
+     "action": "clearmapmarks",
+     "label": "Erase all drawings and markers"
+    }
+   ],
+   "name": "Drawing"
+  },
+  {
+   "items": [
+    {
+     "action": "mutesound",
+     "label": "Toggle mute"
+    },
+    {
+     "action": "snd_volume_increase",
+     "label": "Increase volume"
+    },
+    {
+     "action": "snd_volume_decrease",
+     "label": "Decrease volume"
+    }
+   ],
+   "name": "Sound"
+  },
+  {
+   "items": [
+    {
+     "action": "pause",
+     "alwaysModifier": "any",
+     "label": "Pause"
+    },
+    {
+     "action": "increasespeed",
+     "label": "Increase game speed"
+    },
+    {
+     "action": "decreasespeed",
+     "label": "Decrease game speed"
+    },
+    {
+     "label": "Spectate team %{n}",
+     "members": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+     ],
+     "prefix": "specteam "
+    },
+    {
+     "description": "actions.keybindProfiles.activateDescription",
+     "label": "Switch to %{n}",
+     "membersFrom": "profiles",
+     "prefix": "keybindprofile "
+    }
+   ],
+   "name": "Game"
+  }
+ ],
+ "default_binds": [
+  {
+   "action": "select AllMap++_ClearSelection_SelectNum_0+",
+   "keyset": "esc"
+  },
+  {
+   "action": "quitmessage",
+   "keyset": "esc"
+  },
+  {
+   "action": "quitmenu",
+   "keyset": "Shift+esc"
+  },
+  {
+   "action": "quitforce",
+   "keyset": "Ctrl+Shift+esc"
+  },
+  {
+   "action": "reloadforce",
+   "keyset": "Alt+Shift+esc"
+  },
+  {
+   "action": "edit_escape",
+   "keyset": "Any+escape"
+  },
+  {
+   "action": "pause",
+   "keyset": "Any+pause"
+  },
+  {
+   "action": "teamstatus_close",
+   "keyset": "esc"
+  },
+  {
+   "action": "customgameinfo_close",
+   "keyset": "esc"
+  },
+  {
+   "action": "buildmenu_pregame_deselect",
+   "keyset": "esc"
+  },
+  {
+   "action": "selectbox_same",
+   "keyset": "Any+sc_z"
+  },
+  {
+   "action": "selectbox_idle",
+   "keyset": "Any+space"
+  },
+  {
+   "action": "selectbox_append",
+   "keyset": "Any+shift"
+  },
+  {
+   "action": "selectbox_any",
+   "keyset": "Any+shift"
+  },
+  {
+   "action": "selectbox_deselect",
+   "keyset": "Any+ctrl"
+  },
+  {
+   "action": "selectbox_mobile",
+   "keyset": "Any+alt"
+  },
+  {
+   "action": "buildsplit",
+   "keyset": "Any+space"
+  },
+  {
+   "action": "commandinsert prepend_between",
+   "keyset": "Any+space"
+  },
+  {
+   "action": "attack_range_inc",
+   "keyset": "alt+sc_."
+  },
+  {
+   "action": "attack_range_dec",
+   "keyset": "alt+sc_comma"
+  },
+  {
+   "action": "chat",
+   "keyset": "Any+enter"
+  },
+  {
+   "action": "chatswitchally",
+   "keyset": "Alt+ctrl+sc_a"
+  },
+  {
+   "action": "chatswitchspec",
+   "keyset": "Alt+ctrl+sc_s"
+  },
+  {
+   "action": "edit_complete",
+   "keyset": "Any+tab"
+  },
+  {
+   "action": "edit_backspace",
+   "keyset": "Any+backspace"
+  },
+  {
+   "action": "edit_delete",
+   "keyset": "Any+delete"
+  },
+  {
+   "action": "edit_home",
+   "keyset": "Any+home"
+  },
+  {
+   "action": "edit_home",
+   "keyset": "Alt+left"
+  },
+  {
+   "action": "edit_end",
+   "keyset": "Any+end"
+  },
+  {
+   "action": "edit_end",
+   "keyset": "Alt+right"
+  },
+  {
+   "action": "edit_prev_line",
+   "keyset": "Any+up"
+  },
+  {
+   "action": "edit_next_line",
+   "keyset": "Any+down"
+  },
+  {
+   "action": "edit_prev_char",
+   "keyset": "Any+left"
+  },
+  {
+   "action": "edit_next_char",
+   "keyset": "Any+right"
+  },
+  {
+   "action": "edit_prev_word",
+   "keyset": "Ctrl+left"
+  },
+  {
+   "action": "edit_next_word",
+   "keyset": "Ctrl+right"
+  },
+  {
+   "action": "edit_return",
+   "keyset": "Any+enter"
+  },
+  {
+   "action": "pastetext",
+   "keyset": "Ctrl+v"
+  },
+  {
+   "action": "moveforward",
+   "keyset": "Any+up"
+  },
+  {
+   "action": "moveback",
+   "keyset": "Any+down"
+  },
+  {
+   "action": "moveright",
+   "keyset": "Any+right"
+  },
+  {
+   "action": "moveleft",
+   "keyset": "Any+left"
+  },
+  {
+   "action": "moveup",
+   "keyset": "Any+pageup"
+  },
+  {
+   "action": "movedown",
+   "keyset": "Any+pagedown"
+  },
+  {
+   "action": "movereset",
+   "keyset": "Any+alt"
+  },
+  {
+   "action": "moverotate",
+   "keyset": "Any+alt"
+  },
+  {
+   "action": "movetilt",
+   "keyset": "Any+ctrl"
+  },
+  {
+   "action": "toggle_allied_upgrade",
+   "keyset": "Any+alt"
+  },
+  {
+   "action": "gridmenu_category 1",
+   "keyset": "sc_z"
+  },
+  {
+   "action": "gridmenu_category 2",
+   "keyset": "sc_x"
+  },
+  {
+   "action": "gridmenu_category 3",
+   "keyset": "sc_c"
+  },
+  {
+   "action": "gridmenu_category 4",
+   "keyset": "sc_v"
+  },
+  {
+   "action": "gridmenu_category 1",
+   "keyset": "Shift+sc_z"
+  },
+  {
+   "action": "gridmenu_category 2",
+   "keyset": "Shift+sc_x"
+  },
+  {
+   "action": "gridmenu_category 3",
+   "keyset": "Shift+sc_c"
+  },
+  {
+   "action": "gridmenu_category 4",
+   "keyset": "Shift+sc_v"
+  },
+  {
+   "action": "gridmenu_key 1 1",
+   "keyset": "Any+sc_z"
+  },
+  {
+   "action": "gridmenu_key 1 2",
+   "keyset": "Any+sc_x"
+  },
+  {
+   "action": "gridmenu_key 1 3",
+   "keyset": "Any+sc_c"
+  },
+  {
+   "action": "gridmenu_key 1 4",
+   "keyset": "Any+sc_v"
+  },
+  {
+   "action": "gridmenu_key 2 1",
+   "keyset": "Any+sc_a"
+  },
+  {
+   "action": "gridmenu_key 2 2",
+   "keyset": "Any+sc_s"
+  },
+  {
+   "action": "gridmenu_key 2 3",
+   "keyset": "Any+sc_d"
+  },
+  {
+   "action": "gridmenu_key 2 4",
+   "keyset": "Any+sc_f"
+  },
+  {
+   "action": "gridmenu_key 3 1",
+   "keyset": "Any+sc_q"
+  },
+  {
+   "action": "gridmenu_key 3 2",
+   "keyset": "Any+sc_w"
+  },
+  {
+   "action": "gridmenu_key 3 3",
+   "keyset": "Any+sc_e"
+  },
+  {
+   "action": "gridmenu_key 3 4",
+   "keyset": "Any+sc_r"
+  },
+  {
+   "action": "gridmenu_next_page",
+   "keyset": "sc_b"
+  },
+  {
+   "action": "gridmenu_cycle_builder",
+   "keyset": "sc_."
+  },
+  {
+   "action": "cycleselected next",
+   "keyset": "sc_."
+  },
+  {
+   "action": "cycleselected prev",
+   "keyset": "sc_comma"
+  },
+  {
+   "action": "specteam 0",
+   "keyset": "1"
+  },
+  {
+   "action": "specteam 1",
+   "keyset": "2"
+  },
+  {
+   "action": "specteam 2",
+   "keyset": "3"
+  },
+  {
+   "action": "specteam 3",
+   "keyset": "4"
+  },
+  {
+   "action": "specteam 4",
+   "keyset": "5"
+  },
+  {
+   "action": "specteam 5",
+   "keyset": "6"
+  },
+  {
+   "action": "specteam 6",
+   "keyset": "7"
+  },
+  {
+   "action": "specteam 7",
+   "keyset": "8"
+  },
+  {
+   "action": "specteam 8",
+   "keyset": "9"
+  },
+  {
+   "action": "add_to_autogroup 0",
+   "keyset": "Alt+0"
+  },
+  {
+   "action": "add_to_autogroup 1",
+   "keyset": "Alt+1"
+  },
+  {
+   "action": "add_to_autogroup 2",
+   "keyset": "Alt+2"
+  },
+  {
+   "action": "add_to_autogroup 3",
+   "keyset": "Alt+3"
+  },
+  {
+   "action": "add_to_autogroup 4",
+   "keyset": "Alt+4"
+  },
+  {
+   "action": "add_to_autogroup 5",
+   "keyset": "Alt+5"
+  },
+  {
+   "action": "add_to_autogroup 6",
+   "keyset": "Alt+6"
+  },
+  {
+   "action": "add_to_autogroup 7",
+   "keyset": "Alt+7"
+  },
+  {
+   "action": "add_to_autogroup 8",
+   "keyset": "Alt+8"
+  },
+  {
+   "action": "add_to_autogroup 9",
+   "keyset": "Alt+9"
+  },
+  {
+   "action": "load_autogroup_preset 0",
+   "keyset": "Shift+Alt+0"
+  },
+  {
+   "action": "load_autogroup_preset 1",
+   "keyset": "Shift+Alt+1"
+  },
+  {
+   "action": "load_autogroup_preset 2",
+   "keyset": "Shift+Alt+2"
+  },
+  {
+   "action": "load_autogroup_preset 3",
+   "keyset": "Shift+Alt+3"
+  },
+  {
+   "action": "load_autogroup_preset 4",
+   "keyset": "Shift+Alt+4"
+  },
+  {
+   "action": "load_autogroup_preset 5",
+   "keyset": "Shift+Alt+5"
+  },
+  {
+   "action": "load_autogroup_preset 6",
+   "keyset": "Shift+Alt+6"
+  },
+  {
+   "action": "load_autogroup_preset 7",
+   "keyset": "Shift+Alt+7"
+  },
+  {
+   "action": "load_autogroup_preset 8",
+   "keyset": "Shift+Alt+8"
+  },
+  {
+   "action": "load_autogroup_preset 9",
+   "keyset": "Shift+Alt+9"
+  },
+  {
+   "action": "group focus 0",
+   "keyset": "0,0"
+  },
+  {
+   "action": "group focus 1",
+   "keyset": "1,1"
+  },
+  {
+   "action": "group focus 2",
+   "keyset": "2,2"
+  },
+  {
+   "action": "group focus 3",
+   "keyset": "3,3"
+  },
+  {
+   "action": "group focus 4",
+   "keyset": "4,4"
+  },
+  {
+   "action": "group focus 5",
+   "keyset": "5,5"
+  },
+  {
+   "action": "group focus 6",
+   "keyset": "6,6"
+  },
+  {
+   "action": "group focus 7",
+   "keyset": "7,7"
+  },
+  {
+   "action": "group focus 8",
+   "keyset": "8,8"
+  },
+  {
+   "action": "group focus 9",
+   "keyset": "9,9"
+  },
+  {
+   "action": "group select 0",
+   "keyset": "0"
+  },
+  {
+   "action": "group select 1",
+   "keyset": "1"
+  },
+  {
+   "action": "group select 2",
+   "keyset": "2"
+  },
+  {
+   "action": "group select 3",
+   "keyset": "3"
+  },
+  {
+   "action": "group select 4",
+   "keyset": "4"
+  },
+  {
+   "action": "group select 5",
+   "keyset": "5"
+  },
+  {
+   "action": "group select 6",
+   "keyset": "6"
+  },
+  {
+   "action": "group select 7",
+   "keyset": "7"
+  },
+  {
+   "action": "group select 8",
+   "keyset": "8"
+  },
+  {
+   "action": "group select 9",
+   "keyset": "9"
+  },
+  {
+   "action": "group set 0",
+   "keyset": "Ctrl+0"
+  },
+  {
+   "action": "group set 1",
+   "keyset": "Ctrl+1"
+  },
+  {
+   "action": "group set 2",
+   "keyset": "Ctrl+2"
+  },
+  {
+   "action": "group set 3",
+   "keyset": "Ctrl+3"
+  },
+  {
+   "action": "group set 4",
+   "keyset": "Ctrl+4"
+  },
+  {
+   "action": "group set 5",
+   "keyset": "Ctrl+5"
+  },
+  {
+   "action": "group set 6",
+   "keyset": "Ctrl+6"
+  },
+  {
+   "action": "group set 7",
+   "keyset": "Ctrl+7"
+  },
+  {
+   "action": "group set 8",
+   "keyset": "Ctrl+8"
+  },
+  {
+   "action": "group set 9",
+   "keyset": "Ctrl+9"
+  },
+  {
+   "action": "group selectadd 0",
+   "keyset": "Shift+0"
+  },
+  {
+   "action": "group selectadd 1",
+   "keyset": "Shift+1"
+  },
+  {
+   "action": "group selectadd 2",
+   "keyset": "Shift+2"
+  },
+  {
+   "action": "group selectadd 3",
+   "keyset": "Shift+3"
+  },
+  {
+   "action": "group selectadd 4",
+   "keyset": "Shift+4"
+  },
+  {
+   "action": "group selectadd 5",
+   "keyset": "Shift+5"
+  },
+  {
+   "action": "group selectadd 6",
+   "keyset": "Shift+6"
+  },
+  {
+   "action": "group selectadd 7",
+   "keyset": "Shift+7"
+  },
+  {
+   "action": "group selectadd 8",
+   "keyset": "Shift+8"
+  },
+  {
+   "action": "group selectadd 9",
+   "keyset": "Shift+9"
+  },
+  {
+   "action": "group add 0",
+   "keyset": "Ctrl+Shift+0"
+  },
+  {
+   "action": "group add 1",
+   "keyset": "Ctrl+Shift+1"
+  },
+  {
+   "action": "group add 2",
+   "keyset": "Ctrl+Shift+2"
+  },
+  {
+   "action": "group add 3",
+   "keyset": "Ctrl+Shift+3"
+  },
+  {
+   "action": "group add 4",
+   "keyset": "Ctrl+Shift+4"
+  },
+  {
+   "action": "group add 5",
+   "keyset": "Ctrl+Shift+5"
+  },
+  {
+   "action": "group add 6",
+   "keyset": "Ctrl+Shift+6"
+  },
+  {
+   "action": "group add 7",
+   "keyset": "Ctrl+Shift+7"
+  },
+  {
+   "action": "group add 8",
+   "keyset": "Ctrl+Shift+8"
+  },
+  {
+   "action": "group add 9",
+   "keyset": "Ctrl+Shift+9"
+  },
+  {
+   "action": "group selecttoggle 0",
+   "keyset": "Ctrl+Alt+0"
+  },
+  {
+   "action": "group selecttoggle 1",
+   "keyset": "Ctrl+Alt+1"
+  },
+  {
+   "action": "group selecttoggle 2",
+   "keyset": "Ctrl+Alt+2"
+  },
+  {
+   "action": "group selecttoggle 3",
+   "keyset": "Ctrl+Alt+3"
+  },
+  {
+   "action": "group selecttoggle 4",
+   "keyset": "Ctrl+Alt+4"
+  },
+  {
+   "action": "group selecttoggle 5",
+   "keyset": "Ctrl+Alt+5"
+  },
+  {
+   "action": "group selecttoggle 6",
+   "keyset": "Ctrl+Alt+6"
+  },
+  {
+   "action": "group selecttoggle 7",
+   "keyset": "Ctrl+Alt+7"
+  },
+  {
+   "action": "group selecttoggle 8",
+   "keyset": "Ctrl+Alt+8"
+  },
+  {
+   "action": "group selecttoggle 9",
+   "keyset": "Ctrl+Alt+9"
+  },
+  {
+   "action": "increasespeed",
+   "keyset": "Alt+sc_="
+  },
+  {
+   "action": "decreasespeed",
+   "keyset": "Alt+sc_-"
+  },
+  {
+   "action": "increasespeed",
+   "keyset": "Alt+numpad+"
+  },
+  {
+   "action": "decreasespeed",
+   "keyset": "Alt+numpad-"
+  },
+  {
+   "action": "buildfacing inc",
+   "keyset": "sc_["
+  },
+  {
+   "action": "buildfacing inc",
+   "keyset": "Shift+sc_["
+  },
+  {
+   "action": "buildfacing dec",
+   "keyset": "sc_]"
+  },
+  {
+   "action": "buildfacing dec",
+   "keyset": "Shift+sc_]"
+  },
+  {
+   "action": "buildspacing inc",
+   "keyset": "Alt+sc_z"
+  },
+  {
+   "action": "buildspacing inc",
+   "keyset": "Shift+Alt+sc_z"
+  },
+  {
+   "action": "buildspacing dec",
+   "keyset": "Alt+sc_x"
+  },
+  {
+   "action": "buildspacing dec",
+   "keyset": "Shift+Alt+sc_x"
+  },
+  {
+   "action": "attack",
+   "keyset": "sc_a"
+  },
+  {
+   "action": "attack",
+   "keyset": "Shift+sc_a"
+  },
+  {
+   "action": "areaattack",
+   "keyset": "Ctrl+sc_a"
+  },
+  {
+   "action": "areaattack",
+   "keyset": "Ctrl+Shift+sc_a"
+  },
+  {
+   "action": "selfd",
+   "keyset": "Ctrl+sc_b"
+  },
+  {
+   "action": "selfd queued",
+   "keyset": "Ctrl+Shift+sc_b"
+  },
+  {
+   "action": "manualfire",
+   "keyset": "sc_d"
+  },
+  {
+   "action": "manualfire",
+   "keyset": "Shift+sc_d"
+  },
+  {
+   "action": "manuallaunch",
+   "keyset": "sc_d"
+  },
+  {
+   "action": "manuallaunch",
+   "keyset": "Shift+sc_d"
+  },
+  {
+   "action": "reclaim",
+   "keyset": "sc_e"
+  },
+  {
+   "action": "reclaim",
+   "keyset": "Shift+sc_e"
+  },
+  {
+   "action": "fight",
+   "keyset": "sc_f"
+  },
+  {
+   "action": "fight",
+   "keyset": "Shift+sc_f"
+  },
+  {
+   "action": "chain force forcestart | say !cv forcestart",
+   "keyset": "Alt+sc_f"
+  },
+  {
+   "action": "stopproduction",
+   "keyset": "sc_g"
+  },
+  {
+   "action": "stopproduction",
+   "keyset": "Shift+sc_g"
+  },
+  {
+   "action": "stop",
+   "keyset": "sc_g"
+  },
+  {
+   "action": "stop",
+   "keyset": "Shift+sc_g"
+  },
+  {
+   "action": "patrol",
+   "keyset": "sc_h"
+  },
+  {
+   "action": "patrol",
+   "keyset": "Shift+sc_h"
+  },
+  {
+   "action": "unit_stats",
+   "keyset": "sc_i"
+  },
+  {
+   "action": "customgameinfo",
+   "keyset": "Ctrl+sc_i"
+  },
+  {
+   "action": "loadunits",
+   "keyset": "sc_j"
+  },
+  {
+   "action": "loadunits",
+   "keyset": "Shift+sc_j"
+  },
+  {
+   "action": "cloak",
+   "keyset": "sc_k"
+  },
+  {
+   "action": "cloak",
+   "keyset": "Shift+sc_k"
+  },
+  {
+   "action": "wantcloak",
+   "keyset": "sc_k"
+  },
+  {
+   "action": "wantcloak",
+   "keyset": "Any+sc_k"
+  },
+  {
+   "action": "restore",
+   "keyset": "sc_m"
+  },
+  {
+   "action": "restore",
+   "keyset": "Shift+sc_m"
+  },
+  {
+   "action": "command_skip_current",
+   "keyset": "sc_n"
+  },
+  {
+   "action": "command_cancel_last",
+   "keyset": "Ctrl+sc_n"
+  },
+  {
+   "action": "guard",
+   "keyset": "sc_o"
+  },
+  {
+   "action": "guard",
+   "keyset": "Shift+sc_o"
+  },
+  {
+   "action": "gatherwait",
+   "keyset": "sc_p"
+  },
+  {
+   "action": "gatherwait",
+   "keyset": "Shift+sc_p"
+  },
+  {
+   "action": "repair",
+   "keyset": "sc_r"
+  },
+  {
+   "action": "repair",
+   "keyset": "Shift+sc_r"
+  },
+  {
+   "action": "settarget",
+   "keyset": "sc_s"
+  },
+  {
+   "action": "settarget",
+   "keyset": "Shift+sc_s"
+  },
+  {
+   "action": "settargetnoground",
+   "keyset": "Alt+sc_s"
+  },
+  {
+   "action": "settargetnoground",
+   "keyset": "Shift+Alt+sc_s"
+  },
+  {
+   "action": "canceltarget",
+   "keyset": "Ctrl+sc_s"
+  },
+  {
+   "action": "unloadunits",
+   "keyset": "sc_u"
+  },
+  {
+   "action": "unloadunits",
+   "keyset": "Shift+sc_u"
+  },
+  {
+   "action": "resurrect",
+   "keyset": "sc_w"
+  },
+  {
+   "action": "resurrect",
+   "keyset": "Shift+sc_w"
+  },
+  {
+   "action": "capture",
+   "keyset": "sc_w"
+  },
+  {
+   "action": "capture",
+   "keyset": "Shift+sc_w"
+  },
+  {
+   "action": "wait",
+   "keyset": "sc_y"
+  },
+  {
+   "action": "wait queued",
+   "keyset": "Shift+sc_y"
+  },
+  {
+   "action": "onoff 0",
+   "keyset": "sc_b,sc_b"
+  },
+  {
+   "action": "onoff 1",
+   "keyset": "sc_b"
+  },
+  {
+   "action": "onoff 0",
+   "keyset": "Shift+sc_b,Shift+sc_b"
+  },
+  {
+   "action": "onoff 1",
+   "keyset": "Shift+sc_b"
+  },
+  {
+   "action": "trajectory_toggle 1",
+   "keyset": "sc_b,sc_b,sc_b"
+  },
+  {
+   "action": "trajectory_toggle 0",
+   "keyset": "sc_b,sc_b"
+  },
+  {
+   "action": "trajectory_toggle 2",
+   "keyset": "sc_b"
+  },
+  {
+   "action": "trajectory_toggle 1",
+   "keyset": "Shift+sc_b,Shift+sc_b,Shift+sc_b"
+  },
+  {
+   "action": "trajectory_toggle 0",
+   "keyset": "Shift+sc_b,Shift+sc_b"
+  },
+  {
+   "action": "trajectory_toggle 2",
+   "keyset": "Shift+sc_b"
+  },
+  {
+   "action": "firestate 1",
+   "keyset": "sc_l,sc_l,sc_l"
+  },
+  {
+   "action": "firestate 0",
+   "keyset": "sc_l,sc_l"
+  },
+  {
+   "action": "firestate 2",
+   "keyset": "sc_l"
+  },
+  {
+   "action": "firestate 1",
+   "keyset": "Shift+sc_l,Shift+sc_l,Shift+sc_l"
+  },
+  {
+   "action": "firestate 0",
+   "keyset": "Shift+sc_l,Shift+sc_l"
+  },
+  {
+   "action": "firestate 2",
+   "keyset": "Shift+sc_l"
+  },
+  {
+   "action": "movestate 1",
+   "keyset": "sc_;,sc_;,sc_;"
+  },
+  {
+   "action": "movestate 0",
+   "keyset": "sc_;,sc_;"
+  },
+  {
+   "action": "movestate 2",
+   "keyset": "sc_;"
+  },
+  {
+   "action": "movestate 1",
+   "keyset": "Shift+sc_;,Shift+sc_;,Shift+sc_;"
+  },
+  {
+   "action": "movestate 0",
+   "keyset": "Shift+sc_;,Shift+sc_;"
+  },
+  {
+   "action": "movestate 2",
+   "keyset": "Shift+sc_;"
+  },
+  {
+   "action": "repeat 0",
+   "keyset": "sc_t,sc_t"
+  },
+  {
+   "action": "repeat 1",
+   "keyset": "sc_t"
+  },
+  {
+   "action": "repeat 0",
+   "keyset": "Shift+sc_t,Shift+sc_t"
+  },
+  {
+   "action": "repeat 1",
+   "keyset": "Shift+sc_t"
+  },
+  {
+   "action": "factoryguard 0",
+   "keyset": "Ctrl+sc_g,Ctrl+sc_g"
+  },
+  {
+   "action": "factoryguard 1",
+   "keyset": "Ctrl+sc_g"
+  },
+  {
+   "action": "cameraflip",
+   "keyset": "Alt+sc_o"
+  },
+  {
+   "action": "hideinterface",
+   "keyset": "Ctrl+f7"
+  },
+  {
+   "action": "lastmsgpos",
+   "keyset": "Any+f5"
+  },
+  {
+   "action": "showpathtraversability",
+   "keyset": "Any+f6"
+  },
+  {
+   "action": "showmetalmap",
+   "keyset": "Any+f7"
+  },
+  {
+   "action": "showelevation",
+   "keyset": "Any+f8"
+  },
+  {
+   "action": "options",
+   "keyset": "f10"
+  },
+  {
+   "action": "luaui selector",
+   "keyset": "f11"
+  },
+  {
+   "action": "screenshot png",
+   "keyset": "Any+f12"
+  },
+  {
+   "action": "group unset",
+   "keyset": "Ctrl+sc_`"
+  },
+  {
+   "action": "remove_from_autogroup",
+   "keyset": "Alt+sc_`"
+  },
+  {
+   "action": "drawlabel",
+   "keyset": "sc_`,sc_`"
+  },
+  {
+   "action": "drawinmap",
+   "keyset": "sc_`"
+  },
+  {
+   "action": "select AllMap++_ClearSelection_SelectAll+",
+   "keyset": "Ctrl+sc_e"
+  },
+  {
+   "action": "select AllMap+_Builder_Idle+_ClearSelection_SelectOne+",
+   "keyset": "Ctrl+tab"
+  },
+  {
+   "action": "selectcomm append",
+   "keyset": "Shift+tab"
+  },
+  {
+   "action": "selectcomm focus",
+   "keyset": "tab"
+  },
+  {
+   "action": "select Visible+_InPrevSel+_ClearSelection_SelectAll+",
+   "keyset": "sc_q"
+  },
+  {
+   "action": "select PrevSelection++_ClearSelection_SelectPart_50+",
+   "keyset": "Ctrl+sc_q"
+  },
+  {
+   "action": "select AllMap+_InPrevSel+_ClearSelection_SelectAll+",
+   "keyset": "Ctrl+sc_w"
+  },
+  {
+   "action": "select AllMap+_Transport_Idle+_ClearSelection_SelectAll+",
+   "keyset": "Ctrl+sc_r"
+  },
+  {
+   "action": "select Visible+_Waiting+_ClearSelection_SelectAll+",
+   "keyset": "Ctrl+sc_y"
+  },
+  {
+   "action": "select PrevSelection+_Not_Building_Not_RelativeHealth_60+_ClearSelection_SelectAll+",
+   "keyset": "Alt+sc_q"
+  },
+  {
+   "action": "moveback",
+   "keyset": "numpad2"
+  },
+  {
+   "action": "moveright",
+   "keyset": "numpad6"
+  },
+  {
+   "action": "moveleft",
+   "keyset": "numpad4"
+  },
+  {
+   "action": "moveforward",
+   "keyset": "numpad8"
+  },
+  {
+   "action": "moveup",
+   "keyset": "numpad9"
+  },
+  {
+   "action": "movedown",
+   "keyset": "numpad3"
+  },
+  {
+   "action": "movefast",
+   "keyset": "numpad1"
+  },
+  {
+   "action": "mutesound",
+   "keyset": "backspace"
+  },
+  {
+   "action": "snd_volume_increase",
+   "keyset": "numpad+"
+  },
+  {
+   "action": "snd_volume_increase",
+   "keyset": "sc_="
+  },
+  {
+   "action": "snd_volume_decrease",
+   "keyset": "sc_-"
+  },
+  {
+   "action": "snd_volume_decrease",
+   "keyset": "numpad-"
+  },
+  {
+   "action": "set_camera_anchor 1",
+   "keyset": "Ctrl+F1"
+  },
+  {
+   "action": "set_camera_anchor 2",
+   "keyset": "Ctrl+F2"
+  },
+  {
+   "action": "set_camera_anchor 3",
+   "keyset": "Ctrl+F3"
+  },
+  {
+   "action": "set_camera_anchor 4",
+   "keyset": "Ctrl+F4"
+  },
+  {
+   "action": "focus_camera_anchor 1",
+   "keyset": "F1"
+  },
+  {
+   "action": "focus_camera_anchor 2",
+   "keyset": "F2"
+  },
+  {
+   "action": "focus_camera_anchor 3",
+   "keyset": "F3"
+  },
+  {
+   "action": "focus_camera_anchor 4",
+   "keyset": "F4"
+  },
+  {
+   "action": "blueprint_place",
+   "keyset": "Alt+sc_b"
+  },
+  {
+   "action": "blueprint_create",
+   "keyset": "Alt+sc_t"
+  },
+  {
+   "action": "blueprint_delete",
+   "keyset": "Alt+sc_y"
+  },
+  {
+   "action": "blueprint_prev",
+   "keyset": "Alt+sc_["
+  },
+  {
+   "action": "blueprint_next",
+   "keyset": "Alt+sc_]"
+  },
+  {
+   "action": "factoryqueuemode",
+   "keyset": "Alt+sc_g"
+  }
+ ],
+ "game": "Beyond All Reason test-31958-7ffdbab",
+ "hidden": [
+  "attack_range_dec",
+  "buildmenu_pregame_deselect",
+  "chat",
+  "chatswitchally",
+  "chatswitchspec",
+  "cloak",
+  "customgameinfo_close",
+  "dynamicsky",
+  "edit_backspace",
+  "edit_complete",
+  "edit_delete",
+  "edit_end",
+  "edit_escape",
+  "edit_home",
+  "edit_next_char",
+  "edit_next_line",
+  "edit_next_word",
+  "edit_prev_char",
+  "edit_prev_line",
+  "edit_prev_word",
+  "edit_return",
+  "losradar",
+  "pastetext",
+  "quitforce",
+  "quitmenu",
+  "quitmessage",
+  "reloadforce",
+  "teamstatus_close",
+  "togglecammode",
+  "togglelos",
+  "toggleoverview",
+  "track",
+  "trackmode",
+  "viewfps",
+  "viewfree",
+  "viewrot",
+  "viewspring",
+  "viewta"
+ ],
+ "labs": {
+  "armaap": {
+   "1": "armaca",
+   "2": "armhawk",
+   "3": "armbrawl",
+   "4": "armpnix",
+   "5": "armawac",
+   "6": "armdfly",
+   "7": "armlance",
+   "8": "armsfig2",
+   "9": "armliche",
+   "10": "armblade",
+   "11": "armstil"
+  },
+  "armalab": {
+   "1": "armack",
+   "2": "armfark",
+   "3": "armfast",
+   "4": "armspy",
+   "5": "armmark",
+   "6": "armaser",
+   "7": "armzeus",
+   "8": "armmav",
+   "9": "armfido",
+   "10": "armsnipe",
+   "11": "armaak",
+   "12": "armfboy"
+  },
+  "armamsub": {
+   "1": "armbeaver",
+   "2": "armdecom",
+   "3": "armpincer",
+   "5": "armcroc",
+   "10": "armjeth",
+   "11": "armaak"
+  },
+  "armap": {
+   "1": "armca",
+   "2": "armfig",
+   "3": "armkam",
+   "4": "armthund",
+   "5": "armpeep",
+   "6": "armatlas",
+   "7": "armhvytrans"
+  },
+  "armasy": {
+   "1": "armacsub",
+   "2": "armmls",
+   "3": "armcrus",
+   "4": "armmship",
+   "5": "armcarry",
+   "6": "armsjam",
+   "7": "armbats",
+   "8": "armepoch",
+   "9": "armsubk",
+   "10": "armserp",
+   "11": "armaas"
+  },
+  "armavp": {
+   "1": "armacv",
+   "2": "armconsul",
+   "3": "armbull",
+   "4": "armmart",
+   "5": "armseer",
+   "6": "armjam",
+   "7": "armmanni",
+   "8": "armst",
+   "9": "armlatnk",
+   "10": "armcroc",
+   "11": "armyork",
+   "12": "armmerl"
+  },
+  "armfhp": {
+   "1": "armch",
+   "3": "armsh",
+   "5": "armanac",
+   "6": "armmh",
+   "11": "armah"
+  },
+  "armhaap": {
+   "1": "armhaca",
+   "2": "armhawk",
+   "3": "armbrawl",
+   "4": "armpnix",
+   "5": "armawac",
+   "6": "armdfly",
+   "7": "armlance",
+   "8": "armsfig2",
+   "9": "armliche",
+   "10": "armblade",
+   "11": "armstil"
+  },
+  "armhaapuw": {
+   "1": "armhaca",
+   "2": "armsfig",
+   "3": "armsaber",
+   "4": "armsb",
+   "5": "armsehak",
+   "6": "armhvytrans",
+   "7": "armseap"
+  },
+  "armhalab": {
+   "1": "armhack",
+   "2": "armdecom",
+   "3": "armmar",
+   "4": "armaser",
+   "5": "armsnipe",
+   "6": "armfboy",
+   "7": "armzeus",
+   "8": "armspy",
+   "9": "armscab",
+   "11": "armaak"
+  },
+  "armhasy": {
+   "1": "armhacs",
+   "3": "armlship",
+   "4": "armantiship",
+   "5": "armmship",
+   "6": "armepoch",
+   "7": "armbats",
+   "9": "armserp",
+   "10": "armlun",
+   "11": "armaas"
+  },
+  "armhavp": {
+   "1": "armhacv",
+   "3": "armlatnk",
+   "4": "armjam",
+   "5": "armmanni",
+   "6": "armmerl",
+   "7": "armbull",
+   "8": "armgremlin",
+   "10": "armlun",
+   "11": "armyork"
+  },
+  "armhp": {
+   "1": "armch",
+   "3": "armsh",
+   "5": "armanac",
+   "6": "armmh",
+   "11": "armah"
+  },
+  "armlab": {
+   "1": "armck",
+   "2": "armrectr",
+   "3": "armpw",
+   "4": "armflea",
+   "5": "armrock",
+   "6": "armham",
+   "7": "armwar",
+   "11": "armjeth"
+  },
+  "armplat": {
+   "1": "armcsa",
+   "2": "armsfig",
+   "3": "armsaber",
+   "4": "armsb",
+   "5": "armsehak",
+   "6": "armseap"
+  },
+  "armshltx": {
+   "1": "armmar",
+   "2": "armraz",
+   "3": "armvang",
+   "4": "armthor",
+   "5": "armbanth",
+   "6": "armlun"
+  },
+  "armshltxuw": {
+   "1": "armbantha",
+   "2": "armmar",
+   "3": "armcroc",
+   "4": "armlun"
+  },
+  "armsy": {
+   "1": "armcs",
+   "2": "armrecl",
+   "3": "armdecade",
+   "5": "armpship",
+   "6": "armroy",
+   "9": "armsub",
+   "11": "armpt"
+  },
+  "armvp": {
+   "1": "armcv",
+   "2": "armmlv",
+   "3": "armflash",
+   "4": "armfav",
+   "5": "armstump",
+   "6": "armjanus",
+   "7": "armart",
+   "9": "armbeaver",
+   "10": "armpincer",
+   "11": "armsam"
+  },
+  "coraap": {
+   "1": "coraca",
+   "2": "corvamp",
+   "3": "corape",
+   "4": "corhurc",
+   "5": "corawac",
+   "6": "corseah",
+   "7": "cortitan",
+   "8": "corsfig2",
+   "9": "corcrw",
+   "10": "corcrwh"
+  },
+  "coralab": {
+   "1": "corack",
+   "2": "corfast",
+   "3": "corpyro",
+   "4": "corspy",
+   "5": "corvoyr",
+   "6": "corspec",
+   "7": "corcan",
+   "8": "corhrk",
+   "9": "cormort",
+   "10": "corroach",
+   "11": "coraak",
+   "12": "corsumo"
+  },
+  "coramsub": {
+   "1": "cormuskrat",
+   "2": "cordecom",
+   "3": "corgarp",
+   "5": "corseal",
+   "6": "corparrow",
+   "10": "corcrash",
+   "11": "coraak"
+  },
+  "corap": {
+   "1": "corca",
+   "2": "corveng",
+   "3": "corbw",
+   "4": "corshad",
+   "5": "corfink",
+   "6": "corvalk",
+   "7": "corhvytrans"
+  },
+  "corasy": {
+   "1": "coracsub",
+   "2": "cormls",
+   "3": "corcrus",
+   "4": "cormship",
+   "5": "corcarry",
+   "6": "corsjam",
+   "7": "corbats",
+   "8": "corblackhy",
+   "9": "corshark",
+   "10": "corssub",
+   "11": "corarch"
+  },
+  "coravp": {
+   "1": "coracv",
+   "2": "corban",
+   "3": "correap",
+   "4": "cormart",
+   "5": "corvrad",
+   "6": "coreter",
+   "7": "corgol",
+   "8": "cortrem",
+   "9": "corseal",
+   "10": "corparrow",
+   "11": "corsent",
+   "12": "corvroc"
+  },
+  "corfhp": {
+   "1": "corch",
+   "3": "corsh",
+   "5": "corsnap",
+   "6": "cormh",
+   "7": "corhal",
+   "11": "corah"
+  },
+  "corgant": {
+   "1": "corcat",
+   "2": "corkarg",
+   "3": "corshiva",
+   "4": "corkorg",
+   "5": "corjugg",
+   "6": "corsok"
+  },
+  "corgantuw": {
+   "1": "corkorg",
+   "2": "corshiva",
+   "3": "corsala",
+   "4": "corparrow",
+   "5": "corsok"
+  },
+  "corhaap": {
+   "1": "coraca",
+   "2": "corvamp",
+   "3": "corape",
+   "4": "corhurc",
+   "5": "corawac",
+   "6": "corseah",
+   "7": "cortitan",
+   "8": "corsfig2",
+   "9": "corcrw",
+   "10": "corcrwh"
+  },
+  "corhaapuw": {
+   "1": "corhaca",
+   "2": "corsfig",
+   "3": "corcut",
+   "4": "corsb",
+   "5": "corhunt",
+   "6": "corhvytrans",
+   "7": "corseap"
+  },
+  "corhalab": {
+   "1": "corhack",
+   "2": "cordecom",
+   "3": "corpyro",
+   "4": "corspec",
+   "6": "corshiva",
+   "7": "corsumo",
+   "8": "corsktl",
+   "11": "coraak"
+  },
+  "corhasy": {
+   "1": "corhacs",
+   "3": "corfship",
+   "4": "corantiship",
+   "5": "cormship",
+   "6": "corblackhy",
+   "7": "corbats",
+   "9": "corssub",
+   "10": "corsok",
+   "11": "corarch"
+  },
+  "corhavp": {
+   "1": "corhacv",
+   "3": "corsala",
+   "4": "coreter",
+   "5": "cortrem",
+   "6": "corgol",
+   "7": "corparrow",
+   "9": "cormabm",
+   "10": "corsok",
+   "11": "corsent",
+   "12": "corvroc"
+  },
+  "corhp": {
+   "1": "corch",
+   "3": "corsh",
+   "5": "corsnap",
+   "6": "cormh",
+   "7": "corhal",
+   "11": "corah"
+  },
+  "corlab": {
+   "1": "corck",
+   "2": "cornecro",
+   "3": "corak",
+   "5": "corstorm",
+   "6": "corthud",
+   "11": "corcrash"
+  },
+  "corplat": {
+   "1": "corcsa",
+   "2": "corsfig",
+   "3": "corcut",
+   "4": "corsb",
+   "5": "corhunt",
+   "6": "corseap"
+  },
+  "corsy": {
+   "1": "corcs",
+   "2": "correcl",
+   "3": "coresupp",
+   "5": "corpship",
+   "6": "corroy",
+   "9": "corsub",
+   "11": "corpt"
+  },
+  "corvp": {
+   "1": "corcv",
+   "2": "cormlv",
+   "3": "corgator",
+   "4": "corfav",
+   "5": "corraid",
+   "6": "corlevlr",
+   "7": "corwolv",
+   "9": "cormuskrat",
+   "10": "corgarp",
+   "11": "cormist"
+  },
+  "legaap": {
+   "1": "legaca",
+   "2": "legafigdef",
+   "3": "legvenator",
+   "4": "legphoenix",
+   "5": "legwhisper",
+   "6": "legstronghold",
+   "7": "legatorpbomber",
+   "9": "legfort",
+   "11": "legmineb"
+  },
+  "legadvshipyard": {
+   "1": "leganavyconsub",
+   "2": "leganavyengineer",
+   "3": "leganavycruiser",
+   "4": "leganavymissileship",
+   "5": "leganavyantinukecarrier",
+   "6": "leganavyradjamship",
+   "7": "leganavybattleship",
+   "8": "leganavyflagship",
+   "9": "leganavybattlesub",
+   "10": "leganavyheavysub",
+   "11": "leganavyaaship",
+   "12": "leganavyartyship",
+   "13": "leganavyantiswarm"
+  },
+  "legalab": {
+   "1": "legack",
+   "2": "legaceb",
+   "3": "legstr",
+   "4": "legaspy",
+   "5": "legaradk",
+   "6": "legajamk",
+   "7": "legshot",
+   "8": "leghrk",
+   "9": "legbart",
+   "10": "legsrail",
+   "11": "legadvaabot",
+   "12": "leginc",
+   "13": "legamph",
+   "14": "leginfestor",
+   "15": "legsnapper",
+   "16": "corsktl",
+   "17": "legdecom"
+  },
+  "legamphlab": {
+   "1": "legotter",
+   "2": "legdecom",
+   "3": "legamphtank",
+   "6": "legfloat",
+   "7": "legamph",
+   "10": "legaabot",
+   "11": "legadvaabot"
+  },
+  "legap": {
+   "1": "legca",
+   "2": "legfig",
+   "3": "legmos",
+   "4": "legkam",
+   "5": "legcib",
+   "6": "leglts",
+   "7": "legatrans"
+  },
+  "legavp": {
+   "1": "legacv",
+   "2": "legafcv",
+   "3": "legaskirmtank",
+   "4": "legamcluster",
+   "5": "legavrad",
+   "6": "legavjam",
+   "7": "legaheattank",
+   "8": "leginf",
+   "9": "legmrv",
+   "10": "legfloat",
+   "11": "legvflak",
+   "12": "legmed",
+   "13": "legvcarry",
+   "14": "legavroc",
+   "15": "legavantinuke"
+  },
+  "legfhp": {
+   "1": "legch",
+   "3": "legsh",
+   "5": "legner",
+   "6": "legmh",
+   "7": "legcar",
+   "11": "legah"
+  },
+  "leggant": {
+   "1": "legjav",
+   "2": "legkeres",
+   "3": "legeallterrainmech",
+   "4": "legeheatraymech",
+   "5": "legelrpcmech",
+   "6": "legehovertank",
+   "7": "legeshotgunmech",
+   "8": "legerailtank"
+  },
+  "leghaap": {
+   "1": "leghaca",
+   "2": "legafigdef",
+   "3": "legvenator",
+   "4": "legphoenix",
+   "5": "legwhisper",
+   "6": "legstronghold",
+   "7": "legatorpbomber",
+   "9": "legfort",
+   "11": "legmineb"
+  },
+  "leghalab": {
+   "1": "leghack",
+   "2": "legdecom",
+   "3": "legjav",
+   "4": "legajamk",
+   "5": "legsrail",
+   "6": "leginc",
+   "7": "legshot",
+   "10": "legamph",
+   "11": "legadvaabot"
+  },
+  "leghavp": {
+   "1": "leghacv",
+   "3": "legmrv",
+   "4": "legavjam",
+   "5": "leginf",
+   "6": "legmed",
+   "7": "legaheattank",
+   "9": "legavantinuke",
+   "10": "legehovertank",
+   "11": "legvflak",
+   "12": "legavroc"
+  },
+  "leghp": {
+   "1": "legch",
+   "3": "legsh",
+   "5": "legner",
+   "6": "legmh",
+   "7": "legcar",
+   "11": "legah"
+  },
+  "leglab": {
+   "1": "legck",
+   "2": "legrezbot",
+   "3": "leggob",
+   "5": "legbal",
+   "6": "leglob",
+   "7": "legkark",
+   "8": "legcen",
+   "11": "legaabot"
+  },
+  "legsplab": {
+   "1": "legspcon",
+   "2": "legspfighter",
+   "3": "legspsurfacegunship",
+   "4": "legspbomber",
+   "5": "legspradarsonarplane",
+   "6": "legsptorpgunship",
+   "7": "legspcarrier"
+  },
+  "legsy": {
+   "1": "legnavyconship",
+   "2": "legnavyrezsub",
+   "3": "legnavyscout",
+   "5": "legnavyfrigate",
+   "6": "legnavydestro",
+   "7": "legnavyartyship",
+   "9": "legnavysub",
+   "11": "legnavyaaship"
+  },
+  "legvp": {
+   "1": "legcv",
+   "2": "legmlv",
+   "3": "leghades",
+   "4": "legscout",
+   "5": "leghelios",
+   "6": "leggat",
+   "7": "legbar",
+   "9": "legotter",
+   "10": "legamphtank",
+   "11": "legrail"
+  }
+ },
+ "names": {
+  "armaak": "Archangel",
+  "armaap": "Advanced Aircraft Plant",
+  "armaas": "Dragonslayer",
+  "armaca": "Advanced Construction Aircraft",
+  "armack": "Advanced Construction Bot",
+  "armacsub": "Advanced Construction Sub",
+  "armacv": "Advanced Construction Vehicle",
+  "armadvsol": "Advanced Solar Collector",
+  "armafus": "Advanced Fusion Reactor",
+  "armageo": "Advanced Geothermal Powerplant",
+  "armah": "Sweeper",
+  "armalab": "Advanced Bot Lab",
+  "armamb": "Rattlesnake",
+  "armamd": "Citadel",
+  "armamex": "Twilight",
+  "armamph": "Platypus",
+  "armamsub": "Amphibious Complex",
+  "armanac": "Crocodile",
+  "armanavaldefturret": "Liquifier",
+  "armanni": "Pulsar",
+  "armantiship": "Haven",
+  "armap": "Aircraft Plant",
+  "armarad": "Advanced Radar Tower",
+  "armart": "Shellshocker",
+  "armaser": "Smuggler",
+  "armason": "Advanced Sonar Station",
+  "armassistdrone": "Assist Drone",
+  "armassistdrone_land": "Assist Vehicle",
+  "armasy": "Advanced Shipyard",
+  "armatl": "Moray",
+  "armatlas": "Stork",
+  "armavp": "Advanced Vehicle Plant",
+  "armawac": "Oracle",
+  "armbanth": "Titan",
+  "armbats": "Dreadnought",
+  "armbeamer": "Beamer",
+  "armbeaver": "Beaver",
+  "armblade": "Hornet",
+  "armbrawl": "Roughneck",
+  "armbrtha": "Basilica",
+  "armbull": "Bull",
+  "armca": "Construction Aircraft",
+  "armcarry": "Haven",
+  "armch": "Construction Hovercraft",
+  "armcir": "Chainsaw",
+  "armck": "Construction Bot",
+  "armckfus": "Cloakable Fusion Reactor",
+  "armclaw": "Dragon's Claw",
+  "armcom": "Armada Commander",
+  "armcomlvl10": "Armada Commander Level 10",
+  "armcomlvl2": "Armada Commander Level 2",
+  "armcomlvl3": "Armada Commander Level 3",
+  "armcomlvl4": "Armada Commander Level 4",
+  "armcomlvl5": "Armada Commander Level 5",
+  "armcomlvl6": "Armada Commander Level 6",
+  "armcomlvl7": "Armada Commander Level 7",
+  "armcomlvl8": "Armada Commander Level 8",
+  "armcomlvl9": "Armada Commander Level 9",
+  "armconsul": "Consul",
+  "armcroc": "Turtle",
+  "armcrus": "Paladin",
+  "armcs": "Construction Ship",
+  "armcsa": "Construction Seaplane",
+  "armcv": "Construction Vehicle",
+  "armdecade": "Dolphin",
+  "armdecom": "Commander",
+  "armdf": "Decoy Fusion Reactor",
+  "armdfly": "Abductor",
+  "armdl": "Anemone",
+  "armdrag": "Dragon's Teeth",
+  "armemp": "Paralyzer",
+  "armepoch": "Epoch",
+  "armestor": "Energy Storage",
+  "armeyes": "Beholder",
+  "armfark": "Butler",
+  "armfast": "Sprinter",
+  "armfatf": "Naval Pinpointer",
+  "armfav": "Rover",
+  "armfboy": "Fatboy",
+  "armfdrag": "Shark's Teeth",
+  "armferret": "Ferret",
+  "armfflak": "Naval Arbalest",
+  "armfhlt": "Manta",
+  "armfhp": "Naval Hovercraft Platform",
+  "armfido": "Hound",
+  "armfig": "Falcon",
+  "armflak": "Arbalest",
+  "armflash": "Blitz",
+  "armflea": "Tick",
+  "armfmine3": "Heavy Mine",
+  "armfmkr": "Naval Energy Converter",
+  "armfort": "Fortification Wall",
+  "armfrad": "Naval Radar / Sonar Tower",
+  "armfrock": "Scumbag",
+  "armfrt": "Naval Nettle",
+  "armfus": "Fusion Reactor",
+  "armgate": "Keeper",
+  "armgeo": "Geothermal Powerplant",
+  "armgmm": "Prude",
+  "armgremlin": "Gremlin",
+  "armguard": "Gauntlet",
+  "armhaap": "Experimental Aircraft Plant",
+  "armhaapuw": "Advanced Aircraft Plant",
+  "armhaca": "Experimental Construction Aircraft",
+  "armhack": "Butler",
+  "armhacs": "Voyager",
+  "armhacv": "Consul",
+  "armhalab": "Experimental Bot Lab",
+  "armham": "Mace",
+  "armhasy": "Experimental Shipyard",
+  "armhavp": "Experimental Vehicle Plant",
+  "armhawk": "Highwind",
+  "armhlt": "Overwatch",
+  "armhp": "Hovercraft Platform",
+  "armhvytrans": "Osprey",
+  "armjam": "Umbra",
+  "armjamt": "Sneaky Pete",
+  "armjanus": "Janus",
+  "armjeth": "Crossbow",
+  "armjuno": "Juno",
+  "armkam": "Banshee",
+  "armkraken": "Gorgon",
+  "armlab": "Bot Lab",
+  "armlance": "Cormorant",
+  "armlatnk": "Jaguar",
+  "armliche": "Liche",
+  "armllt": "Sentry",
+  "armlship": "Maelstrom",
+  "armlun": "Lunkhead",
+  "armmakr": "Energy Converter",
+  "armmanni": "Starlight",
+  "armmar": "Marauder",
+  "armmark": "Compass",
+  "armmart": "Mauser",
+  "armmav": "Gunslinger",
+  "armmercury": "Mercury",
+  "armmerl": "Ambassador",
+  "armmex": "Metal Extractor",
+  "armmh": "Possum",
+  "armmine1": "Light Mine",
+  "armmine2": "Medium Mine",
+  "armmine3": "Heavy Mine",
+  "armmls": "Voyager",
+  "armmlv": "Groundhog",
+  "armmmkr": "Advanced Energy Converter",
+  "armmoho": "Advanced Metal Extractor",
+  "armmship": "Longbow",
+  "armmstor": "Metal Storage",
+  "armnanotc": "Construction Turret",
+  "armnanotcplat": "Naval Construction Turret",
+  "armnavaldefturret": "Cauteriser",
+  "armpb": "Pit Bull",
+  "armpeep": "Blink",
+  "armpincer": "Pincer",
+  "armplat": "Seaplane Platform",
+  "armpnix": "Blizzard",
+  "armpship": "Ellysaw",
+  "armpt": "Skater",
+  "armpw": "Pawn",
+  "armrad": "Radar Tower",
+  "armraz": "Razorback",
+  "armrecl": "Grim Reaper",
+  "armrectr": "Lazarus",
+  "armrl": "Nettle",
+  "armrock": "Rocketeer",
+  "armroy": "Corsair",
+  "armsaber": "Sabre",
+  "armsam": "Whistler",
+  "armsb": "Tsunami",
+  "armscab": "Umbrella",
+  "armsd": "Tracer",
+  "armseap": "Puffin",
+  "armseer": "Prophet",
+  "armsehak": "Horizon",
+  "armserp": "Serpent",
+  "armsfig": "Cyclone",
+  "armsfig2": "Cyclone",
+  "armsh": "Seeker",
+  "armshltx": "Experimental Gantry",
+  "armshltxuw": "Experimental Gantry",
+  "armshockwave": "Shockwave",
+  "armsilo": "Armageddon",
+  "armsjam": "Bermuda",
+  "armsnipe": "Sharpshooter",
+  "armsolar": "Solar Collector",
+  "armspid": "Webber",
+  "armspy": "Ghost",
+  "armstil": "Stiletto",
+  "armstump": "Stout",
+  "armsub": "Eel",
+  "armsubk": "Barracuda",
+  "armsy": "Shipyard",
+  "armtarg": "Pinpointer",
+  "armthor": "Thor",
+  "armthund": "Stormbringer",
+  "armtide": "Tidal Generator",
+  "armtl": "Harpoon",
+  "armuwadves": "Hardened Energy Storage",
+  "armuwadvms": "Hardened Metal Storage",
+  "armuwageo": "Advanced Geothermal Powerplant",
+  "armuwes": "Naval Energy Storage",
+  "armuwfus": "Naval Fusion Reactor",
+  "armuwmme": "Naval Advanced Metal Extractor",
+  "armuwmmm": "Naval Advanced Energy Converter",
+  "armuwms": "Naval Metal Storage",
+  "armvang": "Vanguard",
+  "armveil": "Veil",
+  "armvp": "Vehicle Plant",
+  "armvulc": "Ragnarok",
+  "armwar": "Centurion",
+  "armwin": "Wind Turbine",
+  "armyork": "Shredder",
+  "armzeus": "Welder",
+  "coraak": "Manticore",
+  "coraap": "Advanced Aircraft Plant",
+  "coraca": "Advanced Construction Aircraft",
+  "corack": "Advanced Construction Bot",
+  "coracsub": "Advanced Construction Sub",
+  "coracv": "Advanced Construction Vehicle",
+  "coradvsol": "Advanced Solar Collector",
+  "corafus": "Advanced Fusion Reactor",
+  "corageo": "Advanced Geothermal Powerplant",
+  "corah": "Birdeater",
+  "corak": "Grunt",
+  "coralab": "Advanced Bot Lab",
+  "coramph": "Duck",
+  "coramsub": "Amphibious Complex",
+  "coranavaldefturret": "Orthrus",
+  "corantiship": "Oasis",
+  "corap": "Aircraft Plant",
+  "corape": "Wasp",
+  "corarad": "Advanced Radar Tower",
+  "corarch": "Arrow Storm",
+  "corason": "Advanced Sonar Station",
+  "corassistdrone": "Assist Drone",
+  "corassistdrone_land": "Assist Vehicle",
+  "corasy": "Advanced Shipyard",
+  "coratl": "Lamprey",
+  "coravp": "Advanced Vehicle Plant",
+  "corawac": "Condor",
+  "corban": "Banisher",
+  "corbats": "Despot",
+  "corbhmth": "Cerberus",
+  "corblackhy": "Black Hydra",
+  "corbuzz": "Calamity",
+  "corbw": "Shuriken",
+  "corca": "Construction Aircraft",
+  "corcan": "Sumo",
+  "corcarry": "Oasis",
+  "corcat": "Catapult",
+  "corch": "Construction Hovercraft",
+  "corck": "Construction Bot",
+  "corcom": "Cortex Commander",
+  "corcomlvl10": "Cortex Commander Level 10",
+  "corcomlvl2": "Cortex Commander Level 2",
+  "corcomlvl3": "Cortex Commander Level 3",
+  "corcomlvl4": "Cortex Commander Level 4",
+  "corcomlvl5": "Cortex Commander Level 5",
+  "corcomlvl6": "Cortex Commander Level 6",
+  "corcomlvl7": "Cortex Commander Level 7",
+  "corcomlvl8": "Cortex Commander Level 8",
+  "corcomlvl9": "Cortex Commander Level 9",
+  "corcrash": "Trasher",
+  "corcrus": "Buccaneer",
+  "corcrw": "Archaic Dragon",
+  "corcrwh": "Dragon",
+  "corcs": "Construction Ship",
+  "corcsa": "Construction Seaplane",
+  "corcut": "Cutlass",
+  "corcv": "Construction Vehicle",
+  "cordecom": "Commander",
+  "cordl": "Jellyfish",
+  "cordoom": "Bulwark",
+  "cordrag": "Dragon's Teeth",
+  "corenaa": "Naval Birdshot",
+  "corerad": "Eradicator",
+  "corestor": "Energy Storage",
+  "coresupp": "Supporter",
+  "coreter": "Obscurer",
+  "corexp": "Exploiter",
+  "coreyes": "Beholder",
+  "corfast": "Twitcher",
+  "corfatf": "Naval Pinpointer",
+  "corfav": "Rascal",
+  "corfdoom": "Devastator",
+  "corfdrag": "Shark's Teeth",
+  "corfhlt": "Coral",
+  "corfhp": "Naval Hovercraft Platform",
+  "corfink": "Finch",
+  "corflak": "Birdshot",
+  "corfmd": "Prevailer",
+  "corfmine3": "Heavy Mine",
+  "corfmkr": "Naval Energy Converter",
+  "corfort": "Fortification Wall",
+  "corfrad": "Naval Radar / Sonar Tower",
+  "corfrt": "Slingshot",
+  "corfship": "Brimstone",
+  "corfus": "Fusion Reactor",
+  "corgant": "Experimental Gantry",
+  "corgantuw": "Experimental Gantry",
+  "corgarp": "Garpike",
+  "corgate": "Overseer",
+  "corgator": "Incisor",
+  "corgeo": "Geothermal Powerplant",
+  "corgol": "Tzar",
+  "corhaap": "Experimental Aircraft Plant",
+  "corhaapuw": "Advanced Aircraft Plant",
+  "corhaca": "Experimental Construction Aircraft",
+  "corhack": "Twitcher",
+  "corhacs": "Pathfinder",
+  "corhacv": "Printer",
+  "corhal": "Halberd",
+  "corhalab": "Experimental Bot Lab",
+  "corhasy": "Experimental Shipyard",
+  "corhavp": "Experimental Vehicle Plant",
+  "corhllt": "Twin Guard",
+  "corhlt": "Warden",
+  "corhp": "Hovercraft Platform",
+  "corhrk": "Arbiter",
+  "corhunt": "Watcher",
+  "corhurc": "Hailstorm",
+  "corhvytrans": "Hephaestus",
+  "corint": "Basilisk",
+  "corjamt": "Castro",
+  "corjugg": "Behemoth",
+  "corjuno": "Juno",
+  "corkarg": "Karganeth",
+  "corkorg": "Juggernaut",
+  "corlab": "Bot Lab",
+  "corlevlr": "Pounder",
+  "corllt": "Guard",
+  "cormabm": "Saviour",
+  "cormadsam": "SAM",
+  "cormakr": "Energy Converter",
+  "cormando": "Commando",
+  "cormart": "Quaker",
+  "cormaw": "Dragon's Maw",
+  "cormex": "Metal Extractor",
+  "cormexp": "Advanced Exploiter",
+  "cormh": "Mangonel",
+  "cormine1": "Light Mine",
+  "cormine2": "Medium Mine",
+  "cormine3": "Heavy Mine",
+  "cormist": "Lasher",
+  "cormls": "Pathfinder",
+  "cormlv": "Trapper",
+  "cormmkr": "Advanced Energy Converter",
+  "cormoho": "Advanced Metal Extractor",
+  "cormort": "Sheldon",
+  "cormship": "Messenger",
+  "cormstor": "Metal Storage",
+  "cormuskrat": "Muskrat",
+  "cornanotc": "Construction Turret",
+  "cornanotcplat": "Naval Construction Turret",
+  "cornavaldefturret": "Cyclops",
+  "cornecro": "Graverobber",
+  "corparrow": "Poison Arrow",
+  "corplat": "Seaplane Platform",
+  "corprinter": "Printer",
+  "corpship": "Riptide",
+  "corpt": "Herring",
+  "corpun": "Agitator",
+  "corpyro": "Fiend",
+  "corrad": "Radar Tower",
+  "corraid": "Brute",
+  "correap": "Tiger",
+  "correcl": "Death Cavalry",
+  "corrl": "Thistle",
+  "corroach": "Bedbug",
+  "corroy": "Oppressor",
+  "corsala": "Salamander",
+  "corsb": "Dam Buster",
+  "corscreamer": "Screamer",
+  "corsd": "Nemesis",
+  "corseah": "Skyhook",
+  "corseal": "Alligator",
+  "corseap": "Monsoon",
+  "corsent": "Fury",
+  "corsfig": "Bat",
+  "corsfig2": "Bat",
+  "corsh": "Goon",
+  "corshad": "Whirlwind",
+  "corshark": "Predator",
+  "corshiva": "Shiva",
+  "corshroud": "Shroud",
+  "corsilo": "Apocalypse",
+  "corsjam": "Phantasm",
+  "corsktl": "Skuttle",
+  "corsnap": "Cayman",
+  "corsok": "Cataphract",
+  "corsolar": "Solar Collector",
+  "corspec": "Deceiver",
+  "corspy": "Spectre",
+  "corssub": "Kraken",
+  "corstorm": "Aggravator",
+  "corsub": "Orca",
+  "corsumo": "Mammoth",
+  "corsy": "Shipyard",
+  "cortarg": "Pinpointer",
+  "cortermite": "Termite",
+  "corthud": "Thug",
+  "cortide": "Tidal Generator",
+  "cortitan": "Angler",
+  "cortl": "Urchin",
+  "cortoast": "Persecutor",
+  "cortrem": "Tremor",
+  "cortron": "Catalyst",
+  "coruwadves": "Hardened Energy Storage",
+  "coruwadvms": "Hardened Metal Storage",
+  "coruwageo": "Advanced Geothermal Powerplant",
+  "coruwes": "Naval Energy Storage",
+  "coruwfus": "Naval Fusion Reactor",
+  "coruwmme": "Naval Advanced Metal Extractor",
+  "coruwmmm": "Naval Advanced Energy Converter",
+  "coruwms": "Naval Metal Storage",
+  "corvalk": "Hercules",
+  "corvamp": "Nighthawk",
+  "corveng": "Valiant",
+  "corvipe": "Scorpion",
+  "corvoyr": "Augur",
+  "corvp": "Vehicle Plant",
+  "corvrad": "Omen",
+  "corvroc": "Negotiator",
+  "corwin": "Wind Turbine",
+  "corwolv": "Wolverine",
+  "legaabot": "Toxotai",
+  "legaap": "Legion Advanced Aircraft Plant",
+  "legabm": "Aegis",
+  "legaca": "Advanced Construction Aircraft",
+  "legaceb": "Proteus",
+  "legack": "Advanced Construction Bot",
+  "legacluster": "Eviscerator",
+  "legacv": "Advanced Construction Vehicle",
+  "legadvaabot": "Aquilon",
+  "legadveconv": "Advanced Energy Converter",
+  "legadvestore": "Hardened Energy Storage",
+  "legadvshipyard": "Advanced Shipyard",
+  "legadvsol": "Advanced Solar Collector",
+  "legafcv": "Aceso",
+  "legafigdef": "Ajax",
+  "legafus": "Advanced Fusion Reactor",
+  "legageo": "Advanced Geothermal Powerplant",
+  "legah": "Alpheus",
+  "legaheattank": "Prometheus",
+  "legajam": "Erebus",
+  "legajamk": "Tiresias",
+  "legalab": "Legion Advanced Bot Lab",
+  "legamcluster": "Cleaver",
+  "legamph": "Telchine",
+  "legamphlab": "Amphibious Complex",
+  "legamphtank": "Cetus",
+  "legamstor": "Hardened Metal Storage",
+  "leganavalaaturret": "Fulmen",
+  "leganavaladvgeo": "Advanced Underwater Geothermal Powerplant",
+  "leganavaldefturret": "Ionia",
+  "leganavaleconv": "Naval Advanced Energy Converter",
+  "leganavalfusion": "Naval Fusion Reactor",
+  "leganavalmex": "Advanced Underwater Metal Extractor",
+  "leganavalpinpointer": "Naval Pinpointer",
+  "leganavalsonarstation": "Auscultor",
+  "leganavaltorpturret": "Delphinus",
+  "leganavyaaship": "Notus",
+  "leganavyantinukecarrier": "Hecate",
+  "leganavyantiswarm": "Leocampus",
+  "leganavyartyship": "Corinth",
+  "leganavybattleship": "Scylla",
+  "leganavybattlesub": "Architeuthis",
+  "leganavyconsub": "Advanced Construction Submarine",
+  "leganavycruiser": "Thalassa",
+  "leganavyengineer": "Artifex",
+  "leganavyflagship": "Neptune",
+  "leganavyheavysub": "Sphyrna",
+  "leganavymissileship": "Ultor",
+  "leganavyradjamship": "Dolus",
+  "legap": "Legion Drone Plant",
+  "legapopupdef": "Chimera",
+  "legarad": "Advanced Radar Tower",
+  "legaradk": "Euclid",
+  "legaskirmtank": "Gladiator",
+  "legaspy": "Eidolon",
+  "legassistdrone": "Assist Drone",
+  "legassistdrone_land": "Assist Vehicle",
+  "legatorpbomber": "Aesacus",
+  "legatrans": "Hippotes",
+  "legavantinuke": "Hera",
+  "legavjam": "Cicero",
+  "legavp": "Advanced Vehicle Plant",
+  "legavrad": "Pheme",
+  "legavroc": "Boreas",
+  "legbal": "Ballista",
+  "legbar": "Barrage",
+  "legbart": "Belcher",
+  "legbastion": "Bastion",
+  "legca": "Legion Construction Aircraft",
+  "legcar": "Cardea",
+  "legcen": "Phobos",
+  "legch": "Construction Hovercraft",
+  "legcib": "Blindfold",
+  "legck": "Legion Construction Bot",
+  "legcluster": "Amputator",
+  "legcom": "Legion Commander",
+  "legcomlvl10": "Legion Commander Level 10",
+  "legcomlvl2": "Legion Commander Level 2",
+  "legcomlvl3": "Legion Commander Level 3",
+  "legcomlvl4": "Legion Commander Level 4",
+  "legcomlvl5": "Legion Commander Level 5",
+  "legcomlvl6": "Legion Commander Level 6",
+  "legcomlvl7": "Legion Commander Level 7",
+  "legcomlvl8": "Legion Commander Level 8",
+  "legcomlvl9": "Legion Commander Level 9",
+  "legctl": "Euryale",
+  "legcv": "Legion Construction Vehicle",
+  "legdecom": "Legion Commander",
+  "legdeflector": "Soteria",
+  "legdrag": "Dragon's Teeth",
+  "legdtr": "Dragon's Jaw",
+  "legeallterrainmech": "Myrmidon",
+  "legeconv": "Energy Converter",
+  "legeheatraymech": "Sol Invictus",
+  "legehovertank": "Charybdis",
+  "legelrpcmech": "Astraeus",
+  "legerailtank": "Daedalus",
+  "legeshotgunmech": "Praetorian",
+  "legestor": "Energy Storage",
+  "legeyes": "Argus",
+  "legfdrag": "Shark's Teeth",
+  "legfeconv": "Naval Energy Converter",
+  "legfhive": "Naval Hive",
+  "legfhp": "Offshore Hovercraft Platform",
+  "legfig": "Noctua",
+  "legflak": "Pluto",
+  "legfloat": "Triton",
+  "legfmg": "Gelasma",
+  "legfort": "Tyrannus",
+  "legforti": "Fortification Wall",
+  "legfrad": "Naval Radar / Sonar Tower",
+  "legfrl": "Polybolos",
+  "legfus": "Fusion Reactor",
+  "leggant": "Experimental Gantry",
+  "leggantuw": "Experimental Gantry",
+  "leggat": "Decurion",
+  "leggeo": "Geothermal Powerplant",
+  "leggob": "Goblin",
+  "leghaap": "Legion Experimental Aircraft Plant",
+  "leghaca": "Experimental Construction Aircraft",
+  "leghack": "Proteus",
+  "leghacv": "Aceso",
+  "leghades": "Alaris",
+  "leghalab": "Experimental Bot Lab",
+  "leghavp": "Experimental Vehicle Plant",
+  "leghelios": "Helios",
+  "leghive": "Hive",
+  "leghp": "Hovercraft Platform",
+  "leghrk": "Thanatos",
+  "leginc": "Incinerator",
+  "leginf": "Inferno",
+  "leginfestor": "Infestor",
+  "legjam": "Nyx",
+  "legjav": "Javelin",
+  "legjuno": "Juno",
+  "legkam": "Martyr",
+  "legkark": "Karkinos",
+  "legkeres": "Keres",
+  "leglab": "Legion Bot Lab",
+  "leglht": "Pharos",
+  "leglob": "Satyr",
+  "leglraa": "Xyston",
+  "leglrpc": "Olympus",
+  "leglts": "Aeolus",
+  "leglupara": "Lupara",
+  "legmed": "Medusa",
+  "legmex": "Metal Extractor",
+  "legmext15": "Overcharged Metal Extractor",
+  "legmg": "Cacophony",
+  "legmh": "Salacia",
+  "legmine1": "Light Mine",
+  "legmine2": "Medium Mine",
+  "legmine3": "Heavy Mine",
+  "legmineb": "Harbinger",
+  "legmlv": "Sapper",
+  "legmoho": "Advanced Metal Extractor",
+  "legmohocon": "Advanced Metal Fortifier",
+  "legmos": "Mosquito",
+  "legmrv": "Quickshot",
+  "legmstor": "Metal Storage",
+  "legnanotc": "Construction Turret",
+  "legnanotcplat": "Naval Construction Turret",
+  "legnavaldefturret": "Phorcys",
+  "legnavyaaship": "Iapetus",
+  "legnavyartyship": "Octeres",
+  "legnavyconship": "Construction Ship",
+  "legnavydestro": "Syracusia",
+  "legnavyfrigate": "Argonaut",
+  "legnavyrezsub": "Dionysus",
+  "legnavyscout": "Hippocampus",
+  "legnavysub": "Ketea",
+  "legner": "Nereus",
+  "legotter": "Otter",
+  "legperdition": "Perdition",
+  "legphoenix": "Phoenix",
+  "legrad": "Radar Tower",
+  "legrail": "Lance",
+  "legrampart": "Rampart",
+  "legrezbot": "Zagreus",
+  "legrhapsis": "Rhapsis",
+  "legrl": "Bramble",
+  "legscout": "Wheelie",
+  "legsd": "Ichnaea",
+  "legsh": "Glaucus",
+  "legshot": "Phalanx",
+  "legsilo": "Supernova",
+  "legsnapper": "Snapper",
+  "legsolar": "Solar Collector",
+  "legspbomber": "Pyrphoros",
+  "legspcarrier": "Hecatoncheir",
+  "legspcon": "Construction Seaplane",
+  "legspfighter": "Astrapios",
+  "legsplab": "Offshore Seaplane Platform",
+  "legspradarsonarplane": "Okeanos",
+  "legspsurfacegunship": "Enyo",
+  "legsptorpgunship": "Ladon",
+  "legsrail": "Arquebus",
+  "legstarfall": "Starfall",
+  "legstr": "Hoplite",
+  "legstronghold": "Stronghold",
+  "legsy": "Shipyard",
+  "legtarg": "Pinpointer",
+  "legtide": "Tidal Generator",
+  "legtl": "Stheno",
+  "leguwestore": "Naval Energy Storage",
+  "leguwmstore": "Naval Metal Storage",
+  "legvcarry": "Mantis",
+  "legvenator": "Venator",
+  "legvflak": "Charon",
+  "legvp": "Legion Vehicle Plant",
+  "legwhisper": "Whisper",
+  "legwin": "Wind Turbine"
+ },
+ "profile": "Grid"
+}
